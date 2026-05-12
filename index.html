@@ -3,80 +3,165 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Geekish — Tech News, Gadgets, AI & Creator Tools</title>
-  <meta name="description" content="Geekish covers AI, gadgets, apps, gaming, creator tools, reviews, guides, and tech deals without the boring fluff." />
+  <title>Geekish — AI, Gadgets, Gaming & Creator Tech</title>
+  <meta name="description" content="Geekish makes tech easier to follow with fast AI news, gadget finds, gaming culture, creator tools, quizzes, reviews, and practical guides." />
+  <meta property="og:title" content="Geekish — Tech without the boring fluff" />
+  <meta property="og:description" content="AI, gadgets, gaming, creator tools, quizzes, reviews, and guides built for people who live online." />
+  <meta property="og:type" content="website" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <div class="page-glow" aria-hidden="true"></div>
+
   <div class="topbar">
-    <div class="wrap">⚡ <strong>Trending now:</strong> AI wearables, foldable phones, gaming handhelds, creator tools</div>
+    <div class="wrap topbar-inner">
+      <span>⚡ Daily tech drops are being built now</span>
+      <a href="#channels">Explore channels</a>
+    </div>
   </div>
 
   <header class="site-header">
     <div class="wrap nav">
-      <a class="logo" href="#">Geekish</a>
+      <a class="logo" href="#top" aria-label="Geekish home">Geekish</a>
       <nav class="links" aria-label="Primary navigation">
-        <a href="#ai">AI</a>
-        <a href="#gadgets">Gadgets</a>
-        <a href="#apps">Apps</a>
-        <a href="#gaming">Gaming</a>
-        <a href="#reviews">Reviews</a>
+        <a href="#latest">Latest</a>
+        <a href="#channels">Channels</a>
+        <a href="#videos">Videos</a>
         <a href="#guides">Guides</a>
-        <a href="#deals">Deals</a>
+        <a href="#contact">Work with us</a>
       </nav>
       <div class="actions">
-        <button class="ghost">Search</button>
-        <button class="subscribe">Subscribe</button>
+        <a class="ghost" href="#latest">Read</a>
+        <a class="subscribe" href="#newsletter">Subscribe</a>
       </div>
     </div>
   </header>
 
-  <main class="wrap">
-    <section class="hero" aria-label="Featured stories">
+  <main id="top">
+    <section class="wrap hero" aria-label="Geekish featured story">
       <article class="feature-card">
-        <div class="hero-art" aria-hidden="true"><div class="device">AI</div></div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="orb one"></div>
+          <div class="orb two"></div>
+          <div class="device"><span>AI</span></div>
+        </div>
         <div class="feature-copy">
-          <span class="tag">Breaking • AI Gadgets</span>
-          <h1>The next wave of AI devices is coming for your pocket</h1>
-          <p>From wearable assistants to pocket-sized creators, Geekish breaks down what actually matters — and what’s just hype.</p>
-          <div class="meta"><span>By Geekish Staff</span><span>6 min read</span><span>Updated today</span></div>
+          <span class="tag">Geekish Launch Desk</span>
+          <h1>Tech news, gadgets, AI tools & internet culture — minus the boring fluff.</h1>
+          <p>Geekish is becoming a daily hub for quick explainers, smart buying guides, creator tools, gaming culture, and short-form videos built for YouTube, Instagram, and TikTok.</p>
+          <div class="hero-buttons">
+            <a class="primary" href="#latest">See what we cover</a>
+            <a class="secondary" href="#channels">View channels</a>
+          </div>
+          <div class="meta"><span>AI</span><span>Gadgets</span><span>Gaming</span><span>Creator Tools</span></div>
         </div>
       </article>
 
-      <aside class="trending" aria-label="Trending stories">
-        <h2>Trending</h2>
-        <a class="trend" href="#"><span>01</span><strong>5 apps quietly changing how creators edit videos</strong><small>Apps • 3 min</small></a>
-        <a class="trend" href="#"><span>02</span><strong>Best budget gadgets under $50 this week</strong><small>Deals • 5 min</small></a>
-        <a class="trend" href="#"><span>03</span><strong>Gaming handhelds are becoming the new consoles</strong><small>Gaming • 4 min</small></a>
+      <aside class="trend-panel" aria-label="Trending topics">
+        <h2>Today’s watchlist</h2>
+        <a class="trend" href="#latest"><span>01</span><strong>AI apps that can actually save creators time</strong><small>Creator Tools • Quick read</small></a>
+        <a class="trend" href="#latest"><span>02</span><strong>Budget gadgets that make phone videos look pro</strong><small>Gear • Under $50</small></a>
+        <a class="trend" href="#videos"><span>03</span><strong>Geek quizzes built for Shorts and Reels</strong><small>Gaming • Video-first</small></a>
+        <a class="trend" href="#guides"><span>04</span><strong>Simple setups for people starting online brands</strong><small>Guides • Practical</small></a>
       </aside>
     </section>
 
-    <section class="article-grid" aria-label="Latest articles">
-      <article class="card"><div class="thumb ai"></div><div class="body"><span class="category">AI</span><h3>How to use AI without making your content feel fake</h3><p>A practical creator guide for smarter workflows and better taste.</p><small>Guide • 7 min</small></div></article>
-      <article class="card"><div class="thumb gear"></div><div class="body"><span class="category">Reviews</span><h3>This tiny mic upgrade makes phone videos sound pro</h3><p>Clean audio, simple setup, and creator-friendly pricing.</p><small>Review • 4 min</small></div></article>
-      <article class="card"><div class="thumb gaming"></div><div class="body"><span class="category">Gaming</span><h3>The retro console trend is bigger than nostalgia</h3><p>Why old-school gaming is powering a new wave of devices.</p><small>Feature • 6 min</small></div></article>
+    <section class="wrap stats" aria-label="Geekish focus areas">
+      <div><strong>Daily</strong><span>tech story ideas</span></div>
+      <div><strong>Shorts</strong><span>video-first formats</span></div>
+      <div><strong>Guides</strong><span>useful, not boring</span></div>
+      <div><strong>Deals</strong><span>creator-friendly gear</span></div>
     </section>
 
-    <section class="lower">
+    <section id="latest" class="wrap section">
+      <div class="section-head">
+        <span class="eyebrow">Latest desk</span>
+        <h2>What Geekish will cover first</h2>
+        <p>Fast stories and evergreen posts that can also become Shorts, Reels, carousels, and newsletter drops.</p>
+      </div>
+      <div class="article-grid">
+        <article class="card"><div class="thumb ai"></div><div class="body"><span class="category">AI</span><h3>How to use AI without making your content feel fake</h3><p>A practical creator guide for better workflows, stronger hooks, and human taste.</p><small>Guide • 7 min</small></div></article>
+        <article class="card"><div class="thumb gear"></div><div class="body"><span class="category">Gear</span><h3>The tiny upgrades that make phone videos look expensive</h3><p>Audio, lighting, mounts, and editing tools for creators starting lean.</p><small>Creator Gear • 5 min</small></div></article>
+        <article class="card"><div class="thumb gaming"></div><div class="body"><span class="category">Gaming</span><h3>Why retro gaming keeps winning the internet</h3><p>Handhelds, nostalgia, collections, and quiz formats built for engagement.</p><small>Feature • 6 min</small></div></article>
+      </div>
+    </section>
+
+    <section id="channels" class="wrap section">
+      <div class="section-head narrow">
+        <span class="eyebrow">Channel network</span>
+        <h2>Three channels we can build around one content engine</h2>
+      </div>
+      <div class="channel-grid">
+        <article class="channel-card main-channel">
+          <span>01</span>
+          <h3>Geekish</h3>
+          <p>Tech news, AI tools, gadgets, apps, creator gear, explainers, and buying guides.</p>
+          <ul><li>Daily quick posts</li><li>Short-form tech explainers</li><li>Website articles</li></ul>
+        </article>
+        <article class="channel-card">
+          <span>02</span>
+          <h3>Geek Quiz Lab</h3>
+          <p>Gaming, movies, tech, and internet culture quizzes designed for comments and replays.</p>
+          <ul><li>YouTube Shorts</li><li>Instagram Reels</li><li>Batch production</li></ul>
+        </article>
+        <article class="channel-card">
+          <span>03</span>
+          <h3>Vibe Loops</h3>
+          <p>Visual music-inspired loops, lyric-style edits, and nostalgic mood content with careful platform-safe audio choices.</p>
+          <ul><li>Atmospheric visuals</li><li>Throwback energy</li><li>Short loops</li></ul>
+        </article>
+      </div>
+    </section>
+
+    <section id="videos" class="wrap section split">
       <div>
-        <h2>Latest Reviews</h2>
-        <div class="review-list">
-          <a class="mini" href="#"><div></div><span><strong>Smart ring vs smartwatch: which one belongs on your wrist?</strong><small>Wearables • Today</small></span></a>
-          <a class="mini" href="#"><div></div><span><strong>The creator desk setup that looks expensive but isn’t</strong><small>Gear • Yesterday</small></span></a>
-          <a class="mini" href="#"><div></div><span><strong>AI browser extensions worth installing — and which to skip</strong><small>Apps • Yesterday</small></span></a>
+        <span class="eyebrow">Video pipeline</span>
+        <h2>Built for YouTube Shorts + Instagram Reels</h2>
+        <p class="lead">Every article idea should be able to become at least one short video. Every short video should be able to become a post, story, and website item.</p>
+        <div class="video-list">
+          <a class="mini" href="#"><div class="mini-thumb neon"></div><span><strong>Hard Mode Gaming Quiz: Guess before the timer runs out</strong><small>Shorts/Reels format</small></span></a>
+          <a class="mini" href="#"><div class="mini-thumb blue"></div><span><strong>3 AI tools creators should test this week</strong><small>Tech explainer</small></span></a>
+          <a class="mini" href="#"><div class="mini-thumb pink"></div><span><strong>Budget desk setup upgrades under $50</strong><small>Affiliate-ready idea</small></span></a>
         </div>
       </div>
-
-      <aside class="newsletter">
+      <aside id="newsletter" class="newsletter">
         <h2>Get smarter about tech in 5 minutes.</h2>
         <p>Weekly Geekish drops: AI tools, gadget finds, creator gear, and quick explainers without the boring fluff.</p>
-        <form><input type="email" placeholder="email@example.com" aria-label="Email address" /><button type="submit">Join</button></form>
+        <form name="newsletter" onsubmit="event.preventDefault(); alert('Newsletter signup is coming soon.');">
+          <input type="email" placeholder="email@example.com" aria-label="Email address" />
+          <button type="submit">Join</button>
+        </form>
+        <small>No spam. Just useful tech.</small>
       </aside>
+    </section>
+
+    <section id="guides" class="wrap section guide-band">
+      <div>
+        <span class="eyebrow">Creator playbooks</span>
+        <h2>Simple guides coming next</h2>
+      </div>
+      <div class="guide-grid">
+        <a href="#"><strong>Start a niche channel in 7 days</strong><span>Planning, posting, batching, and first monetization steps.</span></a>
+        <a href="#"><strong>Beginner AI creator toolkit</strong><span>Research, writing, visuals, editing, and scheduling workflows.</span></a>
+        <a href="#"><strong>Gear that actually matters</strong><span>What to buy first when you’re building content on a budget.</span></a>
+      </div>
+    </section>
+
+    <section id="contact" class="wrap contact">
+      <div>
+        <span class="eyebrow">Work with Geekish</span>
+        <h2>Have a tool, product, or creator project?</h2>
+        <p>Geekish is open to creator tech coverage, product spotlights, simple sponsorships, and content collaborations as the network grows.</p>
+      </div>
+      <a class="primary" href="mailto:techbot954@gmail.com">Contact Geekish</a>
     </section>
   </main>
 
   <footer>
-    <div class="wrap footer-inner"><strong>Geekish</strong><span>Tech news, reviews, guides & creator tools.</span></div>
+    <div class="wrap footer-inner">
+      <strong>Geekish</strong>
+      <span>AI • Gadgets • Gaming • Creator Tools • Guides</span>
+    </div>
   </footer>
 </body>
 </html>
