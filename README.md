@@ -39,3 +39,7 @@ Static image posts are allowed and encouraged. Not every article needs a video. 
 - Optional Reel/TikTok/Short when the topic deserves motion
 
 Default rule: if time is tight, make a strong image post first, then make video later.
+
+## Real image files
+
+The live homepage uses PNG images from `social-images-png/` so story pictures render reliably. SVG source files remain in `social-images/`.
