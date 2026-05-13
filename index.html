@@ -5,9 +5,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Geekish — Technology News & Blog</title>
   <meta name="description" content="Geekish is a clean, fun technology news and blog site covering AI, gadgets, apps, gaming tech, creator tools, and the future of the internet." />
+  <link rel="canonical" href="https://thegeekish.com/" />
   <meta property="og:title" content="Geekish — Technology News & Blog" />
   <meta property="og:description" content="Fresh tech news, smart blog posts, AI updates, gadget stories, and social-first tech coverage." />
   <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://thegeekish.com/" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Geekish — Technology News & Blog" />
+  <meta name="twitter:description" content="AI, gadgets, apps, gaming tech, creator tools, and internet culture without boring tech-site energy." />
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Geekish",
+      "url": "https://thegeekish.com/",
+      "description": "Geekish covers AI, gadgets, apps, gaming tech, creator tools, and internet culture with a social-first technology news style.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Geekish"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://thegeekish.com/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+  </script>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -27,10 +50,13 @@
 
   <header class="site-header">
     <div class="wrap nav">
-      <a class="logo" href="#top">Geekish</a>
+      <a class="logo" href="/">Geekish</a>
       <nav class="links" aria-label="Primary navigation">
+        <a href="#discover-feed">Feed</a>
         <a href="#top-stories">Top Stories</a>
         <a href="#blog">Blog</a>
+        <a href="#latest-sourced">Sources</a>
+        <a href="authors/">Writers</a>
         <a href="#radar">Daily Radar</a>
         <a href="#social">Social Posts</a>
         <a href="#newsletter">Subscribe</a>
@@ -46,7 +72,7 @@
         <h1>Clean tech news, fun blog posts, and quick stories you actually want to read.</h1>
         <p>Geekish covers AI, gadgets, apps, gaming tech, creator tools, and internet culture with a sharper, more playful feel — built to connect the website with Instagram and TikTok posts.</p>
         <div class="hero-actions">
-          <a class="primary" href="#top-stories">Explore stories</a>
+          <a class="primary" href="#discover-feed">Explore the feed</a>
           <a class="secondary" href="#social">Watch on socials</a>
         </div>
       </div>
@@ -56,6 +82,41 @@
         <div class="holo-card active"><span>AI</span><p>New tools, smarter devices, bigger infrastructure.</p></div>
         <div class="holo-card"><span>GADGETS</span><p>Phones, wearables, creator gear, and clever accessories.</p></div>
         <div class="holo-card"><span>APPS</span><p>Updates worth knowing without the boring changelog.</p></div>
+      </div>
+    </section>
+
+
+    <section id="discover-feed" class="wrap section discover-feed">
+      <div class="section-head feed-head">
+        <span class="eyebrow">Tap-worthy tech</span>
+        <h2>Stories that look like they belong in your daily feed.</h2>
+        <p>Big visuals, sharp headlines, and quick reads built to make people stop scrolling and click.</p>
+      </div>
+      <div class="feed-layout">
+        <a class="feed-card feature-feed" href="articles/ai-hardware-real-story.html">
+          <img src="social-images/ai-hardware-real-story.svg" alt="AI hardware story graphic" />
+          <div class="feed-copy">
+            <span>AI News • Nova Byte</span>
+            <h3>AI is not just apps anymore. The real battle is hardware.</h3>
+            <p>Chips, devices, batteries, and data centers are becoming the hidden layer behind the next wave of AI.</p>
+          </div>
+        </a>
+        <div class="feed-stack">
+          <a class="feed-card compact-feed" href="articles/creator-tech-under-50.html">
+            <img src="social-images/creator-tech-under-50.svg" alt="Creator tech under $50 story graphic" />
+            <div class="feed-copy">
+              <span>Gadgets • Mika Circuit</span>
+              <h3>Before buying a new camera, fix your creator setup first.</h3>
+            </div>
+          </a>
+          <a class="feed-card compact-feed" href="articles/visual-tech-news.html">
+            <img src="social-images/visual-tech-news.svg" alt="Visual tech news story graphic" />
+            <div class="feed-copy">
+              <span>Internet Culture • Jax Pixel</span>
+              <h3>Tech news is visual now — the story has to travel.</h3>
+            </div>
+          </a>
+        </div>
       </div>
     </section>
 
@@ -71,21 +132,21 @@
           <span>AI</span>
           <h3>AI is moving from apps into the real world</h3>
           <p>From phones and wearables to data centers and browsers, AI is becoming the invisible layer inside everyday technology.</p>
-          <div class="card-links"><a href="#blog">Read post</a><a href="#social">Watch clip</a></div>
+          <div class="card-links"><a href="articles/ai-hardware-real-story.html">Read post</a><a href="#social">Watch clip</a></div>
         </article>
         <article class="story-card tilt-card" data-tilt>
           <div class="story-orb gadget"></div>
           <span>Gadgets</span>
           <h3>The next phone battle is foldables vs wearables</h3>
           <p>Tech companies are trying to decide what belongs in your pocket, on your wrist, and in front of your eyes.</p>
-          <div class="card-links"><a href="#blog">Read</a><a href="#social">Social</a></div>
+          <div class="card-links"><a href="articles/creator-tech-under-50.html">Read</a><a href="#social">Social</a></div>
         </article>
         <article class="story-card tilt-card" data-tilt>
           <div class="story-orb apps"></div>
           <span>Apps</span>
           <h3>App updates are getting smarter and harder to ignore</h3>
           <p>Search, sharing, editing, and messaging apps are quietly turning into AI-powered assistants.</p>
-          <div class="card-links"><a href="#blog">Read</a><a href="#social">Social</a></div>
+          <div class="card-links"><a href="articles/visual-tech-news.html">Read</a><a href="#social">Social</a></div>
         </article>
       </div>
     </section>
@@ -103,7 +164,7 @@
             <h3>Why AI hardware is becoming the real story behind the hype</h3>
             <p>Everyone talks about chatbots, but the bigger story may be the chips, networks, energy, and devices being built to power them.</p>
           </div>
-          <a href="#social">View social post →</a>
+          <a href="articles/ai-hardware-real-story.html">Read article →</a>
         </article>
         <article class="blog-post">
           <div class="date"><strong>12</strong><span>May</span></div>
@@ -112,7 +173,7 @@
             <h3>Useful tech under $50 that creators should actually care about</h3>
             <p>Small upgrades like microphones, lights, mounts, and storage can make content look more professional without a huge budget.</p>
           </div>
-          <a href="#social">View social post →</a>
+          <a href="articles/creator-tech-under-50.html">Read article →</a>
         </article>
         <article class="blog-post">
           <div class="date"><strong>12</strong><span>May</span></div>
@@ -121,8 +182,57 @@
             <h3>Why tech news works better when it feels visual</h3>
             <p>The best tech stories now live across articles, short clips, carousels, comments, and quick explainers.</p>
           </div>
-          <a href="#social">View social post →</a>
+          <a href="articles/visual-tech-news.html">Read article →</a>
         </article>
+      </div>
+    </section>
+
+
+    <section class="wrap section trend-section">
+      <div class="section-head">
+        <span class="eyebrow">Why visit daily</span>
+        <h2>Fast tech reads built for the way people actually discover stories.</h2>
+        <p>Geekish turns tech topics into quick explainers, shareable angles, and social-ready hooks — without watering the story down.</p>
+      </div>
+      <div class="trend-grid">
+        <div class="trend-card"><strong>01</strong><h3>Search-friendly articles</h3><p>Clear titles, real URLs, and evergreen explanations people can find later.</p></div>
+        <div class="trend-card"><strong>02</strong><h3>Social-first hooks</h3><p>Every article has a punchy angle that can become a Reel, TikTok, Short, or carousel.</p></div>
+        <div class="trend-card"><strong>03</strong><h3>Useful takeaways</h3><p>No filler. Readers should leave knowing what changed, why it matters, and what to watch next.</p></div>
+      </div>
+    </section>
+
+
+    <section id="latest-sourced" class="wrap section latest-sourced">
+      <div class="section-head">
+        <span class="eyebrow">Fresh sourced reads</span>
+        <h2>More real tech stories, written with sources.</h2>
+        <p>Quick Geekish takes based on current reporting from The Verge, TechCrunch, WIRED, and Ars Technica.</p>
+      </div>
+      <div class="sourced-grid">
+        <a class="sourced-card" href="articles/amd-3d-v-cache-workstations.html">
+          <img src="social-images/amd-3d-v-cache-workstations.svg" alt="AMD is bringing gamer-grade cache tech to serious workstations graphic" />
+          <div><span>Chips • Nova Byte</span><h3>AMD is bringing gamer-grade cache tech to serious workstations</h3><p>AMD’s 3D V-Cache moving into workstation chips is a creator-performance story.</p></div>
+        </a>
+        <a class="sourced-card" href="articles/private-ai-chats-meta-whatsapp.html">
+          <img src="social-images/private-ai-chats-meta-whatsapp.svg" alt="Private AI chats are becoming the next big trust test graphic" />
+          <div><span>AI Privacy • Nova Byte</span><h3>Private AI chats are becoming the next big trust test</h3><p>Meta and WhatsApp are pushing private AI modes as trust becomes a feature.</p></div>
+        </a>
+        <a class="sourced-card" href="articles/instagram-instants-disappearing-photos.html">
+          <img src="social-images/instagram-instants-disappearing-photos.svg" alt="Instagram is chasing disappearing-photo energy again graphic" />
+          <div><span>Apps • Jax Pixel</span><h3>Instagram is chasing disappearing-photo energy again</h3><p>Instants shows casual, low-pressure sharing is still a major social app battleground.</p></div>
+        </a>
+        <a class="sourced-card" href="articles/ai-data-centers-energy-problem.html">
+          <img src="social-images/ai-data-centers-energy-problem.svg" alt="AI’s data-center boom is turning energy into the story graphic" />
+          <div><span>AI &amp; Energy • Nova Byte</span><h3>AI’s data-center boom is turning energy into the story</h3><p>Power, sustainability, and data centers are now part of the AI stack.</p></div>
+        </a>
+        <a class="sourced-card" href="articles/windows-update-driver-recovery.html">
+          <img src="social-images/windows-update-driver-recovery.svg" alt="Windows Update getting better at bad drivers is boring — and important graphic" />
+          <div><span>PCs • Mika Circuit</span><h3>Windows Update getting better at bad drivers is boring — and important</h3><p>Driver recovery could save regular PC users from painful troubleshooting.</p></div>
+        </a>
+        <a class="sourced-card" href="articles/x-history-tab-save-later.html">
+          <img src="social-images/x-history-tab-save-later.svg" alt="X wants to become your messy save-it-for-later app graphic" />
+          <div><span>Social Apps • Jax Pixel</span><h3>X wants to become your messy save-it-for-later app</h3><p>The new History tab turns scattered saves, likes, and watches into a personal archive.</p></div>
+        </a>
       </div>
     </section>
 

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050711"/><stop offset="0.48" stop-color="#0d1324"/><stop offset="1" stop-color="#02030a"/></linearGradient>
+    <radialGradient id="orb1" cx="30%" cy="15%" r="60%"><stop offset="0" stop-color="#ff4fd8" stop-opacity="0.95"/><stop offset="0.45" stop-color="#9b5cff" stop-opacity="0.28"/><stop offset="1" stop-color="#9b5cff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orb2" cx="75%" cy="30%" r="50%"><stop offset="0" stop-color="#9b5cff" stop-opacity="0.72"/><stop offset="1" stop-color="#ff4fd8" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#000" flood-opacity="0.45"/></filter>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="760" fill="url(#orb1)"/>
+  <circle cx="820" cy="250" r="220" fill="url(#orb2)" filter="url(#blur)"/>
+  <g opacity="0.16" stroke="#ffffff" stroke-width="1">
+    <path d="M0 145 H1080M0 265 H1080M0 385 H1080M0 505 H1080M0 625 H1080M0 745 H1080"/>
+    <path d="M120 0 V760M240 0 V760M360 0 V760M480 0 V760M600 0 V760M720 0 V760M840 0 V760M960 0 V760"/>
+  </g>
+  <g transform="translate(90 120)" filter="url(#shadow)">
+    <rect width="900" height="610" rx="44" fill="#0b1020" opacity="0.86" stroke="rgba(255,255,255,.18)"/>
+    <circle cx="690" cy="170" r="95" fill="#ff4fd8" opacity="0.85"/>
+    <circle cx="770" cy="230" r="145" fill="#9b5cff" opacity="0.42"/>
+    <path d="M135 392 C260 260 380 460 515 330 S720 270 800 398" fill="none" stroke="#ff4fd8" stroke-width="16" opacity="0.86"/>
+    <path d="M120 452 H790" stroke="#ffffff" stroke-width="3" opacity="0.2"/>
+    <text x="58" y="82" fill="#ff4fd8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">INTERNET CULTURE</text>
+    <text x="58" y="548" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish quick read</text>
+  </g>
+  <rect x="0" y="760" width="1080" height="590" fill="#080d18"/>
+  <text x="70" y="850" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="900">
+    <tspan x="70" dy="0">Tech news is visual now.</tspan>
+    <tspan x="70" dy="76">The story has to travel.</tspan>
+  </text>
+  <g transform="translate(70 1168)">
+    <circle cx="34" cy="34" r="34" fill="#ff4fd8"/>
+    <text x="34" y="45" text-anchor="middle" fill="#03111a" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">JP</text>
+    <text x="86" y="29" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+    <text x="86" y="65" fill="#9ba9c1" font-family="Arial, Helvetica, sans-serif" font-size="24">Read the full quick take at thegeekish.com</text>
+  </g>
+  <text x="70" y="1285" fill="#ff4fd8" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
