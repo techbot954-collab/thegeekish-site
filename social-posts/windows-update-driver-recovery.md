@@ -1,32 +1,43 @@
-# Social posts — Windows Update getting better at bad drivers is boring — and important
+# Instagram/Facebook post — Windows Update getting better at bad drivers is boring — and important
 
-Article: https://thegeekish.com/articles/windows-update-driver-recovery.html
+Article direct link: https://thegeekish.com/articles/windows-update-driver-recovery.html
+Image to post: https://thegeekish.com/social-images-png/windows-update-driver-recovery.png?v=20260514a
 Writer: Mika Circuit
-Sources: Ars Technica — Windows Update is getting better at saving your PC from buggy drivers
 
-## Static image post
-
-Design: 1080x1350 Geekish feed image, big visual top, bold headline, author/source line, CTA to the article.
-
-Suggested image text:
-> Windows Update getting better at bad drivers is boring — and important
-
-## Instagram / Facebook caption
-A less painful driver recovery process could save regular PC users from one of the most annoying kinds of Windows problems.
-
-Geekish quick take with sources: https://thegeekish.com/articles/windows-update-driver-recovery.html
-
-#Geekish #TechNews #PCs
-
-## Reel / TikTok hook
+## Facebook post
 Windows Update getting better at bad drivers is boring — and important
 
-## Carousel slides
-1. Windows Update getting better at bad drivers is boring — and important
-2. Why it matters
-3. What changed
-4. The Geekish take
-5. Read the full quick take
+A smoother driver recovery process could save regular PC users real pain.
 
-## Comment prompt
-What do you think matters most about this story?
+Read the sourced Geekish quick take here:
+https://thegeekish.com/articles/windows-update-driver-recovery.html
+
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools
+
+## Instagram feed caption
+Windows Update getting better at bad drivers is boring — and important
+
+A smoother driver recovery process could save regular PC users real pain.
+
+Read it on Geekish: https://thegeekish.com/articles/windows-update-driver-recovery.html
+
+If Instagram does not make the caption link clickable, use this same article URL in the bio link, Story link sticker, or profile website field.
+
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools #InternetCulture
+
+## Instagram Story text
+NEW ON GEEKISH
+Windows Update getting better at bad drivers is boring — and important
+
+Tap the link sticker to read:
+https://thegeekish.com/articles/windows-update-driver-recovery.html
+
+## Image overlay text
+Windows Update getting better at bad drivers is boring — and important
+
+## Posting checklist
+- Use the PNG image above.
+- Facebook: paste the direct article link in the post.
+- Instagram Feed: include URL in caption + point to link in bio if not clickable.
+- Instagram Story: use link sticker with the direct article URL.
+- After posting, verify the link opens the exact article page, not just the homepage.

@@ -1,43 +1,43 @@
-# Social posts — Useful tech under $50 that creators should actually care about
+# Instagram/Facebook post — Useful tech under $50 that creators should actually care about
 
-Article: https://thegeekish.com/articles/creator-tech-under-50.html
+Article direct link: https://thegeekish.com/articles/creator-tech-under-50.html
+Image to post: https://thegeekish.com/social-images-png/creator-tech-under-50.png?v=20260514a
 Writer: Mika Circuit
 
-## Instagram / Facebook caption
-You probably do not need a new camera first.
+## Facebook post
+Useful tech under $50 that creators should actually care about
 
-For most creators, the cheaper upgrades make the biggest difference: better audio, better lighting, stable framing, storage, charging, and the boring accessories that stop shoots from falling apart.
+Cheap audio, lighting, mounts, and storage can change the final video.
 
-Geekish breakdown: https://thegeekish.com/articles/creator-tech-under-50.html
+Read the sourced Geekish quick take here:
+https://thegeekish.com/articles/creator-tech-under-50.html
 
-#Geekish #CreatorTools #BudgetTech #ContentCreator #Gadgets #TechTips
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools
 
-## Static image post
+## Instagram feed caption
+Useful tech under $50 that creators should actually care about
 
-Format: one strong 1080x1350 feed image or 1080x1080 square post.
+Cheap audio, lighting, mounts, and storage can change the final video.
 
-Design direction:
-- Big bold headline from the article
-- Geekish logo/wordmark
-- Neon tech background matching the topic
-- Small CTA: “Read the full quick take at thegeekish.com”
-- Keep text short enough to read in 1 second
+Read it on Geekish: https://thegeekish.com/articles/creator-tech-under-50.html
 
-Suggested image text:
+If Instagram does not make the caption link clickable, use this same article URL in the bio link, Story link sticker, or profile website field.
 
-> Before buying a new camera,
-> fix your audio, light, and setup.
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools #InternetCulture
 
-## Reel / TikTok hook
-Before you buy a new camera, buy the cheap tech that makes every video better.
+## Instagram Story text
+NEW ON GEEKISH
+Useful tech under $50 that creators should actually care about
 
-## Carousel slides
-1. Stop buying cameras first
-2. Fix your audio
-3. Add better light
-4. Stabilize your shot
-5. Keep storage + power ready
-6. Full list on Geekish
+Tap the link sticker to read:
+https://thegeekish.com/articles/creator-tech-under-50.html
 
-## Comment prompt
-What cheap creator tool made the biggest difference for your setup?
+## Image overlay text
+Useful tech under $50 that creators should actually care about
+
+## Posting checklist
+- Use the PNG image above.
+- Facebook: paste the direct article link in the post.
+- Instagram Feed: include URL in caption + point to link in bio if not clickable.
+- Instagram Story: use link sticker with the direct article URL.
+- After posting, verify the link opens the exact article page, not just the homepage.

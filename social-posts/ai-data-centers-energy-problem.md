@@ -1,32 +1,43 @@
-# Social posts — AI’s data-center boom is turning energy into the story
+# Instagram/Facebook post — AI’s data-center boom is turning energy into the story
 
-Article: https://thegeekish.com/articles/ai-data-centers-energy-problem.html
+Article direct link: https://thegeekish.com/articles/ai-data-centers-energy-problem.html
+Image to post: https://thegeekish.com/social-images-png/ai-data-centers-energy-problem.png?v=20260514a
 Writer: Nova Byte
-Sources: TechCrunch — Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center, TechCrunch — Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand, WIRED — What It Will Take to Make AI Sustainable
 
-## Static image post
-
-Design: 1080x1350 Geekish feed image, big visual top, bold headline, author/source line, CTA to the article.
-
-Suggested image text:
-> AI’s data-center boom is turning energy into the story
-
-## Instagram / Facebook caption
-AI demand is making power, emissions, turbines, and geothermal startups part of the tech conversation — not just background infrastructure.
-
-Geekish quick take with sources: https://thegeekish.com/articles/ai-data-centers-energy-problem.html
-
-#Geekish #TechNews #AIandEnergy
-
-## Reel / TikTok hook
+## Facebook post
 AI’s data-center boom is turning energy into the story
 
-## Carousel slides
-1. AI’s data-center boom is turning energy into the story
-2. Why it matters
-3. What changed
-4. The Geekish take
-5. Read the full quick take
+AI demand is making power, emissions, turbines, and clean energy part of the tech conversation.
 
-## Comment prompt
-What do you think matters most about this story?
+Read the sourced Geekish quick take here:
+https://thegeekish.com/articles/ai-data-centers-energy-problem.html
+
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools
+
+## Instagram feed caption
+AI’s data-center boom is turning energy into the story
+
+AI demand is making power, emissions, turbines, and clean energy part of the tech conversation.
+
+Read it on Geekish: https://thegeekish.com/articles/ai-data-centers-energy-problem.html
+
+If Instagram does not make the caption link clickable, use this same article URL in the bio link, Story link sticker, or profile website field.
+
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools #InternetCulture
+
+## Instagram Story text
+NEW ON GEEKISH
+AI’s data-center boom is turning energy into the story
+
+Tap the link sticker to read:
+https://thegeekish.com/articles/ai-data-centers-energy-problem.html
+
+## Image overlay text
+AI’s data-center boom is turning energy into the story
+
+## Posting checklist
+- Use the PNG image above.
+- Facebook: paste the direct article link in the post.
+- Instagram Feed: include URL in caption + point to link in bio if not clickable.
+- Instagram Story: use link sticker with the direct article URL.
+- After posting, verify the link opens the exact article page, not just the homepage.

@@ -1,45 +1,43 @@
-# Social posts — Why tech news works better when it feels visual
+# Instagram/Facebook post — Why tech news works better when it feels visual
 
-Article: https://thegeekish.com/articles/visual-tech-news.html
+Article direct link: https://thegeekish.com/articles/visual-tech-news.html
+Image to post: https://thegeekish.com/social-images-png/visual-tech-news.png?v=20260514a
 Writer: Jax Pixel
 
-## Instagram / Facebook caption
-Most people do not discover tech news from a homepage anymore.
+## Facebook post
+Why tech news works better when it feels visual
 
-They see a clip, carousel, screenshot, creator reaction, or comment thread first. That does not make the story shallow — it means the story has to travel better.
+Modern tech stories spread through clips, carousels, screenshots, and comments.
 
-Geekish is built around that loop: quick reads + visual-first hooks.
+Read the sourced Geekish quick take here:
+https://thegeekish.com/articles/visual-tech-news.html
 
-Read more: https://thegeekish.com/articles/visual-tech-news.html
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools
 
-#Geekish #TechNews #InternetCulture #SocialMedia #CreatorEconomy #DigitalMedia
+## Instagram feed caption
+Why tech news works better when it feels visual
 
-## Static image post
+Modern tech stories spread through clips, carousels, screenshots, and comments.
 
-Format: one strong 1080x1350 feed image or 1080x1080 square post.
+Read it on Geekish: https://thegeekish.com/articles/visual-tech-news.html
 
-Design direction:
-- Big bold headline from the article
-- Geekish logo/wordmark
-- Neon tech background matching the topic
-- Small CTA: “Read the full quick take at thegeekish.com”
-- Keep text short enough to read in 1 second
+If Instagram does not make the caption link clickable, use this same article URL in the bio link, Story link sticker, or profile website field.
 
-Suggested image text:
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools #InternetCulture
 
-> Before buying a new camera,
-> fix your audio, light, and setup.
+## Instagram Story text
+NEW ON GEEKISH
+Why tech news works better when it feels visual
 
-## Reel / TikTok hook
-Tech news changed. The headline is not always the first thing people see anymore.
+Tap the link sticker to read:
+https://thegeekish.com/articles/visual-tech-news.html
 
-## Carousel slides
-1. Tech news is visual now
-2. People discover stories through clips
-3. Articles still matter
-4. Social creates the spark
-5. Context keeps people around
-6. Read the Geekish breakdown
+## Image overlay text
+Why tech news works better when it feels visual
 
-## Comment prompt
-Do you usually find tech news from websites, YouTube, TikTok, or Instagram?
+## Posting checklist
+- Use the PNG image above.
+- Facebook: paste the direct article link in the post.
+- Instagram Feed: include URL in caption + point to link in bio if not clickable.
+- Instagram Story: use link sticker with the direct article URL.
+- After posting, verify the link opens the exact article page, not just the homepage.

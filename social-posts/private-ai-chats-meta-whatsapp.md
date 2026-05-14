@@ -1,32 +1,43 @@
-# Social posts — Private AI chats are becoming the next big trust test
+# Instagram/Facebook post — Private AI chats are becoming the next big trust test
 
-Article: https://thegeekish.com/articles/private-ai-chats-meta-whatsapp.html
+Article direct link: https://thegeekish.com/articles/private-ai-chats-meta-whatsapp.html
+Image to post: https://thegeekish.com/social-images-png/private-ai-chats-meta-whatsapp.png?v=20260514a
 Writer: Nova Byte
-Sources: The Verge — Mark Zuckerberg announces “completely private” encrypted Meta AI chat, WIRED — WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private
 
-## Static image post
-
-Design: 1080x1350 Geekish feed image, big visual top, bold headline, author/source line, CTA to the article.
-
-Suggested image text:
-> Private AI chats are becoming the next big trust test
-
-## Instagram / Facebook caption
-Meta is talking up private AI conversations, including Incognito-style AI chat, as users ask a simple question: who can read what I tell the bot?
-
-Geekish quick take with sources: https://thegeekish.com/articles/private-ai-chats-meta-whatsapp.html
-
-#Geekish #TechNews #AIPrivacy
-
-## Reel / TikTok hook
+## Facebook post
 Private AI chats are becoming the next big trust test
 
-## Carousel slides
-1. Private AI chats are becoming the next big trust test
-2. Why it matters
-3. What changed
-4. The Geekish take
-5. Read the full quick take
+Meta and WhatsApp are pushing private AI modes as trust becomes a feature.
 
-## Comment prompt
-What do you think matters most about this story?
+Read the sourced Geekish quick take here:
+https://thegeekish.com/articles/private-ai-chats-meta-whatsapp.html
+
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools
+
+## Instagram feed caption
+Private AI chats are becoming the next big trust test
+
+Meta and WhatsApp are pushing private AI modes as trust becomes a feature.
+
+Read it on Geekish: https://thegeekish.com/articles/private-ai-chats-meta-whatsapp.html
+
+If Instagram does not make the caption link clickable, use this same article URL in the bio link, Story link sticker, or profile website field.
+
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools #InternetCulture
+
+## Instagram Story text
+NEW ON GEEKISH
+Private AI chats are becoming the next big trust test
+
+Tap the link sticker to read:
+https://thegeekish.com/articles/private-ai-chats-meta-whatsapp.html
+
+## Image overlay text
+Private AI chats are becoming the next big trust test
+
+## Posting checklist
+- Use the PNG image above.
+- Facebook: paste the direct article link in the post.
+- Instagram Feed: include URL in caption + point to link in bio if not clickable.
+- Instagram Story: use link sticker with the direct article URL.
+- After posting, verify the link opens the exact article page, not just the homepage.

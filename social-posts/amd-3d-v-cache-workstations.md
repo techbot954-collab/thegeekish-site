@@ -1,32 +1,43 @@
-# Social posts — AMD is bringing gamer-grade cache tech to serious workstations
+# Instagram/Facebook post — AMD is bringing gamer-grade cache tech to serious workstations
 
-Article: https://thegeekish.com/articles/amd-3d-v-cache-workstations.html
+Article direct link: https://thegeekish.com/articles/amd-3d-v-cache-workstations.html
+Image to post: https://thegeekish.com/social-images-png/amd-3d-v-cache-workstations.png?v=20260514a
 Writer: Nova Byte
-Sources: The Verge — AMD’s best CPU tech for gamers is coming to workstations too
 
-## Static image post
-
-Design: 1080x1350 Geekish feed image, big visual top, bold headline, author/source line, CTA to the article.
-
-Suggested image text:
-> AMD is bringing gamer-grade cache tech to serious workstations
-
-## Instagram / Facebook caption
-AMD’s 3D V-Cache is moving deeper into Ryzen PRO workstation chips, and that matters for creators, engineers, and anyone running heavy local workloads.
-
-Geekish quick take with sources: https://thegeekish.com/articles/amd-3d-v-cache-workstations.html
-
-#Geekish #TechNews #Chips
-
-## Reel / TikTok hook
+## Facebook post
 AMD is bringing gamer-grade cache tech to serious workstations
 
-## Carousel slides
-1. AMD is bringing gamer-grade cache tech to serious workstations
-2. Why it matters
-3. What changed
-4. The Geekish take
-5. Read the full quick take
+Gaming CPU tricks are crossing into creator and pro machines.
 
-## Comment prompt
-What do you think matters most about this story?
+Read the sourced Geekish quick take here:
+https://thegeekish.com/articles/amd-3d-v-cache-workstations.html
+
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools
+
+## Instagram feed caption
+AMD is bringing gamer-grade cache tech to serious workstations
+
+Gaming CPU tricks are crossing into creator and pro machines.
+
+Read it on Geekish: https://thegeekish.com/articles/amd-3d-v-cache-workstations.html
+
+If Instagram does not make the caption link clickable, use this same article URL in the bio link, Story link sticker, or profile website field.
+
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools #InternetCulture
+
+## Instagram Story text
+NEW ON GEEKISH
+AMD is bringing gamer-grade cache tech to serious workstations
+
+Tap the link sticker to read:
+https://thegeekish.com/articles/amd-3d-v-cache-workstations.html
+
+## Image overlay text
+AMD is bringing gamer-grade cache tech to serious workstations
+
+## Posting checklist
+- Use the PNG image above.
+- Facebook: paste the direct article link in the post.
+- Instagram Feed: include URL in caption + point to link in bio if not clickable.
+- Instagram Story: use link sticker with the direct article URL.
+- After posting, verify the link opens the exact article page, not just the homepage.

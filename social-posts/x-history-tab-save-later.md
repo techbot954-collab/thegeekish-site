@@ -1,32 +1,43 @@
-# Social posts — X wants to become your messy save-it-for-later app
+# Instagram/Facebook post — X wants to become your messy save-it-for-later app
 
-Article: https://thegeekish.com/articles/x-history-tab-save-later.html
+Article direct link: https://thegeekish.com/articles/x-history-tab-save-later.html
+Image to post: https://thegeekish.com/social-images-png/x-history-tab-save-later.png?v=20260514a
 Writer: Jax Pixel
-Sources: TechCrunch — X launches a History tab for bookmarks, likes, videos, and articles
 
-## Static image post
-
-Design: 1080x1350 Geekish feed image, big visual top, bold headline, author/source line, CTA to the article.
-
-Suggested image text:
-> X wants to become your messy save-it-for-later app
-
-## Instagram / Facebook caption
-A new History tab for bookmarks, likes, videos, and articles shows how social platforms are trying to organize everything users half-save and half-forget.
-
-Geekish quick take with sources: https://thegeekish.com/articles/x-history-tab-save-later.html
-
-#Geekish #TechNews #SocialApps
-
-## Reel / TikTok hook
+## Facebook post
 X wants to become your messy save-it-for-later app
 
-## Carousel slides
-1. X wants to become your messy save-it-for-later app
-2. Why it matters
-3. What changed
-4. The Geekish take
-5. Read the full quick take
+Social apps are becoming memory systems for everything users almost revisit.
 
-## Comment prompt
-What do you think matters most about this story?
+Read the sourced Geekish quick take here:
+https://thegeekish.com/articles/x-history-tab-save-later.html
+
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools
+
+## Instagram feed caption
+X wants to become your messy save-it-for-later app
+
+Social apps are becoming memory systems for everything users almost revisit.
+
+Read it on Geekish: https://thegeekish.com/articles/x-history-tab-save-later.html
+
+If Instagram does not make the caption link clickable, use this same article URL in the bio link, Story link sticker, or profile website field.
+
+#Geekish #TechNews #AI #Gadgets #Apps #CreatorTools #InternetCulture
+
+## Instagram Story text
+NEW ON GEEKISH
+X wants to become your messy save-it-for-later app
+
+Tap the link sticker to read:
+https://thegeekish.com/articles/x-history-tab-save-later.html
+
+## Image overlay text
+X wants to become your messy save-it-for-later app
+
+## Posting checklist
+- Use the PNG image above.
+- Facebook: paste the direct article link in the post.
+- Instagram Feed: include URL in caption + point to link in bio if not clickable.
+- Instagram Story: use link sticker with the direct article URL.
+- After posting, verify the link opens the exact article page, not just the homepage.
