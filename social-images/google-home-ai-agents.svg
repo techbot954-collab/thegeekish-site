@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071114"/><stop offset=".5" stop-color="#122f2b"/><stop offset="1" stop-color="#f7d55c"/></linearGradient>
+    <radialGradient id="glow" cx="30%" cy="14%" r="70%"><stop stop-color="#65ffc9" stop-opacity=".82"/><stop offset=".55" stop-color="#28a2ff" stop-opacity=".18"/><stop offset="1" stop-color="#28a2ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="700" fill="url(#glow)"/>
+  <g opacity=".18" stroke="#fff" stroke-width="2">
+    <path d="M90 188H990M90 304H990M90 420H990M90 536H990"/>
+    <path d="M180 92V650M330 92V650M480 92V650M630 92V650M780 92V650M930 92V650"/>
+  </g>
+  <rect x="94" y="112" width="892" height="590" rx="44" fill="#071114" opacity=".82" stroke="rgba(255,255,255,.24)"/>
+  <circle cx="540" cy="380" r="112" fill="#65ffc9"/>
+  <circle cx="540" cy="380" r="66" fill="#071114"/>
+  <g fill="none" stroke-linecap="round" stroke-width="18">
+    <path d="M540 268V190M540 490V572M428 380H304M652 380H776" stroke="#65ffc9"/>
+    <path d="M460 300L378 218M620 300L702 218M460 460L378 542M620 460L702 542" stroke="#f7d55c"/>
+  </g>
+  <g fill="#fff">
+    <rect x="228" y="160" width="110" height="86" rx="24"/>
+    <path d="M256 246h54v34h-54z"/>
+    <rect x="740" y="156" width="120" height="92" rx="22"/>
+    <circle cx="800" cy="202" r="22" fill="#071114"/>
+    <rect x="212" y="512" width="138" height="82" rx="18"/>
+    <path d="M232 548h98" stroke="#071114" stroke-width="14"/>
+    <rect x="728" y="498" width="150" height="106" rx="26"/>
+    <circle cx="772" cy="552" r="18" fill="#071114"/><circle cx="834" cy="552" r="18" fill="#071114"/>
+  </g>
+  <text x="148" y="190" fill="#65ffc9" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">SMART HOME AI</text>
+  <text x="148" y="642" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#081014"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Google Home is opening</tspan><tspan x="70" dy="76">the door to AI agents</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#65ffc9"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#071114" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+  <text x="156" y="1230" fill="#aabcb8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#65ffc9" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

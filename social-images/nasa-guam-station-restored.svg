@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081827"/><stop offset=".48" stop-color="#145d7f"/><stop offset="1" stop-color="#f2c96d"/></linearGradient>
+    <radialGradient id="signal" cx="50%" cy="8%" r="75%"><stop stop-color="#ffffff" stop-opacity=".85"/><stop offset=".45" stop-color="#78f5ff" stop-opacity=".22"/><stop offset="1" stop-color="#78f5ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#sky)"/>
+  <rect width="1080" height="710" fill="url(#signal)"/>
+  <circle cx="832" cy="168" r="72" fill="#f8d16f"/>
+  <rect x="90" y="120" width="900" height="590" rx="44" fill="#06131f" opacity=".66" stroke="rgba(255,255,255,.24)"/>
+  <g fill="none" stroke="#78f5ff" stroke-width="10" opacity=".72">
+    <path d="M540 226c120 30 216 104 276 208"/>
+    <path d="M540 226c-120 30-216 104-276 208"/>
+    <path d="M540 226v-96"/>
+  </g>
+  <circle cx="540" cy="226" r="18" fill="#fff"/>
+  <g transform="translate(0 8)">
+    <path d="M292 552c48-88 116-132 204-132s156 44 204 132" fill="none" stroke="#f7fff9" stroke-width="28" stroke-linecap="round"/>
+    <line x1="496" y1="430" x2="496" y2="620" stroke="#f7fff9" stroke-width="26" stroke-linecap="round"/>
+    <line x1="358" y1="622" x2="634" y2="622" stroke="#f7fff9" stroke-width="26" stroke-linecap="round"/>
+    <circle cx="700" cy="568" r="74" fill="#f7fff9"/>
+    <path d="M654 568c28-34 64-50 108-48" fill="none" stroke="#145d7f" stroke-width="18" stroke-linecap="round"/>
+  </g>
+  <text x="148" y="190" fill="#78f5ff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">SPACE COMMS</text>
+  <text x="148" y="642" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#07131f"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">NASA rebuilt a storm-hit</tspan><tspan x="70" dy="76">link to spacecraft</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#78f5ff"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#07131f" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Mika Circuit</text>
+  <text x="156" y="1230" fill="#b7c5ce" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#78f5ff" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Google Home is opening the door to AI agents
+  - Article: https://thegeekish.com/articles/google-home-ai-agents.html
+  - Image: https://thegeekish.com/social-images-png/google-home-ai-agents.png?v=20260916a
+  - Copy: social-posts/google-home-ai-agents.md
+
+- AWS data-loss reporting is a cloud reality check
+  - Article: https://thegeekish.com/articles/aws-data-loss-cloud-resilience.html
+  - Image: https://thegeekish.com/social-images-png/aws-data-loss-cloud-resilience.png?v=20260916a
+  - Copy: social-posts/aws-data-loss-cloud-resilience.md
+
+- NASA rebuilt a storm-hit link to spacecraft
+  - Article: https://thegeekish.com/articles/nasa-guam-station-restored.html
+  - Image: https://thegeekish.com/social-images-png/nasa-guam-station-restored.png?v=20260916a
+  - Copy: social-posts/nasa-guam-station-restored.md
+
 - AI’s data-center boom is turning energy into the story
   - Article: https://thegeekish.com/articles/ai-data-centers-energy-problem.html
   - Image: https://thegeekish.com/social-images-png/ai-data-centers-energy-problem.png?v=20260514a
