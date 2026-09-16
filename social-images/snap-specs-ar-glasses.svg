@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset=".52" stop-color="#3949ab"/><stop offset="1" stop-color="#ff6f61"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="26%" r="58%"><stop stop-color="#c6ffdd" stop-opacity=".9"/><stop offset=".45" stop-color="#5eead4" stop-opacity=".22"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="720" fill="url(#glow)"/>
+  <text x="80" y="118" fill="#c6ffdd" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">AR WEARABLES</text>
+  <g transform="translate(110 210)">
+    <path d="M120 260c70-140 185-210 345-210s275 70 345 210" fill="none" stroke="#f8fafc" stroke-width="54" stroke-linecap="round"/>
+    <path d="M222 280c38-66 91-99 158-99s120 33 158 99" fill="none" stroke="#0f172a" stroke-width="38" stroke-linecap="round"/>
+    <path d="M500 280c38-66 91-99 158-99s120 33 158 99" fill="none" stroke="#0f172a" stroke-width="38" stroke-linecap="round"/>
+    <rect x="285" y="144" width="146" height="102" rx="32" fill="#7dd3fc" opacity=".86"/>
+    <rect x="563" y="144" width="146" height="102" rx="32" fill="#f0abfc" opacity=".86"/>
+    <circle cx="430" cy="384" r="36" fill="#c6ffdd"/>
+    <rect x="520" y="346" width="80" height="80" rx="13" fill="#fef08a"/>
+    <path d="M620 412l80-52 80 52-80 52z" fill="#fb7185"/>
+  </g>
+  <text x="80" y="662" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#0f172a"/>
+  <text x="70" y="850" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Snap’s new Specs are</tspan><tspan x="70" dy="76">a $2,200 bet on</tspan><tspan x="70" dy="76">social AR</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#c6ffdd"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#0f172a" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1195" fill="#f8fafc" font-family="Arial" font-size="26" font-weight="800">Geekish • Mika Circuit</text>
+  <text x="156" y="1230" fill="#cbd5e1" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#c6ffdd" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

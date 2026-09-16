@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06111f"/><stop offset=".52" stop-color="#164e63"/><stop offset="1" stop-color="#f97316"/></linearGradient>
+    <radialGradient id="meteor" cx="75%" cy="17%" r="48%"><stop stop-color="#fff7ed" stop-opacity=".95"/><stop offset=".36" stop-color="#fb923c" stop-opacity=".3"/><stop offset="1" stop-color="#fb923c" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="720" fill="url(#meteor)"/>
+  <text x="80" y="118" fill="#fdba74" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">SPACE SECURITY</text>
+  <g transform="translate(92 180)">
+    <path d="M780 16L508 180" stroke="#fed7aa" stroke-width="26" stroke-linecap="round"/>
+    <circle cx="492" cy="188" r="44" fill="#fff7ed"/>
+    <rect x="70" y="170" width="760" height="390" rx="38" fill="#020617" opacity=".78" stroke="#67e8f9" stroke-width="6"/>
+    <path d="M154 310c66-84 158-126 276-126s210 42 276 126" fill="none" stroke="#67e8f9" stroke-width="18" stroke-linecap="round"/>
+    <path d="M236 430h414" stroke="#67e8f9" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="430" cy="308" r="38" fill="#67e8f9"/>
+    <rect x="540" y="335" width="180" height="122" rx="18" fill="#ef4444"/>
+    <path d="M582 396h96M630 356v80" stroke="#fff7ed" stroke-width="18" stroke-linecap="round"/>
+  </g>
+  <text x="80" y="662" fill="#fff7ed" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#06111f"/>
+  <text x="70" y="850" fill="#fff7ed" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900"><tspan x="70" dy="0">A cyberattack knocked</tspan><tspan x="70" dy="72">a meteor-tracking</tspan><tspan x="70" dy="72">nonprofit offline</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#fdba74"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#06111f" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#fff7ed" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text>
+  <text x="156" y="1230" fill="#cbd5e1" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#fdba74" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

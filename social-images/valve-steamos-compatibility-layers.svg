@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101828"/><stop offset=".5" stop-color="#0f766e"/><stop offset="1" stop-color="#a3e635"/></linearGradient>
+    <radialGradient id="pulse" cx="50%" cy="25%" r="60%"><stop stop-color="#ecfccb" stop-opacity=".9"/><stop offset=".4" stop-color="#14b8a6" stop-opacity=".25"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="720" fill="url(#pulse)"/>
+  <text x="80" y="118" fill="#bef264" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">STEAMOS</text>
+  <g transform="translate(120 190)">
+    <rect x="145" y="130" width="550" height="310" rx="58" fill="#020617" stroke="#ecfccb" stroke-width="12"/>
+    <circle cx="245" cy="285" r="54" fill="#14b8a6"/>
+    <circle cx="595" cy="285" r="54" fill="#bef264"/>
+    <rect x="338" y="222" width="164" height="126" rx="28" fill="#1f2937" stroke="#67e8f9" stroke-width="8"/>
+    <path d="M420 195v-74M420 448v70M228 100l-58-58M610 100l58-58M228 470l-58 58M610 470l58 58" stroke="#ecfccb" stroke-width="18" stroke-linecap="round"/>
+    <rect x="60" y="30" width="150" height="92" rx="22" fill="#67e8f9"/>
+    <text x="135" y="88" text-anchor="middle" fill="#082f49" font-family="Arial" font-size="28" font-weight="900">ARM</text>
+    <rect x="630" y="30" width="150" height="92" rx="22" fill="#bef264"/>
+    <text x="705" y="88" text-anchor="middle" fill="#1a2e05" font-family="Arial" font-size="28" font-weight="900">APK</text>
+  </g>
+  <text x="80" y="662" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#101828"/>
+  <text x="70" y="850" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="900"><tspan x="70" dy="0">Valve is stretching</tspan><tspan x="70" dy="74">SteamOS beyond</tspan><tspan x="70" dy="74">classic PC games</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#bef264"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#101828" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f8fafc" font-family="Arial" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+  <text x="156" y="1230" fill="#cbd5e1" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#bef264" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
