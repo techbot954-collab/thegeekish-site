@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080b18"/><stop offset=".52" stop-color="#233d7a"/><stop offset="1" stop-color="#ffb23f"/></linearGradient>
+    <radialGradient id="glow" cx="48%" cy="18%" r="68%"><stop stop-color="#fffaf3" stop-opacity=".9"/><stop offset=".36" stop-color="#77d7ff" stop-opacity=".25"/><stop offset="1" stop-color="#77d7ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="760" fill="url(#glow)"/>
+  <g opacity=".22" fill="#fff"><circle cx="150" cy="140" r="4"/><circle cx="310" cy="238" r="3"/><circle cx="870" cy="180" r="5"/><circle cx="710" cy="430" r="3"/><circle cx="220" cy="540" r="4"/><circle cx="925" cy="570" r="3"/></g>
+  <circle cx="540" cy="392" r="214" fill="none" stroke="#fffaf3" stroke-width="18" opacity=".92"/>
+  <circle cx="540" cy="392" r="150" fill="none" stroke="#77d7ff" stroke-width="8" opacity=".9"/>
+  <g transform="translate(408 208)">
+    <path d="M132 0l116 74v212l-116 74L16 286V74z" fill="#fffaf3" stroke="#151515" stroke-width="10"/>
+    <path d="M16 74h232M16 286h232" stroke="#151515" stroke-width="10"/>
+    <rect x="77" y="104" width="110" height="82" rx="22" fill="#233d7a"/>
+    <circle cx="132" cy="145" r="24" fill="#77d7ff"/>
+    <path d="M54 360h156l-35 84H89z" fill="#ffb23f" stroke="#151515" stroke-width="10"/>
+  </g>
+  <path d="M220 616c160-80 480-80 640 0" fill="none" stroke="#ffb23f" stroke-width="18" stroke-linecap="round"/>
+  <text x="150" y="646" fill="#fffaf3" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="900">NASA weighs a bigger Starliner future</text>
+  <rect y="760" width="1080" height="590" fill="#151515"/>
+  <text x="70" y="850" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Starliner</tspan><tspan x="70" dy="76">stays in the</tspan><tspan x="70" dy="76">plan?</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#ffb23f"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text>
+  <text x="156" y="1230" fill="#9ba9c1" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#77d7ff" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17171c"/><stop offset=".56" stop-color="#314b64"/><stop offset="1" stop-color="#ff8a3d"/></linearGradient>
+    <radialGradient id="glow" cx="25%" cy="15%" r="70%"><stop stop-color="#fff4d8" stop-opacity=".82"/><stop offset=".44" stop-color="#72d6c9" stop-opacity=".25"/><stop offset="1" stop-color="#72d6c9" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="760" fill="url(#glow)"/>
+  <g opacity=".16" stroke="#fff" stroke-width="2"><path d="M0 170H1080M0 340H1080M0 510H1080M0 680H1080"/><path d="M180 0V760M360 0V760M540 0V760M720 0V760M900 0V760"/></g>
+  <rect x="100" y="140" width="880" height="510" rx="50" fill="#fffaf3" stroke="#fff" stroke-width="6"/>
+  <rect x="160" y="222" width="760" height="310" rx="48" fill="#151515"/>
+  <rect x="190" y="250" width="305" height="252" rx="32" fill="#ff8a3d"/>
+  <circle cx="654" cy="376" r="114" fill="#2b3440" stroke="#fffaf3" stroke-width="20"/>
+  <circle cx="654" cy="376" r="56" fill="#72d6c9"/>
+  <circle cx="706" cy="326" r="22" fill="#fffaf3" opacity=".9"/>
+  <rect x="225" y="295" width="198" height="28" rx="14" fill="#151515"/>
+  <rect x="225" y="358" width="132" height="28" rx="14" fill="#151515"/>
+  <circle cx="845" cy="276" r="28" fill="#fffaf3"/>
+  <text x="150" y="646" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="900">screenless snapshots, 110-style</text>
+  <rect y="760" width="1080" height="590" fill="#151515"/>
+  <text x="70" y="850" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Camp Snap</tspan><tspan x="70" dy="76">goes retro</tspan><tspan x="70" dy="76">digital</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#ff8a3d"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish • Mika Circuit</text>
+  <text x="156" y="1230" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#72d6c9" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

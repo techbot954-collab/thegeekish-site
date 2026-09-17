@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Camp Snap turned a skinny film-camera idea into a $75 digital throwback
+  - Article: https://thegeekish.com/articles/camp-snap-110d-digital-camera.html
+  - Image: https://thegeekish.com/social-images-png/camp-snap-110d-digital-camera.png?v=20260917a
+  - Copy: social-posts/camp-snap-110d-digital-camera.md
+
+- Your robotaxi is becoming part ride, part witness
+  - Article: https://thegeekish.com/articles/robotaxi-privacy-waymo-surveillance.html
+  - Image: https://thegeekish.com/social-images-png/robotaxi-privacy-waymo-surveillance.png?v=20260917a
+  - Copy: social-posts/robotaxi-privacy-waymo-surveillance.md
+
+- NASA may give Starliner a bigger role after all
+  - Article: https://thegeekish.com/articles/nasa-starliner-future-plans.html
+  - Image: https://thegeekish.com/social-images-png/nasa-starliner-future-plans.png?v=20260917a
+  - Copy: social-posts/nasa-starliner-future-plans.md
+
 - Huawei is aiming its next AI chip at Nvidia's China gap
   - Article: https://thegeekish.com/articles/huawei-ascend-960dt-ai-chip.html
   - Image: https://thegeekish.com/social-images-png/huawei-ascend-960dt-ai-chip.png?v=20260917a

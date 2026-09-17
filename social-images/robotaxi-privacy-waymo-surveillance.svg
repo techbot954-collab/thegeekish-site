@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101018"/><stop offset=".48" stop-color="#273a55"/><stop offset="1" stop-color="#ff5a3d"/></linearGradient>
+    <radialGradient id="glow" cx="70%" cy="10%" r="70%"><stop stop-color="#f9fff0" stop-opacity=".85"/><stop offset=".42" stop-color="#51e0b5" stop-opacity=".26"/><stop offset="1" stop-color="#51e0b5" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="760" fill="url(#glow)"/>
+  <g opacity=".15" stroke="#fff" stroke-width="2"><path d="M0 165H1080M0 330H1080M0 495H1080M0 660H1080"/><path d="M175 0V760M350 0V760M525 0V760M700 0V760M875 0V760"/></g>
+  <rect x="118" y="132" width="844" height="500" rx="58" fill="#fffaf3" stroke="#fff" stroke-width="6"/>
+  <path d="M224 430c44-94 94-150 162-170h308c72 22 126 79 166 170v92H224z" fill="#151515"/>
+  <rect x="332" y="300" width="416" height="112" rx="26" fill="#72d6c9"/>
+  <circle cx="354" cy="530" r="56" fill="#2b3440" stroke="#fffaf3" stroke-width="14"/>
+  <circle cx="726" cy="530" r="56" fill="#2b3440" stroke="#fffaf3" stroke-width="14"/>
+  <circle cx="540" cy="228" r="58" fill="#ff5a3d"/>
+  <path d="M514 224h52M540 198v52" stroke="#151515" stroke-width="18" stroke-linecap="round"/>
+  <path d="M540 228c-116 58-177 129-184 214M540 228c116 58 177 129 184 214" stroke="#ff5a3d" stroke-width="10" stroke-linecap="round" opacity=".75"/>
+  <text x="150" y="646" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="900">camera-covered rides raise privacy stakes</text>
+  <rect y="760" width="1080" height="590" fill="#151515"/>
+  <text x="70" y="850" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Robotaxi</tspan><tspan x="70" dy="76">privacy gets</tspan><tspan x="70" dy="76">real</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#ff5a3d"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+  <text x="156" y="1230" fill="#9ba9c1" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#51e0b5" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
