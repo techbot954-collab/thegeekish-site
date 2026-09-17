@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- AI's next data-center bottleneck is the power grid
+  - Article: https://thegeekish.com/articles/emerald-ai-grid-data-centers.html
+  - Image: https://thegeekish.com/social-images-png/emerald-ai-grid-data-centers.png?v=20260917a
+  - Copy: social-posts/emerald-ai-grid-data-centers.md
+
+- Bose is making open earbuds louder, bassier, and sportier
+  - Article: https://thegeekish.com/articles/bose-ultra-open-earbuds-2.html
+  - Image: https://thegeekish.com/social-images-png/bose-ultra-open-earbuds-2.png?v=20260917a
+  - Copy: social-posts/bose-ultra-open-earbuds-2.md
+
+- Lucid may have found a Europe robotaxi lane with Bolt
+  - Article: https://thegeekish.com/articles/lucid-bolt-europe-robotaxi.html
+  - Image: https://thegeekish.com/social-images-png/lucid-bolt-europe-robotaxi.png?v=20260917a
+  - Copy: social-posts/lucid-bolt-europe-robotaxi.md
+
 - Comp AI raises $34M for agentic security and compliance work
   - Article: https://thegeekish.com/articles/comp-ai-agentic-compliance.html
   - Image: https://thegeekish.com/social-images-png/comp-ai-agentic-compliance.png?v=20260917a

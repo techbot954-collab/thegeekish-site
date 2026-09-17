@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050711"/><stop offset=".55" stop-color="#10283f"/><stop offset="1" stop-color="#35c4ff"/></linearGradient>
+    <radialGradient id="glow" cx="28%" cy="18%" r="76%"><stop stop-color="#f7f9ff" stop-opacity=".88"/><stop offset=".42" stop-color="#35c4ff" stop-opacity=".28"/><stop offset="1" stop-color="#35c4ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="760" fill="url(#glow)"/>
+  <g opacity=".16" stroke="#fff"><path d="M0 150H1080M0 300H1080M0 450H1080M0 600H1080"/><path d="M180 0V760M360 0V760M540 0V760M720 0V760M900 0V760"/></g>
+  <rect x="100" y="112" width="880" height="580" rx="44" fill="#f7f9ff" stroke="#fff" stroke-width="5"/>
+  <path d="M190 470C300 280 450 590 570 380S780 240 895 420" fill="none" stroke="#35c4ff" stroke-width="24" stroke-linecap="round"/>
+  <g transform="translate(260 260)">
+    <path d="M60 160l62-94c18-28 44-42 78-42h215c34 0 60 14 78 42l62 94v105H60z" fill="#101018"/>
+    <rect x="145" y="68" width="325" height="76" rx="20" fill="#dbe8d0"/>
+    <circle cx="150" cy="270" r="42" fill="#35c4ff"/><circle cx="465" cy="270" r="42" fill="#35c4ff"/>
+    <rect x="210" y="182" width="190" height="28" rx="14" fill="#f7f9ff"/>
+    <path d="M307 104v-58" stroke="#35c4ff" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <text x="150" y="650" fill="#101018" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Europe robotaxi watch</text>
+  <rect y="760" width="1080" height="590" fill="#080d18"/>
+  <text x="70" y="850" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Lucid may have</tspan><tspan x="70" dy="76">a robotaxi</tspan><tspan x="70" dy="76">lane with Bolt</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#35c4ff"/><text x="104" y="1212" text-anchor="middle" fill="#071019" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text>
+  <text x="156" y="1230" fill="#9ba9c1" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#35c4ff" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
