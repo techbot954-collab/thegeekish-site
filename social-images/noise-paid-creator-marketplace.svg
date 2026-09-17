@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1080" viewBox="0 0 1200 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Paid creator marketplace</title>
+  <desc id="desc">Editorial illustration of creators posting into a brand campaign dashboard.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffaf3"/>
+      <stop offset=".48" stop-color="#ffe3d7"/>
+      <stop offset="1" stop-color="#dbe8d0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#151515" flood-opacity=".14"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="1080" fill="url(#bg)"/>
+  <rect x="92" y="102" width="1016" height="876" rx="52" fill="#fff" opacity=".72"/>
+  <g filter="url(#shadow)">
+    <rect x="156" y="248" width="294" height="520" rx="42" fill="#151515"/>
+    <rect x="180" y="292" width="246" height="394" rx="26" fill="#fffaf3"/>
+    <rect x="506" y="204" width="538" height="442" rx="38" fill="#fffaf3" stroke="#151515" stroke-width="18"/>
+    <rect x="570" y="704" width="318" height="126" rx="36" fill="#246bfe"/>
+  </g>
+  <g fill="#ff5a3d">
+    <circle cx="246" cy="372" r="42"/>
+    <circle cx="360" cy="488" r="42"/>
+    <circle cx="255" cy="594" r="42"/>
+  </g>
+  <g fill="#246bfe">
+    <rect x="575" y="292" width="252" height="38" rx="19"/>
+    <rect x="575" y="372" width="394" height="30" rx="15"/>
+    <rect x="575" y="432" width="336" height="30" rx="15"/>
+    <rect x="575" y="492" width="230" height="30" rx="15"/>
+  </g>
+  <g fill="#151515">
+    <path d="M848 278l42 84 92 13-67 65 16 91-83-43-82 43 16-91-67-65 92-13z"/>
+    <circle cx="303" cy="720" r="14"/>
+  </g>
+  <text x="729" y="785" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="39" font-weight="1000" fill="#fff">PAID PER VIEW</text>
+  <text x="118" y="908" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#151515">Creators, not just influencers</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1080" viewBox="0 0 1200 1080" role="img" aria-labelledby="title desc">
+  <title id="title">macOS 27 Golden Gate and Siri AI</title>
+  <desc id="desc">Editorial illustration of a Mac desktop with Siri AI cards and Golden Gate colors.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dbe8d0"/>
+      <stop offset=".45" stop-color="#fffaf3"/>
+      <stop offset="1" stop-color="#ffd0c2"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="22" flood-color="#151515" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="1080" fill="url(#bg)"/>
+  <path d="M198 524c100-184 250-276 452-276s352 92 452 276" fill="none" stroke="#ff5a3d" stroke-width="48" stroke-linecap="round" opacity=".86"/>
+  <g filter="url(#shadow)">
+    <rect x="168" y="282" width="864" height="520" rx="38" fill="#151515"/>
+    <rect x="204" y="326" width="792" height="410" rx="22" fill="#fffaf3"/>
+    <rect x="328" y="808" width="544" height="54" rx="27" fill="#151515"/>
+  </g>
+  <rect x="258" y="386" width="306" height="94" rx="28" fill="#246bfe"/>
+  <rect x="258" y="524" width="246" height="42" rx="21" fill="#dbe8d0"/>
+  <rect x="258" y="600" width="330" height="42" rx="21" fill="#dbe8d0"/>
+  <rect x="646" y="386" width="258" height="238" rx="34" fill="#ff5a3d"/>
+  <circle cx="775" cy="506" r="58" fill="#fffaf3"/>
+  <path d="M744 506h62M775 475v62" stroke="#151515" stroke-width="20" stroke-linecap="round"/>
+  <text x="411" y="448" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="1000" fill="#fff">SIRI AI</text>
+  <text x="118" y="922" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#151515">Golden Gate reaches the Mac</text>
+</svg>
