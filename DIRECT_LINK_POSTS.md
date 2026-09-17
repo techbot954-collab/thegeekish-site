@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Google is pushing agentic shopping deeper into ads and checkout
+  - Article: https://thegeekish.com/articles/google-agentic-commerce-youtube-ads.html
+  - Image: https://thegeekish.com/social-images-png/google-agentic-commerce-youtube-ads.png?v=20260917a
+  - Copy: social-posts/google-agentic-commerce-youtube-ads.md
+
+- Google Search profiles are getting more useful for publishers
+  - Article: https://thegeekish.com/articles/google-search-publisher-profiles.html
+  - Image: https://thegeekish.com/social-images-png/google-search-publisher-profiles.png?v=20260917a
+  - Copy: social-posts/google-search-publisher-profiles.md
+
 - Google Home is opening the door to AI agents
   - Article: https://thegeekish.com/articles/google-home-ai-agents.html
   - Image: https://thegeekish.com/social-images-png/google-home-ai-agents.png?v=20260916a
