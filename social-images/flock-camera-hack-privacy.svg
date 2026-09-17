@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0d13"/><stop offset=".52" stop-color="#20304b"/><stop offset="1" stop-color="#56e0a6"/></linearGradient>
+    <radialGradient id="scan" cx="65%" cy="20%" r="70%"><stop stop-color="#56e0a6" stop-opacity=".76"/><stop offset=".56" stop-color="#56e0a6" stop-opacity=".12"/><stop offset="1" stop-color="#56e0a6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="740" fill="url(#scan)"/>
+  <rect x="92" y="116" width="896" height="580" rx="48" fill="#090d14" opacity=".84" stroke="rgba(255,255,255,.22)"/>
+  <text x="144" y="192" fill="#56e0a6" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">PRIVACY TECH</text>
+  <g transform="translate(156 250)">
+    <rect x="34" y="250" width="690" height="76" rx="18" fill="#151923"/>
+    <path d="M150 250l54-98h310l74 98" fill="#e8f0ff"/>
+    <rect x="220" y="178" width="230" height="56" rx="14" fill="#20304b"/>
+    <circle cx="188" cy="330" r="52" fill="#06080d"/><circle cx="560" cy="330" r="52" fill="#06080d"/>
+    <circle cx="188" cy="330" r="20" fill="#56e0a6"/><circle cx="560" cy="330" r="20" fill="#56e0a6"/>
+    <rect x="586" y="0" width="96" height="180" rx="26" fill="#e8f0ff"/>
+    <circle cx="634" cy="64" r="30" fill="#0b0d13"/>
+    <path d="M634 94v100" stroke="#e8f0ff" stroke-width="16"/>
+    <rect x="106" y="126" width="154" height="84" fill="none" stroke="#56e0a6" stroke-width="10"/>
+    <rect x="455" y="124" width="130" height="70" fill="none" stroke="#ffce5a" stroke-width="10"/>
+    <rect x="620" y="212" width="48" height="70" fill="none" stroke="#ff6b6b" stroke-width="10"/>
+  </g>
+  <path d="M780 314c82 58 130 128 142 210" fill="none" stroke="#56e0a6" stroke-width="14" stroke-linecap="round" stroke-dasharray="28 24"/>
+  <text x="148" y="642" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#070a10"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="900"><tspan x="70" dy="0">A hacked Flock camera</tspan><tspan x="70" dy="74">shows why plate readers</tspan><tspan x="70" dy="74">are bigger than plates</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#56e0a6"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#070a10" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+  <text x="156" y="1230" fill="#adb9c9" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#56e0a6" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

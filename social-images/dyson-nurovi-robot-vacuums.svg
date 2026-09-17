@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071316"/><stop offset=".5" stop-color="#173b42"/><stop offset="1" stop-color="#dff7ef"/></linearGradient>
+    <radialGradient id="lidar" cx="50%" cy="25%" r="68%"><stop stop-color="#8effdf" stop-opacity=".88"/><stop offset=".56" stop-color="#33b7ff" stop-opacity=".16"/><stop offset="1" stop-color="#33b7ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="740" fill="url(#lidar)"/>
+  <rect x="92" y="116" width="896" height="580" rx="48" fill="#071316" opacity=".82" stroke="rgba(255,255,255,.22)"/>
+  <text x="144" y="192" fill="#8effdf" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">SMART HOME</text>
+  <g opacity=".22" stroke="#fff" stroke-width="4" fill="none">
+    <path d="M168 280h740M168 398h740M168 516h740"/>
+    <path d="M260 220v356M420 220v356M580 220v356M740 220v356"/>
+  </g>
+  <g transform="translate(168 250)">
+    <circle cx="170" cy="210" r="122" fill="#effffb"/><circle cx="170" cy="210" r="48" fill="#173b42"/>
+    <circle cx="372" cy="190" r="138" fill="#d6f2ef"/><circle cx="372" cy="190" r="54" fill="#173b42"/>
+    <circle cx="602" cy="220" r="124" fill="#ffffff"/><circle cx="602" cy="220" r="46" fill="#173b42"/>
+    <path d="M372 190l-160-132M372 190l212-106M372 190l-82 184M372 190l272 152" stroke="#8effdf" stroke-width="14" stroke-linecap="round" fill="none"/>
+    <circle cx="372" cy="190" r="16" fill="#ff725c"/>
+  </g>
+  <text x="148" y="642" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#061012"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="900"><tspan x="70" dy="0">Dyson's Nurovi robot</tspan><tspan x="70" dy="76">vacuums chase smarter</tspan><tspan x="70" dy="76">mess detection</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#8effdf"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#061012" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Mika Circuit</text>
+  <text x="156" y="1230" fill="#aac5c1" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#8effdf" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

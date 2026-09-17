@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15120f"/><stop offset=".52" stop-color="#49321c"/><stop offset="1" stop-color="#f2d15c"/></linearGradient>
+    <radialGradient id="signal" cx="50%" cy="22%" r="65%"><stop stop-color="#ffe899" stop-opacity=".85"/><stop offset=".5" stop-color="#ff7d4d" stop-opacity=".22"/><stop offset="1" stop-color="#ff7d4d" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="740" fill="url(#signal)"/>
+  <rect x="92" y="116" width="896" height="580" rx="48" fill="#12100d" opacity=".82" stroke="rgba(255,255,255,.22)"/>
+  <text x="144" y="192" fill="#ffe899" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">CAR TECH</text>
+  <g transform="translate(160 260)">
+    <path d="M60 244c34-90 108-135 222-135h210c114 0 188 45 222 135l28 78H32z" fill="#f8f2e2"/>
+    <rect x="112" y="170" width="550" height="105" rx="42" fill="#2a2118"/>
+    <circle cx="166" cy="336" r="58" fill="#111"/><circle cx="606" cy="336" r="58" fill="#111"/>
+    <circle cx="166" cy="336" r="24" fill="#ffe899"/><circle cx="606" cy="336" r="24" fill="#ffe899"/>
+    <rect x="290" y="200" width="202" height="64" rx="18" fill="#ff7d4d"/>
+    <text x="391" y="244" text-anchor="middle" fill="#111" font-family="Arial" font-size="36" font-weight="900">AM</text>
+  </g>
+  <g fill="none" stroke="#ffe899" stroke-width="16" stroke-linecap="round" opacity=".95">
+    <path d="M540 190c-92 50-92 162 0 212"/>
+    <path d="M540 152c-142 72-142 250 0 322"/>
+    <path d="M540 114c-194 94-194 340 0 434"/>
+    <path d="M540 190c92 50 92 162 0 212"/>
+    <path d="M540 152c142 72 142 250 0 322"/>
+    <path d="M540 114c194 94 194 340 0 434"/>
+  </g>
+  <text x="148" y="642" fill="#fff8e8" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#100d0a"/>
+  <text x="70" y="850" fill="#fff8e8" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="900"><tspan x="70" dy="0">AM radio gets a rare</tspan><tspan x="70" dy="76">bipartisan boost for</tspan><tspan x="70" dy="76">new cars</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#ffe899"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#100d0a" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#fff8e8" font-family="Arial" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+  <text x="156" y="1230" fill="#d8c8aa" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#ffe899" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
