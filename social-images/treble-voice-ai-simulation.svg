@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06121a"/><stop offset=".55" stop-color="#0b514d"/><stop offset="1" stop-color="#f2c94c"/></linearGradient>
+    <radialGradient id="pulse" cx="32%" cy="18%" r="72%"><stop stop-color="#77ffe8" stop-opacity=".85"/><stop offset=".56" stop-color="#4b7bff" stop-opacity=".2"/><stop offset="1" stop-color="#4b7bff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="720" fill="url(#pulse)"/>
+  <g opacity=".18" stroke="#fff" stroke-width="2">
+    <path d="M96 160H984M96 280H984M96 400H984M96 520H984M96 640H984"/>
+    <path d="M180 100V690M360 100V690M540 100V690M720 100V690M900 100V690"/>
+  </g>
+  <rect x="104" y="124" width="872" height="562" rx="42" fill="#06121a" opacity=".82" stroke="rgba(255,255,255,.28)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M220 410c95-150 185-150 280 0s185 150 280 0" stroke="#77ffe8" stroke-width="18"/>
+    <path d="M220 500c95-90 185-90 280 0s185 90 280 0" stroke="#f2c94c" stroke-width="14"/>
+    <path d="M220 320c95-80 185-80 280 0s185 80 280 0" stroke="#ffffff" stroke-width="10" opacity=".8"/>
+  </g>
+  <g fill="#fff">
+    <rect x="236" y="188" width="136" height="96" rx="24"/>
+    <rect x="708" y="184" width="132" height="96" rx="24"/>
+    <circle cx="540" cy="410" r="104" fill="#77ffe8"/>
+    <circle cx="540" cy="410" r="58" fill="#06121a"/>
+    <rect x="448" y="560" width="184" height="48" rx="24"/>
+  </g>
+  <text x="148" y="188" fill="#77ffe8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">VOICE AI</text>
+  <text x="148" y="642" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#071014"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Voice AI needs fake</tspan><tspan x="70" dy="76">rooms before it gets</tspan><tspan x="70" dy="76">real users</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#77ffe8"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#06121a" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text>
+  <text x="156" y="1230" fill="#aabcb8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#77ffe8" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
