@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Huawei is aiming its next AI chip at Nvidia's China gap
+  - Article: https://thegeekish.com/articles/huawei-ascend-960dt-ai-chip.html
+  - Image: https://thegeekish.com/social-images-png/huawei-ascend-960dt-ai-chip.png?v=20260917a
+  - Copy: social-posts/huawei-ascend-960dt-ai-chip.md
+
+- AI agents are learning the most awkward app: the phone call
+  - Article: https://thegeekish.com/articles/ai-agents-phone-calls.html
+  - Image: https://thegeekish.com/social-images-png/ai-agents-phone-calls.png?v=20260917a
+  - Copy: social-posts/ai-agents-phone-calls.md
+
+- Microsoft AI's new code puts containment into the safety fight
+  - Article: https://thegeekish.com/articles/microsoft-humanist-ai-code.html
+  - Image: https://thegeekish.com/social-images-png/microsoft-humanist-ai-code.png?v=20260917a
+  - Copy: social-posts/microsoft-humanist-ai-code.md
+
 - AI's next data-center bottleneck is the power grid
   - Article: https://thegeekish.com/articles/emerald-ai-grid-data-centers.html
   - Image: https://thegeekish.com/social-images-png/emerald-ai-grid-data-centers.png?v=20260917a
