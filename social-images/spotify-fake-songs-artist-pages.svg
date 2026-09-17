@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06120c"/><stop offset=".55" stop-color="#17261f"/><stop offset="1" stop-color="#322236"/></linearGradient>
+    <linearGradient id="profile" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fff9"/><stop offset="1" stop-color="#d8ffe6"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="850" cy="250" r="190" fill="#30d865" opacity=".18"/>
+  <circle cx="150" cy="1060" r="250" fill="#ff5a87" opacity=".14"/>
+  <text x="82" y="120" fill="#8cffb0" font-family="Arial, sans-serif" font-size="34" font-weight="700">GEEKISH • STREAMING</text>
+  <rect x="140" y="250" width="800" height="650" rx="42" fill="#0c1712" stroke="#50f28a" stroke-width="5"/>
+  <rect x="205" y="315" width="670" height="140" rx="30" fill="url(#profile)"/>
+  <circle cx="280" cy="385" r="46" fill="#111b16"/>
+  <path d="M274 360v72l54-36z" fill="#50f28a"/>
+  <text x="355" y="375" fill="#152116" font-family="Arial, sans-serif" font-size="34" font-weight="800">REAL ARTIST</text>
+  <text x="355" y="420" fill="#4a6251" font-family="Arial, sans-serif" font-size="26">verified profile</text>
+  <g font-family="Arial, sans-serif" font-size="30" font-weight="700">
+    <rect x="205" y="520" width="670" height="82" rx="24" fill="#17261f"/>
+    <text x="250" y="573" fill="#f8fff9">1. New single</text>
+    <rect x="205" y="632" width="670" height="82" rx="24" fill="#17261f"/>
+    <text x="250" y="685" fill="#f8fff9">2. Tour demo</text>
+    <rect x="205" y="744" width="670" height="82" rx="24" fill="#2d1620" stroke="#ff5a87" stroke-width="4"/>
+    <text x="250" y="797" fill="#ffffff">3. Fake upload?</text>
+  </g>
+  <path d="M800 715l76 132H724z" fill="#ffcf5a"/>
+  <text x="800" y="817" fill="#171717" font-family="Arial, sans-serif" font-size="92" text-anchor="middle" font-weight="900">!</text>
+  <text x="82" y="1015" fill="#ffffff" font-family="Arial, sans-serif" font-size="70" font-weight="800">Fake songs</text>
+  <text x="82" y="1093" fill="#ffffff" font-family="Arial, sans-serif" font-size="70" font-weight="800">are landing on</text>
+  <text x="82" y="1171" fill="#ffffff" font-family="Arial, sans-serif" font-size="70" font-weight="800">real profiles</text>
+  <text x="82" y="1255" fill="#bdd2c5" font-family="Arial, sans-serif" font-size="32">Source-backed quick read at theGeekish.com</text>
+</svg>

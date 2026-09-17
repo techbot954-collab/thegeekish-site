@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Claude Code is turning Projects into a cloud-agent hub
+  - Article: https://thegeekish.com/articles/claude-code-projects-cloud-agents.html
+  - Image: https://thegeekish.com/social-images-png/claude-code-projects-cloud-agents.png?v=20260917a
+  - Copy: social-posts/claude-code-projects-cloud-agents.md
+
+- Fake songs are showing up on real artist pages
+  - Article: https://thegeekish.com/articles/spotify-fake-songs-artist-pages.html
+  - Image: https://thegeekish.com/social-images-png/spotify-fake-songs-artist-pages.png?v=20260917a
+  - Copy: social-posts/spotify-fake-songs-artist-pages.md
+
+- Candy Crush developers are planning a strike
+  - Article: https://thegeekish.com/articles/candy-crush-developers-strike.html
+  - Image: https://thegeekish.com/social-images-png/candy-crush-developers-strike.png?v=20260917a
+  - Copy: social-posts/candy-crush-developers-strike.md
+
 - AI watermarking may come with a safety tradeoff
   - Article: https://thegeekish.com/articles/ai-watermarking-safety-tradeoff.html
   - Image: https://thegeekish.com/social-images-png/ai-watermarking-safety-tradeoff.png?v=20260917a
