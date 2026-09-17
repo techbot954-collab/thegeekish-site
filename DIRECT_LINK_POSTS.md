@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- AI agents may need AI watchers too
+  - Article: https://thegeekish.com/articles/ai-agents-watchers-oversight.html
+  - Image: https://thegeekish.com/social-images-png/ai-agents-watchers-oversight.png?v=20260917a
+  - Copy: social-posts/ai-agents-watchers-oversight.md
+
+- The UN is making its data easier for AI agents to use
+  - Article: https://thegeekish.com/articles/un-google-data-commons-ai-agents.html
+  - Image: https://thegeekish.com/social-images-png/un-google-data-commons-ai-agents.png?v=20260917a
+  - Copy: social-posts/un-google-data-commons-ai-agents.md
+
 - Google's CC experiment wants to be the family logistics agent
   - Article: https://thegeekish.com/articles/google-cc-family-ai-agent.html
   - Image: https://thegeekish.com/social-images-png/google-cc-family-ai-agent.png?v=20260917a
