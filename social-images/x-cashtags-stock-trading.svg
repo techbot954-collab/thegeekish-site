@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#051014"/>
+      <stop offset=".55" stop-color="#101327"/>
+      <stop offset="1" stop-color="#070208"/>
+    </linearGradient>
+    <radialGradient id="pulse" cx="72%" cy="22%" r="65%">
+      <stop stop-color="#39ffb6" stop-opacity=".9"/>
+      <stop offset=".55" stop-color="#246bfe" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#246bfe" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="760" fill="url(#pulse)"/>
+  <g opacity=".13" stroke="#ffffff">
+    <path d="M0 130H1080M0 250H1080M0 370H1080M0 490H1080M0 610H1080"/>
+    <path d="M120 0V760M240 0V760M360 0V760M480 0V760M600 0V760M720 0V760M840 0V760M960 0V760"/>
+  </g>
+  <rect x="80" y="110" width="920" height="600" rx="42" fill="#07111d" opacity=".88" stroke="rgba(255,255,255,.18)"/>
+  <rect x="140" y="170" width="270" height="96" rx="28" fill="#ffffff" opacity=".1"/>
+  <text x="170" y="233" fill="#39ffb6" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="900">$STOCK</text>
+  <rect x="455" y="170" width="250" height="96" rx="28" fill="#ffffff" opacity=".1"/>
+  <text x="485" y="233" fill="#39ffb6" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="900">$COIN</text>
+  <rect x="750" y="170" width="170" height="96" rx="28" fill="#39ffb6"/>
+  <text x="799" y="233" fill="#041016" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">TRADE</text>
+  <path d="M150 545 C250 410 345 475 430 395 S610 305 700 375 805 545 930 392" fill="none" stroke="#39ffb6" stroke-width="18" stroke-linecap="round"/>
+  <path d="M150 610 C260 560 330 600 410 520 S560 500 650 565 805 640 930 565" fill="none" stroke="#246bfe" stroke-width="14" stroke-linecap="round" opacity=".95"/>
+  <circle cx="702" cy="375" r="22" fill="#ff5a3d"/>
+  <circle cx="930" cy="392" r="22" fill="#ff5a3d"/>
+  <text x="136" y="340" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">SOCIAL FINTECH</text>
+  <text x="136" y="660" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#080d18"/>
+  <text x="70" y="850" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900">
+    <tspan x="70" dy="0">X is turning cashtags</tspan>
+    <tspan x="70" dy="76">into a trading doorway</tspan>
+  </text>
+  <text x="70" y="1026" fill="#9ba9c1" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">
+    <tspan x="70" dy="0">Market chatter, charts, and broker links</tspan>
+    <tspan x="70" dy="45">are moving closer together.</tspan>
+  </text>
+  <circle cx="104" cy="1202" r="34" fill="#39ffb6"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#03111a" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish - Jax Pixel</text>
+  <text x="156" y="1230" fill="#9ba9c1" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#39ffb6" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
