@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071114"/><stop offset=".48" stop-color="#244a5a"/><stop offset="1" stop-color="#ffdf6c"/></linearGradient>
+    <radialGradient id="glow" cx="30%" cy="18%" r="68%"><stop stop-color="#7cffc8" stop-opacity=".75"/><stop offset=".55" stop-color="#51a7ff" stop-opacity=".2"/><stop offset="1" stop-color="#51a7ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="720" fill="url(#glow)"/>
+  <g opacity=".22" stroke="#fff" stroke-width="2">
+    <path d="M106 206H974M106 326H974M106 446H974M106 566H974"/>
+    <path d="M200 116V650M356 116V650M512 116V650M668 116V650M824 116V650"/>
+  </g>
+  <rect x="110" y="126" width="860" height="590" rx="44" fill="#071114" opacity=".82" stroke="rgba(255,255,255,.26)"/>
+  <g transform="translate(176 220)">
+    <rect x="0" y="80" width="160" height="132" rx="24" fill="#7cffc8"/>
+    <rect x="220" y="12" width="160" height="132" rx="24" fill="#ffdf6c"/>
+    <rect x="440" y="80" width="160" height="132" rx="24" fill="#51a7ff"/>
+    <path d="M160 146h60M380 78h60M380 146h60" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+    <path d="M80 146h520" stroke="#fff" stroke-opacity=".22" stroke-width="130" stroke-linecap="round"/>
+    <path d="M80 146h520" stroke="#fff" stroke-width="8" stroke-dasharray="18 24" stroke-linecap="round"/>
+    <path d="M660 12h92v212h-92z" fill="#101316" stroke="#7cffc8" stroke-width="12"/>
+    <path d="M688 62l20 24 48-58M688 140l20 24 48-58" fill="none" stroke="#ffdf6c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="148" y="190" fill="#7cffc8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">OPEN AI SAFETY</text>
+  <text x="148" y="642" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#081014"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Open-weight AI</tspan><tspan x="70" dy="76">gets a safety push</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#7cffc8"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#071114" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text>
+  <text x="156" y="1230" fill="#aabcb8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#ffdf6c" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

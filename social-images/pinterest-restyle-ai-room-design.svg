@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101316"/><stop offset=".45" stop-color="#55314f"/><stop offset="1" stop-color="#f6cf5f"/></linearGradient>
+    <radialGradient id="sun" cx="78%" cy="14%" r="58%"><stop stop-color="#ff7ac8" stop-opacity=".75"/><stop offset=".6" stop-color="#70e6c4" stop-opacity=".22"/><stop offset="1" stop-color="#70e6c4" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="720" fill="url(#sun)"/>
+  <rect x="84" y="118" width="912" height="610" rx="42" fill="#f7efe7"/>
+  <rect x="140" y="190" width="455" height="320" rx="28" fill="#263238"/>
+  <rect x="162" y="214" width="411" height="276" rx="18" fill="#fff8ec"/>
+  <path d="M162 490h411V352l-95-72-118 92-80-54-118 90z" fill="#c2d8d3"/>
+  <circle cx="486" cy="280" r="45" fill="#f6cf5f"/>
+  <rect x="650" y="184" width="250" height="360" rx="34" fill="#15191d"/>
+  <rect x="682" y="226" width="186" height="248" rx="24" fill="#fff8ec"/>
+  <rect x="706" y="378" width="138" height="52" rx="20" fill="#ff7ac8"/>
+  <circle cx="738" cy="292" r="42" fill="#70e6c4"/>
+  <path d="M802 266h36v104h-36zM716 342h118" stroke="#15191d" stroke-width="14" stroke-linecap="round"/>
+  <g fill="#15191d" font-family="Arial, Helvetica, sans-serif" font-weight="900">
+    <text x="138" y="164" font-size="28" letter-spacing="4">AI SHOPPING</text>
+    <text x="138" y="612" font-size="42">Geekish sourced read</text>
+  </g>
+  <g fill="none" stroke="#ff7ac8" stroke-width="10" stroke-linecap="round">
+    <path d="M632 594c74-62 144-58 214 0"/>
+    <path d="M684 642h110"/>
+  </g>
+  <rect y="760" width="1080" height="590" fill="#0f1418"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Pinterest wants AI</tspan><tspan x="70" dy="76">to redesign your room</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#ff7ac8"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#101316" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+  <text x="156" y="1230" fill="#aabcb8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#70e6c4" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
