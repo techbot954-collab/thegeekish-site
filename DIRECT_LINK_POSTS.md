@@ -1,5 +1,25 @@
 # Direct-link social posting index
 
+- Google's CC experiment wants to be the family logistics agent
+  - Article: https://thegeekish.com/articles/google-cc-family-ai-agent.html
+  - Image: https://thegeekish.com/social-images-png/google-cc-family-ai-agent.png?v=20260917a
+  - Copy: social-posts/google-cc-family-ai-agent.md
+
+- Unsealed AI scraping filings put publishers back in the spotlight
+  - Article: https://thegeekish.com/articles/microsoft-ai-scraping-court-filings.html
+  - Image: https://thegeekish.com/social-images-png/microsoft-ai-scraping-court-filings.png?v=20260917a
+  - Copy: social-posts/microsoft-ai-scraping-court-filings.md
+
+- Lofi Girl is turning the study-beat universe toward house music
+  - Article: https://thegeekish.com/articles/lofi-girl-house-music-station.html
+  - Image: https://thegeekish.com/social-images-png/lofi-girl-house-music-station.png?v=20260917a
+  - Copy: social-posts/lofi-girl-house-music-station.md
+
+- DJI's SDR Transmission II is built for cleaner creator monitor feeds
+  - Article: https://thegeekish.com/articles/dji-sdr-transmission-ii-creator-video.html
+  - Image: https://thegeekish.com/social-images-png/dji-sdr-transmission-ii-creator-video.png?v=20260917a
+  - Copy: social-posts/dji-sdr-transmission-ii-creator-video.md
+
 - Claude Code is turning Projects into a cloud-agent hub
   - Article: https://thegeekish.com/articles/claude-code-projects-cloud-agents.html
   - Image: https://thegeekish.com/social-images-png/claude-code-projects-cloud-agents.png?v=20260917a

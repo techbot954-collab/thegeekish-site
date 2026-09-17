@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08131f"/><stop offset=".48" stop-color="#2d2648"/><stop offset="1" stop-color="#124048"/></linearGradient>
+    <linearGradient id="vinyl" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151923"/><stop offset="1" stop-color="#02050a"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="880" cy="220" r="170" fill="#ff7fb3" opacity=".18"/>
+  <circle cx="175" cy="1110" r="235" fill="#ffcf5a" opacity=".16"/>
+  <text x="82" y="120" fill="#8ff7df" font-family="Arial, sans-serif" font-size="34" font-weight="700">GEEKISH • STREAMING</text>
+  <rect x="125" y="245" width="830" height="610" rx="38" fill="#0b1420" stroke="#62f0d0" stroke-width="5"/>
+  <circle cx="375" cy="548" r="190" fill="url(#vinyl)" stroke="#56657c" stroke-width="8"/>
+  <circle cx="375" cy="548" r="82" fill="#ffcf5a"/>
+  <circle cx="375" cy="548" r="26" fill="#0b1420"/>
+  <g stroke="#2b3548" stroke-width="4" fill="none" opacity=".9">
+    <circle cx="375" cy="548" r="140"/>
+    <circle cx="375" cy="548" r="110"/>
+  </g>
+  <rect x="590" y="360" width="240" height="285" rx="28" fill="#17243a" stroke="#ff7fb3" stroke-width="5"/>
+  <path d="M666 562c60 42 116 42 168 0" fill="none" stroke="#62f0d0" stroke-width="10" stroke-linecap="round"/>
+  <rect x="620" y="690" width="230" height="60" rx="30" fill="#62f0d0"/>
+  <text x="735" y="730" fill="#0b1420" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" font-weight="800">HOUSE MODE</text>
+  <g stroke="#ffcf5a" stroke-width="8" stroke-linecap="round">
+    <path d="M675 405v92"/>
+    <path d="M760 430v92"/>
+    <path d="M675 405l85 25"/>
+  </g>
+  <text x="82" y="1010" fill="#ffffff" font-family="Arial, sans-serif" font-size="68" font-weight="800">Lofi Girl</text>
+  <text x="82" y="1088" fill="#ffffff" font-family="Arial, sans-serif" font-size="68" font-weight="800">turns toward</text>
+  <text x="82" y="1166" fill="#ffffff" font-family="Arial, sans-serif" font-size="68" font-weight="800">house music</text>
+  <text x="82" y="1255" fill="#b7c8d8" font-family="Arial, sans-serif" font-size="32">Source-backed quick read at theGeekish.com</text>
+</svg>
