@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Xbox's disc-to-digital trick is really about preservation
+  - Article: https://thegeekish.com/articles/xbox-disc-to-digital-preservation.html
+  - Image: https://thegeekish.com/social-images-png/xbox-disc-to-digital-preservation.png?v=20260917a
+  - Copy: social-posts/xbox-disc-to-digital-preservation.md
+
+- Apple is softening tracking prompts in parts of Europe
+  - Article: https://thegeekish.com/articles/apple-eu-tracking-prompts.html
+  - Image: https://thegeekish.com/social-images-png/apple-eu-tracking-prompts.png?v=20260917a
+  - Copy: social-posts/apple-eu-tracking-prompts.md
+
+- Roku wants your TV to become an app lab
+  - Article: https://thegeekish.com/articles/roku-labs-tv-apps.html
+  - Image: https://thegeekish.com/social-images-png/roku-labs-tv-apps.png?v=20260917a
+  - Copy: social-posts/roku-labs-tv-apps.md
+
 - Camp Snap turned a skinny film-camera idea into a $75 digital throwback
   - Article: https://thegeekish.com/articles/camp-snap-110d-digital-camera.html
   - Image: https://thegeekish.com/social-images-png/camp-snap-110d-digital-camera.png?v=20260917a

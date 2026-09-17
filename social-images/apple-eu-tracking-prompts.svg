@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101018"/><stop offset=".48" stop-color="#25315f"/><stop offset="1" stop-color="#ffce5c"/></linearGradient>
+    <radialGradient id="glow" cx="28%" cy="14%" r="72%"><stop stop-color="#8ae6ff" stop-opacity=".8"/><stop offset=".55" stop-color="#ff6fae" stop-opacity=".22"/><stop offset="1" stop-color="#ff6fae" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="730" fill="url(#glow)"/>
+  <g opacity=".16" stroke="#fff" stroke-width="2">
+    <path d="M96 176H984M96 296H984M96 416H984M96 536H984"/>
+    <path d="M190 96V650M340 96V650M490 96V650M640 96V650M790 96V650M940 96V650"/>
+  </g>
+  <rect x="96" y="112" width="888" height="590" rx="44" fill="#101018" opacity=".84" stroke="rgba(255,255,255,.24)"/>
+  <rect x="318" y="150" width="444" height="514" rx="52" fill="#f8fbff"/>
+  <rect x="350" y="196" width="380" height="392" rx="32" fill="#111827"/>
+  <circle cx="540" cy="278" r="54" fill="#8ae6ff"/>
+  <path d="M520 278l18 18 36-46" fill="none" stroke="#111827" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="394" y="380" fill="#f8fbff" font-family="Arial" font-size="35" font-weight="900">Tracking?</text>
+  <rect x="392" y="430" width="296" height="54" rx="16" fill="#ffce5c"/>
+  <rect x="392" y="506" width="296" height="54" rx="16" fill="#8ae6ff"/>
+  <text x="540" y="467" text-anchor="middle" fill="#111827" font-family="Arial" font-size="25" font-weight="900">Allow</text>
+  <text x="540" y="543" text-anchor="middle" fill="#111827" font-family="Arial" font-size="25" font-weight="900">Reject</text>
+  <text x="148" y="190" fill="#8ae6ff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">APP PRIVACY</text>
+  <text x="148" y="642" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#081014"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Apple is softening</tspan><tspan x="70" dy="76">tracking prompts in</tspan><tspan x="70" dy="76">parts of Europe</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#8ae6ff"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#071014" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+  <text x="156" y="1230" fill="#aabcb8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#8ae6ff" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
