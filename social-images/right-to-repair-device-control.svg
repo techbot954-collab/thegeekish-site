@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset=".46" stop-color="#31515c"/><stop offset="1" stop-color="#f25f5c"/></linearGradient>
+    <radialGradient id="glow" cx="24%" cy="16%" r="72%"><stop stop-color="#ffe066" stop-opacity=".84"/><stop offset=".56" stop-color="#ffe066" stop-opacity=".15"/><stop offset="1" stop-color="#ffe066" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="740" fill="url(#glow)"/>
+  <g opacity=".16" stroke="#fff" stroke-width="2">
+    <path d="M126 132H954M126 272H954M126 412H954M126 552H954"/>
+    <path d="M246 80V640M410 80V640M574 80V640M738 80V640M902 80V640"/>
+  </g>
+  <rect x="150" y="134" width="780" height="560" rx="44" fill="#111827" opacity=".9" stroke="rgba(255,255,255,.24)"/>
+  <rect x="252" y="222" width="270" height="390" rx="40" fill="#f8fbff"/>
+  <rect x="558" y="250" width="284" height="216" rx="28" fill="#f8fbff"/>
+  <rect x="288" y="276" width="198" height="260" rx="20" fill="#31515c"/>
+  <circle cx="386" cy="574" r="18" fill="#31515c"/>
+  <path d="M600 502l-56 74M660 502l-56 74M720 502l-56 74" stroke="#ffe066" stroke-width="18" stroke-linecap="round"/>
+  <path d="M694 330l92-92M740 238h46v46" stroke="#f25f5c" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M640 404l-72 72" stroke="#31515c" stroke-width="20" stroke-linecap="round"/>
+  <text x="180" y="196" fill="#ffe066" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">DEVICE RIGHTS</text>
+  <text x="180" y="642" fill="#f8fbff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#0b1020"/>
+  <text x="70" y="850" fill="#f8fbff" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="900"><tspan x="70" dy="0">Do you own</tspan><tspan x="70" dy="74">your device?</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#ffe066"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#111827" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1195" fill="#f8fbff" font-family="Arial" font-size="26" font-weight="800">Geekish • Mika Circuit</text>
+  <text x="156" y="1230" fill="#b9cad0" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#ffe066" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

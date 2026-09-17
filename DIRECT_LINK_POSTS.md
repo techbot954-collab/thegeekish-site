@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Comp AI raises $34M for agentic security and compliance work
+  - Article: https://thegeekish.com/articles/comp-ai-agentic-compliance.html
+  - Image: https://thegeekish.com/social-images-png/comp-ai-agentic-compliance.png?v=20260917a
+  - Copy: social-posts/comp-ai-agentic-compliance.md
+
+- Right-to-repair is turning gadget frustration into a roadshow
+  - Article: https://thegeekish.com/articles/right-to-repair-device-control.html
+  - Image: https://thegeekish.com/social-images-png/right-to-repair-device-control.png?v=20260917a
+  - Copy: social-posts/right-to-repair-device-control.md
+
 - Google is pushing agentic shopping deeper into ads and checkout
   - Article: https://thegeekish.com/articles/google-agentic-commerce-youtube-ads.html
   - Image: https://thegeekish.com/social-images-png/google-agentic-commerce-youtube-ads.png?v=20260917a

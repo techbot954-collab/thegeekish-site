@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09111f"/><stop offset=".48" stop-color="#1d6f6f"/><stop offset="1" stop-color="#f7c948"/></linearGradient>
+    <radialGradient id="glow" cx="76%" cy="14%" r="68%"><stop stop-color="#6fffe9" stop-opacity=".78"/><stop offset=".58" stop-color="#6fffe9" stop-opacity=".16"/><stop offset="1" stop-color="#6fffe9" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="740" fill="url(#glow)"/>
+  <g opacity=".16" stroke="#f8fbff" stroke-width="2">
+    <path d="M100 160H980M100 300H980M100 440H980M100 580H980"/>
+    <path d="M190 90V660M360 90V660M530 90V660M700 90V660M870 90V660"/>
+  </g>
+  <rect x="116" y="122" width="848" height="590" rx="42" fill="#0b1323" opacity=".9" stroke="rgba(255,255,255,.24)"/>
+  <rect x="176" y="208" width="728" height="392" rx="32" fill="#f8fbff"/>
+  <rect x="220" y="258" width="242" height="36" rx="18" fill="#18324a"/>
+  <rect x="220" y="338" width="420" height="28" rx="14" fill="#d7e3ea"/>
+  <rect x="220" y="400" width="520" height="28" rx="14" fill="#d7e3ea"/>
+  <rect x="220" y="462" width="360" height="28" rx="14" fill="#d7e3ea"/>
+  <g fill="none" stroke="#1d6f6f" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M760 286l54 54 104-116"/>
+    <path d="M760 430l54 54 104-116"/>
+  </g>
+  <circle cx="738" cy="356" r="128" fill="#f7c948" opacity=".22"/>
+  <text x="148" y="182" fill="#6fffe9" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">AGENTIC SECURITY</text>
+  <text x="148" y="654" fill="#f8fbff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#07101d"/>
+  <text x="70" y="850" fill="#f8fbff" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="900"><tspan x="70" dy="0">Compliance wants</tspan><tspan x="70" dy="76">AI agents now</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#6fffe9"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#09111f" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f8fbff" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text>
+  <text x="156" y="1230" fill="#b9cad0" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#6fffe9" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
