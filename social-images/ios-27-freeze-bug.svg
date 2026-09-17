@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071114"/><stop offset=".54" stop-color="#16435c"/><stop offset="1" stop-color="#a7f3d0"/></linearGradient>
+    <radialGradient id="glow" cx="36%" cy="16%" r="72%"><stop stop-color="#28a2ff" stop-opacity=".9"/><stop offset=".62" stop-color="#a7f3d0" stop-opacity=".16"/><stop offset="1" stop-color="#a7f3d0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="720" fill="url(#glow)"/>
+  <g opacity=".18" stroke="#fff" stroke-width="2">
+    <path d="M124 170H956M124 300H956M124 430H956M124 560H956"/>
+    <path d="M240 96V662M420 96V662M600 96V662M780 96V662"/>
+  </g>
+  <rect x="310" y="116" width="460" height="604" rx="78" fill="#080d12" stroke="rgba(255,255,255,.35)" stroke-width="8"/>
+  <rect x="346" y="178" width="388" height="474" rx="42" fill="#f8fbff"/>
+  <rect x="386" y="220" width="308" height="78" rx="28" fill="#28a2ff"/>
+  <rect x="386" y="324" width="308" height="78" rx="28" fill="#a7f3d0"/>
+  <rect x="386" y="428" width="308" height="78" rx="28" fill="#ffcf55"/>
+  <path d="M430 578h220M458 606h164" stroke="#ff5a3d" stroke-width="22" stroke-linecap="round"/>
+  <path d="M370 150l-56-64M710 150l56-64M540 682v78" stroke="#a7f3d0" stroke-width="18" stroke-linecap="round"/>
+  <text x="148" y="190" fill="#a7f3d0" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">IPHONE BUG</text>
+  <text x="148" y="642" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#071114"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">iOS 27 has a</tspan><tspan x="70" dy="76">freeze bug</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#a7f3d0"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#071114" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Mika Circuit</text>
+  <text x="156" y="1230" fill="#aabcb8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#a7f3d0" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

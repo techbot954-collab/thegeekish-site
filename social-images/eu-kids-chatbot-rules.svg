@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101326"/><stop offset=".52" stop-color="#244b62"/><stop offset="1" stop-color="#ffd166"/></linearGradient>
+    <radialGradient id="glow" cx="35%" cy="18%" r="70%"><stop stop-color="#74f2ce" stop-opacity=".88"/><stop offset=".62" stop-color="#74f2ce" stop-opacity=".12"/><stop offset="1" stop-color="#74f2ce" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="720" fill="url(#glow)"/>
+  <g opacity=".18" stroke="#fff" stroke-width="2">
+    <path d="M120 160H960M120 300H960M120 440H960M120 580H960"/>
+    <path d="M220 90V660M390 90V660M560 90V660M730 90V660M900 90V660"/>
+  </g>
+  <rect x="112" y="128" width="856" height="574" rx="46" fill="#101326" opacity=".86" stroke="rgba(255,255,255,.25)"/>
+  <rect x="240" y="218" width="600" height="286" rx="54" fill="#f8fbff"/>
+  <circle cx="348" cy="360" r="56" fill="#74f2ce"/>
+  <circle cx="540" cy="360" r="56" fill="#ffd166"/>
+  <circle cx="732" cy="360" r="56" fill="#ff5a3d"/>
+  <path d="M300 536h480" stroke="#74f2ce" stroke-width="24" stroke-linecap="round"/>
+  <path d="M352 536h376" stroke="#ffd166" stroke-width="10" stroke-linecap="round"/>
+  <path d="M540 172v96M540 456v132M418 304l-82-68M662 304l82-68" stroke="#74f2ce" stroke-width="18" stroke-linecap="round"/>
+  <text x="148" y="190" fill="#74f2ce" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">AI CHILD SAFETY</text>
+  <text x="148" y="642" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#0b1020"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="900"><tspan x="70" dy="0">Kids' chatbots face</tspan><tspan x="70" dy="76">new EU guardrails</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#74f2ce"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#101326" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text>
+  <text x="156" y="1230" fill="#b9cad0" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#74f2ce" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

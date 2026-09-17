@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17111f"/><stop offset=".5" stop-color="#3b1f54"/><stop offset="1" stop-color="#28a2ff"/></linearGradient>
+    <radialGradient id="glow" cx="32%" cy="18%" r="72%"><stop stop-color="#ff5a3d" stop-opacity=".85"/><stop offset=".58" stop-color="#28a2ff" stop-opacity=".18"/><stop offset="1" stop-color="#28a2ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="710" fill="url(#glow)"/>
+  <g opacity=".2" stroke="#fff" stroke-width="2">
+    <path d="M112 188H968M112 326H968M112 464H968M112 602H968"/>
+    <path d="M214 112V650M386 112V650M558 112V650M730 112V650M902 112V650"/>
+  </g>
+  <rect x="104" y="118" width="872" height="590" rx="46" fill="#17111f" opacity=".84" stroke="rgba(255,255,255,.25)"/>
+  <rect x="250" y="196" width="580" height="360" rx="38" fill="#f9fbff"/>
+  <circle cx="432" cy="366" r="92" fill="#28a2ff"/>
+  <circle cx="648" cy="366" r="92" fill="#ff5a3d"/>
+  <path d="M540 236c54 42 82 86 82 132s-28 90-82 132c-54-42-82-86-82-132s28-90 82-132z" fill="#17111f" opacity=".78"/>
+  <rect x="328" y="582" width="424" height="48" rx="24" fill="#ffcf55"/>
+  <path d="M376 606h328" stroke="#17111f" stroke-width="12" stroke-linecap="round"/>
+  <text x="148" y="190" fill="#ffcf55" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">AI DEEPFAKES</text>
+  <text x="148" y="642" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="760" width="1080" height="590" fill="#120d1a"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900"><tspan x="70" dy="0">Meta's deepfake rules</tspan><tspan x="70" dy="76">under pressure</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#ffcf55"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#17111f" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+  <text x="156" y="1230" fill="#c8b7d7" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#ffcf55" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
