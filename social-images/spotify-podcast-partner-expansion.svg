@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#062a1f"/><stop offset="0.52" stop-color="#111827"/><stop offset="1" stop-color="#042f2e"/></linearGradient>
+    <radialGradient id="pulse" cx="50%" cy="35%" r="55%"><stop offset="0" stop-color="#1ed760" stop-opacity="0.75"/><stop offset="1" stop-color="#1ed760" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="1350" fill="url(#pulse)"/>
+  <g opacity="0.18" stroke="#ffffff" stroke-width="2">
+    <path d="M150 310c210 90 550 90 780 0"/>
+    <path d="M120 500c250 95 620 95 840 0"/>
+    <path d="M170 690c210 80 540 80 740 0"/>
+  </g>
+  <g transform="translate(135 245)">
+    <rect x="0" y="0" width="810" height="560" rx="42" fill="#07111f" opacity="0.92"/>
+    <circle cx="405" cy="250" r="155" fill="#1ed760"/>
+    <circle cx="405" cy="250" r="72" fill="#07111f"/>
+    <rect x="376" y="115" width="58" height="235" rx="29" fill="#f8fafc"/>
+    <path d="M320 270c0 95 170 95 170 0" fill="none" stroke="#f8fafc" stroke-width="28" stroke-linecap="round"/>
+    <path d="M405 365v58M340 423h130" stroke="#f8fafc" stroke-width="28" stroke-linecap="round"/>
+    <g fill="#34d399">
+      <rect x="83" y="90" width="118" height="72" rx="18"/>
+      <rect x="610" y="95" width="120" height="72" rx="18"/>
+      <rect x="92" y="400" width="150" height="72" rx="18"/>
+      <rect x="585" y="405" width="145" height="72" rx="18"/>
+    </g>
+  </g>
+  <text x="86" y="980" fill="#a7f3d0" font-family="Arial, sans-serif" font-size="38" font-weight="700">CREATOR TECH</text>
+  <text x="86" y="1064" fill="#ffffff" font-family="Arial, sans-serif" font-size="78" font-weight="900">Spotify widens</text>
+  <text x="86" y="1152" fill="#ffffff" font-family="Arial, sans-serif" font-size="78" font-weight="900">podcast payouts</text>
+  <text x="86" y="1238" fill="#d1fae5" font-family="Arial, sans-serif" font-size="34">35-region expansion pushes video</text>
+  <text x="86" y="1284" fill="#d1fae5" font-family="Arial, sans-serif" font-size="34">podcasts deeper into creator money.</text>
+  <text x="86" y="90" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="900">Geekish</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06121f"/><stop offset="0.5" stop-color="#172033"/><stop offset="1" stop-color="#0f3a3a"/></linearGradient>
+    <linearGradient id="watch" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2e8f0"/><stop offset="1" stop-color="#64748b"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g opacity="0.22" fill="none" stroke="#67e8f9" stroke-width="4">
+    <path d="M145 390c120-90 225-90 315 0s200 90 330 0"/>
+    <path d="M145 505c120-90 225-90 315 0s200 90 330 0"/>
+    <path d="M145 620c120-90 225-90 315 0s200 90 330 0"/>
+  </g>
+  <g transform="translate(315 205)">
+    <rect x="162" y="0" width="126" height="145" rx="40" fill="#111827"/>
+    <rect x="162" y="545" width="126" height="145" rx="40" fill="#111827"/>
+    <rect x="40" y="110" width="370" height="500" rx="92" fill="url(#watch)"/>
+    <rect x="73" y="143" width="304" height="434" rx="66" fill="#050816"/>
+    <circle cx="225" cy="340" r="112" fill="#0f766e" opacity="0.9"/>
+    <path d="M145 348h48l29-78 48 145 36-67h52" fill="none" stroke="#f8fafc" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="225" cy="340" r="154" fill="none" stroke="#22d3ee" stroke-width="10" stroke-dasharray="22 24"/>
+  </g>
+  <g fill="#34d399">
+    <circle cx="230" cy="270" r="18"/><circle cx="810" cy="282" r="18"/><circle cx="195" cy="760" r="18"/><circle cx="875" cy="740" r="18"/>
+  </g>
+  <text x="86" y="980" fill="#67e8f9" font-family="Arial, sans-serif" font-size="38" font-weight="700">WEARABLE AI</text>
+  <text x="86" y="1064" fill="#ffffff" font-family="Arial, sans-serif" font-size="70" font-weight="900">Apple Watch</text>
+  <text x="86" y="1146" fill="#ffffff" font-family="Arial, sans-serif" font-size="70" font-weight="900">enters the AI era</text>
+  <text x="86" y="1238" fill="#ccfbf1" font-family="Arial, sans-serif" font-size="34">Series 12 adds deeper sensing,</text>
+  <text x="86" y="1284" fill="#ccfbf1" font-family="Arial, sans-serif" font-size="34">readiness, and audio intelligence.</text>
+  <text x="86" y="90" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="900">Geekish</text>
+</svg>

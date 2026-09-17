@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#19072f"/><stop offset="0.45" stop-color="#1f1235"/><stop offset="1" stop-color="#073344"/></linearGradient>
+    <linearGradient id="disc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.48" stop-color="#f97316"/><stop offset="1" stop-color="#f43f5e"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g opacity="0.23" stroke="#ffffff" stroke-width="12">
+    <path d="M90 255h900M90 335h900M90 415h900"/>
+  </g>
+  <g transform="translate(130 250)">
+    <rect x="0" y="0" width="820" height="560" rx="46" fill="#050816" opacity="0.9"/>
+    <circle cx="420" cy="280" r="205" fill="url(#disc)"/>
+    <circle cx="420" cy="280" r="77" fill="#050816"/>
+    <circle cx="420" cy="280" r="29" fill="#fff7ed"/>
+    <g fill="#22d3ee">
+      <rect x="115" y="360" width="34" height="105" rx="12"/>
+      <rect x="170" y="315" width="34" height="150" rx="12"/>
+      <rect x="225" y="388" width="34" height="77" rx="12"/>
+      <rect x="580" y="295" width="34" height="170" rx="12"/>
+      <rect x="635" y="350" width="34" height="115" rx="12"/>
+      <rect x="690" y="250" width="34" height="215" rx="12"/>
+    </g>
+    <text x="292" y="292" fill="#ffffff" font-family="Arial, sans-serif" font-size="44" font-weight="900">34</text>
+  </g>
+  <text x="86" y="980" fill="#fbbf24" font-family="Arial, sans-serif" font-size="38" font-weight="700">GAMING CULTURE</text>
+  <text x="86" y="1064" fill="#ffffff" font-family="Arial, sans-serif" font-size="74" font-weight="900">GTA VI gets a</text>
+  <text x="86" y="1150" fill="#ffffff" font-family="Arial, sans-serif" font-size="74" font-weight="900">launch-day album</text>
+  <text x="86" y="1238" fill="#cffafe" font-family="Arial, sans-serif" font-size="34">Rockstar turns the soundtrack</text>
+  <text x="86" y="1284" fill="#cffafe" font-family="Arial, sans-serif" font-size="34">into its own release event.</text>
+  <text x="86" y="90" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="900">Geekish</text>
+</svg>
