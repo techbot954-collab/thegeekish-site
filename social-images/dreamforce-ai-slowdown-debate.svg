@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16110d"/><stop offset=".55" stop-color="#7b3028"/><stop offset="1" stop-color="#38c3ff"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="102" y="126" width="876" height="520" rx="44" fill="#fff7ec" opacity=".94"/>
+  <rect x="172" y="244" width="736" height="236" rx="32" fill="#16110d"/>
+  <circle cx="382" cy="362" r="76" fill="#ff5a3d"/>
+  <rect x="348" y="316" width="22" height="92" fill="#fff7ec"/>
+  <rect x="394" y="316" width="22" height="92" fill="#fff7ec"/>
+  <path d="M610 302l112 60-112 60z" fill="#38c3ff"/>
+  <path d="M738 302l112 60-112 60z" fill="#38c3ff" opacity=".68"/>
+  <text x="168" y="574" fill="#7b3028" font-family="Arial" font-size="34" font-weight="900" letter-spacing="4">AI SPEED LIMIT DEBATE</text>
+  <rect y="760" width="1080" height="590" fill="#16110d"/>
+  <text x="70" y="850" fill="#fff7ec" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">The AI slowdown</tspan><tspan x="70" dy="76">fight crashed</tspan><tspan x="70" dy="76">Dreamforce</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#38c3ff"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#16110d" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#fff7ec" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text>
+  <text x="156" y="1230" fill="#cabfb2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#38c3ff" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

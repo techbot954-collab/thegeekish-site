@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- AI watermarking may come with a safety tradeoff
+  - Article: https://thegeekish.com/articles/ai-watermarking-safety-tradeoff.html
+  - Image: https://thegeekish.com/social-images-png/ai-watermarking-safety-tradeoff.png?v=20260917a
+  - Copy: social-posts/ai-watermarking-safety-tradeoff.md
+
+- The AI slowdown fight crashed Dreamforce
+  - Article: https://thegeekish.com/articles/dreamforce-ai-slowdown-debate.html
+  - Image: https://thegeekish.com/social-images-png/dreamforce-ai-slowdown-debate.png?v=20260917a
+  - Copy: social-posts/dreamforce-ai-slowdown-debate.md
+
+- Waymo is restarting San Antonio robotaxi service
+  - Article: https://thegeekish.com/articles/waymo-san-antonio-restart.html
+  - Image: https://thegeekish.com/social-images-png/waymo-san-antonio-restart.png?v=20260917a
+  - Copy: social-posts/waymo-san-antonio-restart.md
+
 - Xbox's disc-to-digital trick is really about preservation
   - Article: https://thegeekish.com/articles/xbox-disc-to-digital-preservation.html
   - Image: https://thegeekish.com/social-images-png/xbox-disc-to-digital-preservation.png?v=20260917a
