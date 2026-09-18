@@ -13,6 +13,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://thegeekish.com/articles/rathat-android-malware-ai-control.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/brevo-clickfix-supply-chain-attack.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/piracy-site-blocking-bill.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://thegeekish.com/articles/overwatch-blizzcon-doctrine-reworks.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
