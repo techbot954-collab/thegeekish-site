@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081016"/><stop offset=".5" stop-color="#24434d"/><stop offset="1" stop-color="#73e2a7"/></linearGradient><radialGradient id="map" cx="50%" cy="36%" r="50%"><stop stop-color="#73e2a7" stop-opacity=".55"/><stop offset=".75" stop-color="#73e2a7" stop-opacity=".08"/><stop offset="1" stop-color="#73e2a7" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/><rect width="1080" height="760" fill="url(#map)"/>
+  <g transform="translate(155 210)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="385" cy="230" r="205" stroke="#f7fff9" stroke-width="9"/>
+    <path d="M190 230h390M385 25c72 66 108 134 108 205s-36 139-108 205M385 25c-72 66-108 134-108 205s36 139 108 205" stroke="#f7fff9" stroke-width="6" opacity=".7"/>
+    <path d="M238 110c70 30 179 31 292 0M238 350c70-30 179-31 292 0" stroke="#f7fff9" stroke-width="6" opacity=".7"/>
+    <rect x="650" y="135" width="54" height="240" rx="10" fill="#ff6b4a" stroke="#f7fff9" stroke-width="6"/>
+    <rect x="575" y="230" width="54" height="145" rx="10" fill="#ffcc66" stroke="#f7fff9" stroke-width="6"/>
+    <path d="M112 485h546" stroke="#73e2a7" stroke-width="16"/>
+    <path d="M300 225h170M342 170h86M336 282h98" stroke="#73e2a7" stroke-width="12"/>
+  </g>
+  <text x="78" y="150" fill="#73e2a7" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">AI ECONOMY</text><text x="78" y="715" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="780" width="1080" height="570" fill="#071014"/><text x="70" y="872" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900"><tspan x="70" dy="0">Global AI survey</tspan><tspan x="70" dy="74">puts job fears</tspan><tspan x="70" dy="74">front and center</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#73e2a7"/><text x="104" y="1212" text-anchor="middle" fill="#081016" font-family="Arial" font-size="24" font-weight="900">NB</text><text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text><text x="156" y="1230" fill="#aabcb8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text><text x="70" y="1285" fill="#73e2a7" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

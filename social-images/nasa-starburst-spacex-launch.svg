@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#173b5d"/><stop offset="1" stop-color="#ffb000"/></linearGradient><radialGradient id="burst" cx="68%" cy="25%" r="42%"><stop stop-color="#fff5bd"/><stop offset=".5" stop-color="#ffb000" stop-opacity=".38"/><stop offset="1" stop-color="#ffb000" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/><rect width="1080" height="760" fill="url(#burst)"/>
+  <g fill="#f7fff9" opacity=".8"><circle cx="130" cy="125" r="4"/><circle cx="245" cy="250" r="5"/><circle cx="790" cy="150" r="4"/><circle cx="920" cy="330" r="5"/><circle cx="620" cy="480" r="3"/><circle cx="350" cy="120" r="3"/></g>
+  <g transform="translate(175 210)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 420c135 85 368 86 505 0" fill="none" stroke="#7fd3ff" stroke-width="18" opacity=".85"/>
+    <path d="M360 170l120 95-90 115-120-95 90-115Z" fill="#0a1424" stroke="#f7fff9" stroke-width="8"/>
+    <path d="M276 282l-95-48M485 260l112-62" stroke="#ffcc66" stroke-width="14"/>
+    <rect x="145" y="196" width="72" height="68" rx="8" fill="#173b5d" stroke="#f7fff9" stroke-width="6"/>
+    <rect x="585" y="160" width="78" height="72" rx="8" fill="#173b5d" stroke="#f7fff9" stroke-width="6"/>
+    <path d="M380 210l-36 45 47 38 36-45-47-38Z" fill="#9df7ff"/>
+    <path d="M610 75l30 85 88 20-85 30-28 86-30-86-85-28 86-24 24-83Z" fill="#fff0a8" stroke="#fff0a8" stroke-width="6"/>
+  </g>
+  <text x="78" y="150" fill="#ffcc66" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">SPACE SCIENCE</text><text x="78" y="715" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="780" width="1080" height="570" fill="#070b15"/><text x="70" y="872" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900"><tspan x="70" dy="0">NASA's gamma-ray</tspan><tspan x="70" dy="74">hunter gets a</tspan><tspan x="70" dy="74">Falcon 9 ride</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#ffcc66"/><text x="104" y="1212" text-anchor="middle" fill="#050816" font-family="Arial" font-size="24" font-weight="900">MC</text><text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Mika Circuit</text><text x="156" y="1230" fill="#aabcb8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text><text x="70" y="1285" fill="#ffcc66" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

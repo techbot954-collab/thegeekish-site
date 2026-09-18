@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".54" stop-color="#20324f"/><stop offset="1" stop-color="#e45c46"/></linearGradient><radialGradient id="pulse" cx="52%" cy="34%" r="55%"><stop stop-color="#9df7ff" stop-opacity=".68"/><stop offset=".7" stop-color="#9df7ff" stop-opacity=".1"/><stop offset="1" stop-color="#9df7ff" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/><rect width="1080" height="720" fill="url(#pulse)"/>
+  <g opacity=".24" stroke="#f7fff9" stroke-width="3"><path d="M0 220H1080M0 360H1080M0 500H1080"/><path d="M160 80V650M350 80V650M540 80V650M730 80V650M920 80V650"/></g>
+  <g transform="translate(165 195)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M375 80v330" stroke="#f7fff9" stroke-width="14"/>
+    <path d="M175 165h400" stroke="#f7fff9" stroke-width="14"/>
+    <path d="M185 165 95 355h180L185 165Z" fill="#111827" stroke="#f7fff9" stroke-width="9"/>
+    <path d="M565 165 475 355h180L565 165Z" fill="#111827" stroke="#f7fff9" stroke-width="9"/>
+    <path d="M260 500h230" stroke="#ffcc66" stroke-width="18"/>
+    <circle cx="375" cy="80" r="38" fill="#9df7ff" stroke="#f7fff9" stroke-width="8"/>
+    <g stroke="#9df7ff" stroke-width="8"><circle cx="375" cy="255" r="42"/><circle cx="300" cy="330" r="30"/><circle cx="450" cy="330" r="30"/><path d="M345 285 315 312M405 285l30 27M330 330h90"/></g>
+  </g>
+  <text x="78" y="150" fill="#9df7ff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">AI POLICY</text><text x="78" y="715" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="780" width="1080" height="570" fill="#080d17"/><text x="70" y="872" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900"><tspan x="70" dy="0">AI slowdown</tspan><tspan x="70" dy="74">talk meets</tspan><tspan x="70" dy="74">antitrust law</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#9df7ff"/><text x="104" y="1212" text-anchor="middle" fill="#07111f" font-family="Arial" font-size="24" font-weight="900">NB</text><text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text><text x="156" y="1230" fill="#aabcb8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text><text x="70" y="1285" fill="#9df7ff" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

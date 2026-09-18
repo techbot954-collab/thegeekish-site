@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- The AI slowdown debate just picked up an antitrust problem
+  - Article: https://thegeekish.com/articles/ai-slowdown-antitrust-mess.html
+  - Image: https://thegeekish.com/social-images-png/ai-slowdown-antitrust-mess.png?v=20260918b
+  - Copy: social-posts/ai-slowdown-antitrust-mess.md
+
+- NASA picked SpaceX to launch its StarBurst gamma-ray hunter
+  - Article: https://thegeekish.com/articles/nasa-starburst-spacex-launch.html
+  - Image: https://thegeekish.com/social-images-png/nasa-starburst-spacex-launch.png?v=20260918b
+  - Copy: social-posts/nasa-starburst-spacex-launch.md
+
+- Pew's global AI survey says job fears are the headline
+  - Article: https://thegeekish.com/articles/global-ai-job-fears-pew.html
+  - Image: https://thegeekish.com/social-images-png/global-ai-job-fears-pew.png?v=20260918b
+  - Copy: social-posts/global-ai-job-fears-pew.md
+
 - AI agents may need AI watchers too
   - Article: https://thegeekish.com/articles/ai-agents-watchers-oversight.html
   - Image: https://thegeekish.com/social-images-png/ai-agents-watchers-oversight.png?v=20260917a
