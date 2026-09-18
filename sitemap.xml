@@ -13,6 +13,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://thegeekish.com/articles/edge-ai-drones-battlefield.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/wired-ai-apocalypse-scenarios.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://thegeekish.com/articles/waymo-singapore-robotaxi-2028.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>

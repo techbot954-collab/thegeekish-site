@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131f"/><stop offset=".58" stop-color="#314a2f"/><stop offset="1" stop-color="#d8f35f"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="82" y="104" width="916" height="596" rx="42" fill="#eef6e6" opacity=".96"/>
+  <path d="M142 546h796M186 422h708M228 298h624" stroke="#c5d3bd" stroke-width="10"/>
+  <path d="M270 192v430M540 154v468M810 192v430" stroke="#c5d3bd" stroke-width="10"/>
+  <path d="M540 260l162 92-162 92-162-92z" fill="#07131f"/>
+  <path d="M540 284l116 68-116 68-116-68z" fill="#d8f35f"/>
+  <circle cx="540" cy="352" r="36" fill="#07131f"/>
+  <path d="M316 226h130M634 226h130M316 478h130M634 478h130" stroke="#07131f" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="270" cy="352" r="34" fill="#ffce3d"/><circle cx="810" cy="352" r="34" fill="#ffce3d"/>
+  <path d="M270 352h234M576 352h234" stroke="#314a2f" stroke-width="12" stroke-dasharray="24 22"/>
+  <text x="140" y="636" fill="#314a2f" font-family="Arial" font-size="34" font-weight="900" letter-spacing="4">EDGE AI GRID</text>
+  <rect y="760" width="1080" height="590" fill="#07131f"/>
+  <text x="70" y="850" fill="#f3fbff" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="900"><tspan x="70" dy="0">Small AI models</tspan><tspan x="70" dy="76">move closer to</tspan><tspan x="70" dy="76">battlefield drones</tspan></text>
+  <text x="70" y="1094" fill="#d8f35f" font-family="Arial" font-size="45" font-weight="900">EDGE HARDWARE, BIG QUESTIONS</text>
+  <circle cx="104" cy="1202" r="34" fill="#ffce3d"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#07131f" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f3fbff" font-family="Arial" font-size="26" font-weight="800">Geekish • Nova Byte</text>
+  <text x="156" y="1230" fill="#b7d6d8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#d8f35f" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
