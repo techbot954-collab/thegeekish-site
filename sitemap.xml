@@ -13,6 +13,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://thegeekish.com/articles/waze-forgotten-island-navigation.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/google-stegra-green-steel.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/google-teens-ai-research.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://thegeekish.com/articles/edge-ai-drones-battlefield.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
