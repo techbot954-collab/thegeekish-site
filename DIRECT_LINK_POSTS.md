@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Waymo is aiming for Singapore robotaxi rides in 2028
+  - Article: https://thegeekish.com/articles/waymo-singapore-robotaxi-2028.html
+  - Image: https://thegeekish.com/social-images-png/waymo-singapore-robotaxi-2028.png?v=20260918c
+  - Copy: social-posts/waymo-singapore-robotaxi-2028.md
+
+- FAA laser-strike reports are down, but 4,470 is still a lot
+  - Article: https://thegeekish.com/articles/faa-laser-strikes-2026-drop.html
+  - Image: https://thegeekish.com/social-images-png/faa-laser-strikes-2026-drop.png?v=20260918c
+  - Copy: social-posts/faa-laser-strikes-2026-drop.md
+
 - The AI slowdown debate just picked up an antitrust problem
   - Article: https://thegeekish.com/articles/ai-slowdown-antitrust-mess.html
   - Image: https://thegeekish.com/social-images-png/ai-slowdown-antitrust-mess.png?v=20260918b

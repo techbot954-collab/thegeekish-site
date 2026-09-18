@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#140b26"/><stop offset=".52" stop-color="#44318d"/><stop offset="1" stop-color="#00c2ff"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="82" y="110" width="916" height="594" rx="44" fill="#f7fbff" opacity=".94"/>
+  <path d="M162 570h760" stroke="#140b26" stroke-width="18" stroke-linecap="round"/>
+  <path d="M230 506h620" stroke="#c9d5e3" stroke-width="10" stroke-linecap="round"/>
+  <path d="M188 224l672 324" stroke="#ff3860" stroke-width="18" stroke-linecap="round" opacity=".82"/>
+  <path d="M260 300l500 242" stroke="#00c2ff" stroke-width="12" stroke-linecap="round" opacity=".7"/>
+  <path d="M744 280l-78 224h156z" fill="#44318d"/>
+  <rect x="636" y="504" width="216" height="46" rx="23" fill="#140b26"/>
+  <circle cx="690" cy="550" r="36" fill="#00c2ff"/>
+  <circle cx="808" cy="550" r="36" fill="#00c2ff"/>
+  <path d="M364 444c52-54 104-54 156 0" fill="none" stroke="#ffce3d" stroke-width="20" stroke-linecap="round"/>
+  <text x="140" y="638" fill="#44318d" font-family="Arial" font-size="34" font-weight="900" letter-spacing="4">AIRSPACE WARNING</text>
+  <rect y="760" width="1080" height="590" fill="#140b26"/>
+  <text x="70" y="850" fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">FAA laser</tspan><tspan x="70" dy="76">reports fell</tspan><tspan x="70" dy="76">again</tspan></text>
+  <text x="70" y="1094" fill="#00c2ff" font-family="Arial" font-size="46" font-weight="900">4,470 STILL REPORTED</text>
+  <circle cx="104" cy="1202" r="34" fill="#ffce3d"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#140b26" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7fbff" font-family="Arial" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+  <text x="156" y="1230" fill="#c7d4e2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#00c2ff" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

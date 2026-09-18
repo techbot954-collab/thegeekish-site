@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131f"/><stop offset=".56" stop-color="#134e6f"/><stop offset="1" stop-color="#00d084"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="80" y="104" width="920" height="600" rx="42" fill="#f3fbff" opacity=".95"/>
+  <path d="M142 514c118-92 207-112 302-62 91 48 147 18 226-58 74-70 148-98 268-56" fill="none" stroke="#07131f" stroke-width="28" stroke-linecap="round" stroke-dasharray="38 32"/>
+  <path d="M230 594h648" stroke="#ccdce5" stroke-width="18" stroke-linecap="round"/>
+  <rect x="342" y="306" width="396" height="154" rx="52" fill="#00a3a3"/>
+  <rect x="406" y="332" width="92" height="50" rx="14" fill="#dffcff"/>
+  <rect x="532" y="332" width="92" height="50" rx="14" fill="#dffcff"/>
+  <circle cx="430" cy="470" r="42" fill="#07131f"/>
+  <circle cx="644" cy="470" r="42" fill="#07131f"/>
+  <path d="M793 208l35 70-35 70-35-70z" fill="#ffce3d"/>
+  <path d="M186 232h104v104H186zM222 268h32v32h-32zM790 520h84v84h-84z" fill="#134e6f" opacity=".22"/>
+  <text x="140" y="636" fill="#134e6f" font-family="Arial" font-size="34" font-weight="900" letter-spacing="4">SINGAPORE ROUTE</text>
+  <rect y="760" width="1080" height="590" fill="#07131f"/>
+  <text x="70" y="850" fill="#f3fbff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Waymo targets</tspan><tspan x="70" dy="76">Singapore</tspan><tspan x="70" dy="76">robotaxi rides</tspan></text>
+  <text x="70" y="1094" fill="#00d084" font-family="Arial" font-size="46" font-weight="900">2028 PUBLIC TARGET</text>
+  <circle cx="104" cy="1202" r="34" fill="#ffce3d"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#07131f" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1195" fill="#f3fbff" font-family="Arial" font-size="26" font-weight="800">Geekish • Mika Circuit</text>
+  <text x="156" y="1230" fill="#b7d6d8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#00d084" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
