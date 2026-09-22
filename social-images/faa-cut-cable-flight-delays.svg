@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d8ecff"/>
+      <stop offset="0.58" stop-color="#fffaf3"/>
+      <stop offset="1" stop-color="#d9d0c4"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#201812" flood-opacity=".2"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#sky)"/>
+  <rect x="0" y="774" width="1200" height="426" fill="#151515"/>
+  <path d="M0 894h1200" stroke="#fffaf3" stroke-width="18" stroke-dasharray="90 70" opacity=".9"/>
+  <g filter="url(#shadow)">
+    <path d="M160 585c160-48 326-72 500-72 128 0 252 18 372 54 35 10 49 53 25 80l-70 78c-18 20-47 27-72 16-83-36-171-54-264-54-114 0-224 25-329 75-29 14-63 4-80-23l-100-157c-14-23-5-50 18-57z" fill="#fffaf3"/>
+    <path d="M429 515l69-170c11-28 43-42 71-31l80 31-116 190z" fill="#246bfe"/>
+    <path d="M702 524l190-100c26-14 58-4 72 22l40 75-238 44z" fill="#ff5a3d"/>
+    <circle cx="365" cy="760" r="50" fill="#2d2d2d"/>
+    <circle cx="820" cy="760" r="50" fill="#2d2d2d"/>
+  </g>
+  <g filter="url(#shadow)">
+    <path d="M203 938c118-86 212-86 282 0s164 86 282 0 212-86 282 0" fill="none" stroke="#2ed3ff" stroke-width="28" stroke-linecap="round"/>
+    <path d="M557 872l-62 132M636 872l-62 132" stroke="#ff5a3d" stroke-width="22" stroke-linecap="round"/>
+    <circle cx="520" cy="952" r="25" fill="#fffaf3"/>
+    <circle cx="612" cy="952" r="25" fill="#fffaf3"/>
+  </g>
+  <rect x="87" y="108" width="544" height="186" rx="28" fill="#151515" filter="url(#shadow)"/>
+  <text x="123" y="184" font-family="Arial, sans-serif" font-size="46" font-weight="900" fill="#fffaf3">DELAY ALERT</text>
+  <text x="123" y="244" font-family="Arial, sans-serif" font-size="32" font-weight="800" fill="#ffdb58">CUT FIBER LINE</text>
+  <text x="84" y="1045" font-family="Georgia, serif" font-size="71" font-weight="700" fill="#fffaf3">One cut cable, many delays</text>
+  <text x="90" y="1106" font-family="Arial, sans-serif" font-size="31" font-weight="800" fill="#d5cec5">Geekish sourced quick read</text>
+</svg>

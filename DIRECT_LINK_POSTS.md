@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Apollo uses AI to fill gaps in ancient Greek papyrus
+  - Article: https://thegeekish.com/articles/apollo-ai-ancient-greek-papyrus.html
+  - Image: https://thegeekish.com/social-images-png/apollo-ai-ancient-greek-papyrus.png?v=20260922a
+  - Copy: social-posts/apollo-ai-ancient-greek-papyrus.md
+
+- A cut fiber cable turned into a flight-delay mess
+  - Article: https://thegeekish.com/articles/faa-cut-cable-flight-delays.html
+  - Image: https://thegeekish.com/social-images-png/faa-cut-cable-flight-delays.png?v=20260922a
+  - Copy: social-posts/faa-cut-cable-flight-delays.md
+
 - Waymo is aiming for Singapore robotaxi rides in 2028
   - Article: https://thegeekish.com/articles/waymo-singapore-robotaxi-2028.html
   - Image: https://thegeekish.com/social-images-png/waymo-singapore-robotaxi-2028.png?v=20260918c
