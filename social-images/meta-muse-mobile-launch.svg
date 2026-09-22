@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#061826"/><stop offset=".5" stop-color="#0f766e"/><stop offset="1" stop-color="#f97316"/></linearGradient><linearGradient id="phone" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#374151"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="70" y="70" width="940" height="1210" rx="46" fill="#fbfbff"/>
+  <rect x="110" y="110" width="860" height="600" rx="34" fill="#042f2e"/>
+  <rect x="380" y="155" width="320" height="500" rx="48" fill="url(#phone)" stroke="#99f6e4" stroke-width="10"/>
+  <rect x="420" y="210" width="240" height="360" rx="28" fill="#ecfeff"/>
+  <circle cx="540" cy="390" r="92" fill="#14b8a6"/>
+  <path d="M488 405c32-76 72-76 104 0M488 405c-35 70-68 70-100 0M592 405c35 70 68 70 100 0" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+  <g fill="#f97316"><rect x="180" y="225" width="150" height="55" rx="27"/><rect x="750" y="245" width="150" height="55" rx="27"/><rect x="178" y="500" width="190" height="55" rx="27"/><rect x="715" y="515" width="190" height="55" rx="27"/></g>
+  <g stroke="#ffffff" stroke-width="10" stroke-linecap="round"><path d="M250 340h145M685 340h145"/><path d="M260 405h100M725 405h85"/></g>
+  <text x="110" y="790" fill="#07111f" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">GEEKISH • AI APPS</text>
+  <text x="110" y="900" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">Muse gets</text>
+  <text x="110" y="980" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">numbers.</text>
+  <text x="110" y="1060" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">Agents hit walls.</text>
+  <text x="110" y="1145" fill="#334155" font-family="Arial, sans-serif" font-size="34" font-weight="700">Meta's AI launch meets platform limits</text>
+  <rect x="110" y="1194" width="360" height="66" rx="33" fill="#07111f"/>
+  <text x="145" y="1238" fill="#f8fbff" font-family="Arial, sans-serif" font-size="30" font-weight="800">READ ON THEGEEKISH.COM</text>
+</svg>

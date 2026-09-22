@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#111827"/><stop offset=".5" stop-color="#14532d"/><stop offset="1" stop-color="#06b6d4"/></linearGradient><linearGradient id="core" x1="0" x2="1"><stop stop-color="#fde68a"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="70" y="70" width="940" height="1210" rx="46" fill="#fbfbff"/>
+  <rect x="110" y="110" width="860" height="600" rx="34" fill="#052e16"/>
+  <rect x="180" y="450" width="720" height="80" rx="18" fill="#94a3b8"/>
+  <g fill="#d1fae5"><rect x="200" y="280" width="120" height="170" rx="18"/><rect x="355" y="235" width="120" height="215" rx="18"/><rect x="510" y="310" width="120" height="140" rx="18"/><rect x="665" y="255" width="120" height="195" rx="18"/></g>
+  <circle cx="540" cy="360" r="135" fill="url(#core)" opacity=".98"/>
+  <circle cx="540" cy="360" r="72" fill="#052e16"/>
+  <g fill="none" stroke="#bbf7d0" stroke-width="16" stroke-linecap="round"><path d="M540 245v-70M540 545v-70M425 360h-70M725 360h-70"/><path d="M459 279l-52-52M621 441l52 52M621 279l52-52M459 441l-52 52"/></g>
+  <g stroke="#22d3ee" stroke-width="10" stroke-linecap="round"><path d="M230 560h620"/><path d="M265 590h550"/></g>
+  <text x="110" y="790" fill="#07111f" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">GEEKISH • AI INFRASTRUCTURE</text>
+  <text x="110" y="900" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">AI needs</text>
+  <text x="110" y="980" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">megawatts,</text>
+  <text x="110" y="1060" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">not vibes</text>
+  <text x="110" y="1145" fill="#334155" font-family="Arial, sans-serif" font-size="34" font-weight="700">Kairos, Samsung, Google power deal</text>
+  <rect x="110" y="1194" width="360" height="66" rx="33" fill="#07111f"/>
+  <text x="145" y="1238" fill="#f8fbff" font-family="Arial, sans-serif" font-size="30" font-weight="800">READ ON THEGEEKISH.COM</text>
+</svg>
