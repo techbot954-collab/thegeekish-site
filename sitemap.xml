@@ -13,6 +13,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://thegeekish.com/articles/anthropic-opus-55-safeguards.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/a16z-ai-academy.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://thegeekish.com/articles/astroforge-ai-spacecraft-autonomy.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>

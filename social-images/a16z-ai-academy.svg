@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071114"/><stop offset=".48" stop-color="#173640"/><stop offset="1" stop-color="#e7ff6b"/></linearGradient>
+    <radialGradient id="glow" cx="72%" cy="24%" r="52%"><stop stop-color="#e7ff6b" stop-opacity=".72"/><stop offset=".7" stop-color="#e7ff6b" stop-opacity=".12"/><stop offset="1" stop-color="#e7ff6b" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="780" fill="url(#glow)"/>
+  <g transform="translate(130 190)">
+    <path d="M90 420h640V156L410 30 90 156z" fill="#f7fff9" opacity=".95"/>
+    <path d="M120 420V176L410 62l290 114v244" fill="none" stroke="#071114" stroke-width="18" stroke-linejoin="round"/>
+    <rect x="210" y="220" width="150" height="200" fill="#173640"/>
+    <rect x="460" y="220" width="150" height="200" fill="#173640"/>
+    <path d="M410 92v328" stroke="#e7ff6b" stroke-width="18"/>
+    <circle cx="410" cy="180" r="54" fill="#e7ff6b"/>
+    <path d="M376 180h68M410 146v68" stroke="#071114" stroke-width="14" stroke-linecap="round"/>
+    <rect y="420" width="820" height="58" rx="18" fill="#071114"/>
+  </g>
+  <g opacity=".16" stroke="#fff" stroke-width="3"><path d="M92 128H988M92 272H988M92 416H988"/><path d="M180 100V700M360 100V700M540 100V700M720 100V700M900 100V700"/></g>
+  <text x="78" y="150" fill="#e7ff6b" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">STARTUP EDUCATION</text>
+  <text x="78" y="724" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="780" width="1080" height="570" fill="#101414"/>
+  <text x="70" y="872" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900"><tspan x="70" dy="0">a16z backs</tspan><tspan x="70" dy="76">a school for</tspan><tspan x="70" dy="76">young builders</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#e7ff6b"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#071114" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish - Jax Pixel</text>
+  <text x="156" y="1230" fill="#aabcb8" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#e7ff6b" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

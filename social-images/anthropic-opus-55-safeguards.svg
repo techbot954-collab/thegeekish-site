@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15110e"/><stop offset=".5" stop-color="#4b372b"/><stop offset="1" stop-color="#ff9f6e"/></linearGradient>
+    <radialGradient id="glow" cx="70%" cy="22%" r="55%"><stop stop-color="#ffd2b6" stop-opacity=".7"/><stop offset=".65" stop-color="#ff9f6e" stop-opacity=".18"/><stop offset="1" stop-color="#ff9f6e" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="760" fill="url(#glow)"/>
+  <g transform="translate(130 185)">
+    <rect width="820" height="480" rx="34" fill="#14100d" stroke="#ffd2b6" stroke-width="6" opacity=".96"/>
+    <g fill="none" stroke-linecap="round" stroke-width="12">
+      <path d="M104 360c86-142 170-198 254-168 88 31 142 31 212 0 74-33 134-2 180 92" stroke="#ff9f6e"/>
+      <path d="M104 260h612" stroke="#f7efe6" opacity=".2"/>
+      <path d="M104 170h612" stroke="#f7efe6" opacity=".2"/>
+      <path d="M104 350h612" stroke="#f7efe6" opacity=".2"/>
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif" font-weight="900">
+      <text x="100" y="125" fill="#ffd2b6" font-size="42">OPUS 5.5</text>
+      <text x="100" y="435" fill="#f7efe6" font-size="34">safeguards + lower price</text>
+      <text x="570" y="138" fill="#ff9f6e" font-size="88">40%</text>
+      <text x="574" y="180" fill="#f7efe6" font-size="28">less to run</text>
+    </g>
+    <g transform="translate(608 238)">
+      <path d="M92 0l92 42v82c0 64-39 120-92 142C39 244 0 188 0 124V42z" fill="#ffd2b6"/>
+      <path d="M58 124l28 28 54-72" fill="none" stroke="#14100d" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <g opacity=".16" stroke="#fff" stroke-width="3"><path d="M92 126H988M92 270H988M92 414H988"/><path d="M180 100V690M360 100V690M540 100V690M720 100V690M900 100V690"/></g>
+  <text x="78" y="150" fill="#ffd2b6" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">AI MODEL LAUNCH</text>
+  <text x="78" y="724" fill="#fff9f4" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">Geekish sourced read</text>
+  <rect y="780" width="1080" height="570" fill="#0b1114"/>
+  <text x="70" y="872" fill="#fff9f4" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900"><tspan x="70" dy="0">Claude Opus</tspan><tspan x="70" dy="76">5.5 arrives</tspan><tspan x="70" dy="76">with guardrails</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#ff9f6e"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#11100f" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#fff9f4" font-family="Arial" font-size="26" font-weight="800">Geekish - Nova Byte</text>
+  <text x="156" y="1230" fill="#bfc6c6" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#ff9f6e" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
