@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131f"/><stop offset=".5" stop-color="#0f5a7a"/><stop offset="1" stop-color="#ff5a3d"/></linearGradient>
+    <radialGradient id="glow" cx="28%" cy="18%" r="70%"><stop stop-color="#7df9ff" stop-opacity=".7"/><stop offset=".42" stop-color="#246bfe" stop-opacity=".26"/><stop offset="1" stop-color="#246bfe" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="760" fill="url(#glow)"/>
+  <g opacity=".2" stroke="#f7f9ff" stroke-width="2"><path d="M0 150H1080M0 300H1080M0 450H1080M0 600H1080"/><path d="M135 0V760M270 0V760M405 0V760M540 0V760M675 0V760M810 0V760M945 0V760"/></g>
+  <rect x="115" y="132" width="850" height="500" rx="44" fill="#101820" stroke="#f7f9ff" stroke-width="6"/>
+  <rect x="165" y="192" width="760" height="72" rx="18" fill="#182c3a"/>
+  <circle cx="205" cy="228" r="14" fill="#ff5a3d"/><circle cx="246" cy="228" r="14" fill="#ffd166"/><circle cx="287" cy="228" r="14" fill="#72d6c9"/>
+  <rect x="170" y="315" width="420" height="240" rx="28" fill="#06111c" stroke="#72d6c9" stroke-width="4"/>
+  <text x="205" y="382" fill="#72d6c9" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">&gt; analyze inbox</text>
+  <text x="205" y="440" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">&gt; find payout target</text>
+  <text x="205" y="498" fill="#ff5a3d" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">&gt; draft impersonation</text>
+  <g transform="translate(665 318)">
+    <rect x="0" y="0" width="210" height="72" rx="20" fill="#f7f9ff"/><text x="105" y="47" text-anchor="middle" fill="#101820" font-family="Arial" font-size="26" font-weight="900">TOKEN</text>
+    <rect x="-35" y="98" width="280" height="72" rx="20" fill="#ff5a3d"/><text x="105" y="145" text-anchor="middle" fill="#101820" font-family="Arial" font-size="26" font-weight="900">12,000 ACCTS</text>
+    <rect x="0" y="196" width="210" height="72" rx="20" fill="#72d6c9"/><text x="105" y="243" text-anchor="middle" fill="#101820" font-family="Arial" font-size="26" font-weight="900">DISRUPTED</text>
+  </g>
+  <rect y="760" width="1080" height="590" fill="#151515"/>
+  <text x="70" y="852" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">AI fraud</tspan><tspan x="70" dy="76">gets</tspan><tspan x="70" dy="76">packaged</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#72d6c9"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish - Nova Byte</text>
+  <text x="156" y="1230" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#72d6c9" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
