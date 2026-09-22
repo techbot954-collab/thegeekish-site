@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#090b1f"/>
+      <stop offset=".5" stop-color="#27316f"/>
+      <stop offset="1" stop-color="#20c7a8"/>
+    </linearGradient>
+    <linearGradient id="lens" x1="0" x2="1">
+      <stop stop-color="#93f8ff"/>
+      <stop offset="1" stop-color="#b78cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="70" y="70" width="940" height="1210" rx="46" fill="#fbfbff"/>
+  <rect x="110" y="110" width="860" height="600" rx="34" fill="#10152b"/>
+  <g fill="none" stroke="url(#lens)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M205 360c92-85 195-85 287 0"/>
+    <path d="M590 360c92-85 195-85 287 0"/>
+    <path d="M492 360h98"/>
+    <path d="M250 405c70 45 148 45 218 0"/>
+    <path d="M635 405c70 45 148 45 218 0"/>
+  </g>
+  <g stroke="#ffe266" stroke-width="10" stroke-linecap="round" opacity=".95">
+    <path d="M220 570h640"/>
+    <path d="M250 525v90M330 525v90M410 525v90M490 525v90M570 525v90M650 525v90M730 525v90M810 525v90"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="285" cy="255" r="12"/>
+    <circle cx="775" cy="255" r="12"/>
+    <circle cx="540" cy="205" r="12"/>
+  </g>
+  <text x="110" y="790" fill="#07111f" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">GEEKISH • DEEP TECH</text>
+  <text x="110" y="900" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">Waveguides</text>
+  <text x="110" y="980" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">meet data</text>
+  <text x="110" y="1060" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">center optics</text>
+  <text x="110" y="1145" fill="#334155" font-family="Arial, sans-serif" font-size="34" font-weight="700">Morphotonics raises EUR40M</text>
+  <rect x="110" y="1194" width="360" height="66" rx="33" fill="#07111f"/>
+  <text x="145" y="1238" fill="#f8fbff" font-family="Arial, sans-serif" font-size="30" font-weight="800">READ ON THEGEEKISH.COM</text>
+</svg>

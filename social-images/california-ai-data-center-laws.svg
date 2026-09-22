@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#08111f"/>
+      <stop offset=".55" stop-color="#123246"/>
+      <stop offset="1" stop-color="#f0b34d"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop stop-color="#101a2b"/>
+      <stop offset="1" stop-color="#1d3f53"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="70" y="70" width="940" height="1210" rx="46" fill="#f8fbff"/>
+  <rect x="110" y="110" width="860" height="600" rx="34" fill="url(#panel)"/>
+  <g fill="none" stroke="#f8fbff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity=".95">
+    <path d="M190 580h700"/>
+    <path d="M250 580V300h120v280"/>
+    <path d="M450 580V230h180v350"/>
+    <path d="M720 580V355h110v225"/>
+    <path d="M270 285h80M470 260h140M742 382h66"/>
+  </g>
+  <g fill="none" stroke="#58d7ff" stroke-width="12" stroke-linecap="round">
+    <path d="M185 220c110 70 170 70 270 0s180-70 300 0 170 70 245 18"/>
+    <path d="M180 650c125-82 210-82 342 0s220 82 378 0"/>
+  </g>
+  <g fill="#ffcc58">
+    <circle cx="250" cy="770" r="18"/>
+    <circle cx="500" cy="770" r="18"/>
+    <circle cx="750" cy="770" r="18"/>
+  </g>
+  <text x="110" y="790" fill="#07111f" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">GEEKISH • AI POLICY</text>
+  <text x="110" y="900" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">California puts</text>
+  <text x="110" y="980" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">AI data centers</text>
+  <text x="110" y="1060" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">on a utility leash</text>
+  <text x="110" y="1145" fill="#334155" font-family="Arial, sans-serif" font-size="34" font-weight="700">Power, water, upgrades, disclosure</text>
+  <rect x="110" y="1194" width="360" height="66" rx="33" fill="#07111f"/>
+  <text x="145" y="1238" fill="#f8fbff" font-family="Arial, sans-serif" font-size="30" font-weight="800">READ ON THEGEEKISH.COM</text>
+</svg>

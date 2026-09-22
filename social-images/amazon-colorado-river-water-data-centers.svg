@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#061521"/>
+      <stop offset=".55" stop-color="#0b6572"/>
+      <stop offset="1" stop-color="#d7a447"/>
+    </linearGradient>
+    <linearGradient id="river" x1="0" x2="1">
+      <stop stop-color="#45e4ff"/>
+      <stop offset="1" stop-color="#2374ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="70" y="70" width="940" height="1210" rx="46" fill="#f9fbff"/>
+  <rect x="110" y="110" width="860" height="600" rx="34" fill="#0b1725"/>
+  <path d="M110 610c170-80 230-140 330-95 125 56 190 14 270-70 66-70 140-86 260-36v301H110z" fill="url(#river)" opacity=".95"/>
+  <g fill="#edf5ff">
+    <rect x="190" y="245" width="120" height="260" rx="18"/>
+    <rect x="340" y="190" width="150" height="315" rx="18"/>
+    <rect x="535" y="280" width="110" height="225" rx="18"/>
+    <rect x="690" y="220" width="170" height="285" rx="18"/>
+  </g>
+  <g stroke="#102033" stroke-width="12">
+    <path d="M215 310h70M215 365h70M215 420h70"/>
+    <path d="M370 260h90M370 320h90M370 380h90"/>
+    <path d="M715 295h120M715 360h120M715 425h120"/>
+  </g>
+  <g fill="none" stroke="#ffe08a" stroke-width="10" stroke-linecap="round">
+    <path d="M170 630c95-75 155-75 240 0s155 75 250 0 160-75 250 0"/>
+    <path d="M750 130v70M710 165h80"/>
+  </g>
+  <text x="110" y="790" fill="#07111f" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">GEEKISH • CLOUD WATER</text>
+  <text x="110" y="900" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">Amazon's</text>
+  <text x="110" y="980" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">Colorado River</text>
+  <text x="110" y="1060" fill="#07111f" font-family="Arial, sans-serif" font-size="72" font-weight="900">data center question</text>
+  <text x="110" y="1145" fill="#334155" font-family="Arial, sans-serif" font-size="34" font-weight="700">$20M pledge, bigger transparency debate</text>
+  <rect x="110" y="1194" width="360" height="66" rx="33" fill="#07111f"/>
+  <text x="145" y="1238" fill="#f8fbff" font-family="Arial, sans-serif" font-size="30" font-weight="800">READ ON THEGEEKISH.COM</text>
+</svg>
