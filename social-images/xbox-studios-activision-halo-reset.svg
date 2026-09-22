@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101622"/><stop offset=".48" stop-color="#2557a7"/><stop offset="1" stop-color="#8bd450"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g transform="translate(115 130)">
+    <rect x="70" y="40" width="250" height="170" rx="24" fill="#f8fbff"/>
+    <rect x="380" y="40" width="250" height="170" rx="24" fill="#f8fbff"/>
+    <rect x="225" y="250" width="250" height="170" rx="24" fill="#f8fbff"/>
+    <rect x="535" y="250" width="250" height="170" rx="24" fill="#f8fbff"/>
+    <g fill="#101622" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="900">
+      <text x="135" y="140">HALO</text><text x="430" y="140">RARE</text><text x="270" y="350">FORZA</text><text x="575" y="350">FALLOUT</text>
+    </g>
+    <path d="M195 210v86h140M505 210v86h-170M475 420h150M660 250v-55" fill="none" stroke="#101622" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="430" cy="530" r="110" fill="#101622"/>
+    <circle cx="390" cy="510" r="20" fill="#8bd450"/><circle cx="470" cy="510" r="20" fill="#8bd450"/>
+    <path d="M360 560h140" stroke="#f8fbff" stroke-width="18" stroke-linecap="round"/>
+  </g>
+  <rect y="805" width="1080" height="545" fill="#101622"/>
+  <text x="70" y="900" fill="#f8fbff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Xbox's studio</tspan><tspan x="70" dy="76">reset puts</tspan><tspan x="70" dy="76">Activision on</tspan><tspan x="70" dy="76">the next Halo</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#8bd450"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#101622" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f8fbff" font-family="Arial" font-size="26" font-weight="800">Geekish • Jax Pixel</text>
+  <text x="156" y="1230" fill="#b9c5d6" font-family="Arial" font-size="24">Read the sourced quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#8bd450" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
