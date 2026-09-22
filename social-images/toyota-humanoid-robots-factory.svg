@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#172554"/><stop offset=".5" stop-color="#0f766e"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="70" y="70" width="940" height="1210" rx="46" fill="#fbfbff"/>
+  <rect x="130" y="125" width="820" height="530" rx="34" fill="#111827"/>
+  <g stroke="#94a3b8" stroke-width="10" stroke-linecap="round"><path d="M190 560h700"/><path d="M250 210v350M420 210v350M590 210v350M760 210v350"/></g>
+  <g fill="#f59e0b"><rect x="185" y="470" width="700" height="58" rx="29"/><rect x="235" y="205" width="210" height="46" rx="23"/><rect x="630" y="205" width="210" height="46" rx="23"/></g>
+  <circle cx="540" cy="315" r="74" fill="#e0f2fe"/>
+  <rect x="485" y="390" width="110" height="145" rx="36" fill="#38bdf8"/>
+  <path d="M488 430l-110 86M592 430l110 86" fill="none" stroke="#e0f2fe" stroke-width="24" stroke-linecap="round"/>
+  <path d="M507 535l-46 92M573 535l46 92" fill="none" stroke="#e0f2fe" stroke-width="24" stroke-linecap="round"/>
+  <text x="110" y="760" fill="#07111f" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">GEEKISH • ROBOTICS</text>
+  <text x="110" y="880" fill="#07111f" font-family="Arial, sans-serif" font-size="74" font-weight="900">Toyota's</text>
+  <text x="110" y="960" fill="#07111f" font-family="Arial, sans-serif" font-size="74" font-weight="900">factory robot</text>
+  <text x="110" y="1040" fill="#07111f" font-family="Arial, sans-serif" font-size="74" font-weight="900">push.</text>
+  <text x="110" y="1132" fill="#334155" font-family="Arial, sans-serif" font-size="34" font-weight="700">Workers are training humanoid robots</text>
+  <rect x="110" y="1194" width="390" height="66" rx="33" fill="#07111f"/>
+  <text x="145" y="1238" fill="#f8fbff" font-family="Arial, sans-serif" font-size="30" font-weight="800">READ ON THEGEEKISH.COM</text>
+</svg>
