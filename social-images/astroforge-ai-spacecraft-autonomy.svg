@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="0.55" stop-color="#132d4f"/><stop offset="1" stop-color="#1d1050"/></linearGradient>
+    <linearGradient id="ship" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6fbff"/><stop offset="1" stop-color="#8bd8ff"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="820" cy="305" r="128" fill="#f08a44" opacity=".92"/>
+  <circle cx="785" cy="270" r="28" fill="#c05a33" opacity=".45"/><circle cx="860" cy="335" r="42" fill="#8f3d34" opacity=".35"/>
+  <g stroke="#8bd8ff" stroke-width="2" opacity=".28">
+    <path d="M90 1040 C310 760 530 640 990 560" fill="none"/><path d="M130 1130 C380 850 640 710 980 695" fill="none"/>
+    <path d="M130 930 C380 1010 670 970 930 780" fill="none"/>
+  </g>
+  <g filter="url(#glow)">
+    <path d="M373 566 L610 442 L703 525 L479 681 Z" fill="url(#ship)"/>
+    <path d="M560 471 L642 372 L646 538 Z" fill="#34e7ff"/>
+    <path d="M470 620 L322 735 L392 585 Z" fill="#ffdc6f"/>
+    <circle cx="578" cy="530" r="42" fill="#102442" stroke="#dff9ff" stroke-width="8"/>
+    <path d="M701 526 L807 567 L674 585 Z" fill="#62ffb8"/>
+  </g>
+  <g fill="none" stroke="#62ffb8" stroke-width="7" stroke-linecap="round" opacity=".88">
+    <path d="M250 820 C420 735 585 725 776 800"/><path d="M290 875 C435 805 595 795 740 855"/><path d="M349 928 C468 881 592 878 683 914"/>
+  </g>
+  <rect x="76" y="76" width="928" height="1198" rx="46" fill="none" stroke="#ffffff" stroke-opacity=".12" stroke-width="2"/>
+  <text x="76" y="162" fill="#62ffb8" font-family="Arial, sans-serif" font-size="38" font-weight="700">SPACE AI</text>
+  <text x="76" y="1025" fill="#ffffff" font-family="Arial, sans-serif" font-size="80" font-weight="800">AstroForge</text>
+  <text x="76" y="1115" fill="#ffffff" font-family="Arial, sans-serif" font-size="78" font-weight="800">wants an AI</text>
+  <text x="76" y="1205" fill="#ffffff" font-family="Arial, sans-serif" font-size="78" font-weight="800">space pilot</text>
+  <text x="76" y="1272" fill="#b9d2e9" font-family="Arial, sans-serif" font-size="32">Geekish • sourced quick read</text>
+</svg>

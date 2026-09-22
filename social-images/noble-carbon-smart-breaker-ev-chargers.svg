@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06241d"/><stop offset="0.52" stop-color="#123f44"/><stop offset="1" stop-color="#3d2b18"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eef6f4"/><stop offset="1" stop-color="#8ed6c1"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g opacity=".18" stroke="#f4e178" stroke-width="4" fill="none">
+    <path d="M95 870 H295 C390 870 388 665 500 665 H978"/><path d="M80 730 H290 C380 730 390 510 520 510 H980"/><path d="M120 1005 H400 C470 1005 510 835 675 835 H988"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="238" y="250" width="430" height="570" rx="40" fill="url(#panel)"/>
+    <rect x="292" y="322" width="322" height="86" rx="18" fill="#12303a"/>
+    <text x="327" y="378" fill="#62ffb8" font-family="Arial, sans-serif" font-size="36" font-weight="700">LOAD OK</text>
+    <g fill="#17313a">
+      <rect x="296" y="468" width="112" height="112" rx="18"/><rect x="444" y="468" width="112" height="112" rx="18"/>
+      <rect x="296" y="622" width="112" height="112" rx="18"/><rect x="444" y="622" width="112" height="112" rx="18"/>
+    </g>
+    <g fill="#62ffb8"><rect x="326" y="494" width="52" height="58" rx="12"/><rect x="474" y="648" width="52" height="58" rx="12"/></g>
+    <g fill="#ffdd72"><rect x="474" y="494" width="52" height="58" rx="12"/><rect x="326" y="648" width="52" height="58" rx="12"/></g>
+  </g>
+  <g transform="translate(668 640)" filter="url(#shadow)">
+    <path d="M80 0 H188 C238 0 278 40 278 90 V190 H0 V80 C0 36 36 0 80 0 Z" fill="#f5faf7"/>
+    <circle cx="76" cy="190" r="34" fill="#111c24"/><circle cx="214" cy="190" r="34" fill="#111c24"/>
+    <path d="M92 0 L128 -78 H200 L180 0" fill="none" stroke="#62ffb8" stroke-width="18" stroke-linecap="round"/>
+    <path d="M128 82 h72 l-38 74 h68" fill="none" stroke="#ffdd72" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="76" y="76" width="928" height="1198" rx="46" fill="none" stroke="#ffffff" stroke-opacity=".13" stroke-width="2"/>
+  <text x="76" y="162" fill="#ffdd72" font-family="Arial, sans-serif" font-size="38" font-weight="700">SMART POWER</text>
+  <text x="76" y="1025" fill="#ffffff" font-family="Arial, sans-serif" font-size="76" font-weight="800">EV charging</text>
+  <text x="76" y="1110" fill="#ffffff" font-family="Arial, sans-serif" font-size="76" font-weight="800">without panel</text>
+  <text x="76" y="1195" fill="#ffffff" font-family="Arial, sans-serif" font-size="76" font-weight="800">upgrade pain</text>
+  <text x="76" y="1272" fill="#c9ddd5" font-family="Arial, sans-serif" font-size="32">Geekish • sourced quick read</text>
+</svg>

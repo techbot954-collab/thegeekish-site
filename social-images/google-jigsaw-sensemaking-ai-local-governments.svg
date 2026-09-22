@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset=".55" stop-color="#263457"/><stop offset="1" stop-color="#114b5f"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g opacity=".22" stroke="#9fffe0" stroke-width="3" fill="none">
+    <path d="M110 375 H970"/><path d="M110 525 H970"/><path d="M110 675 H970"/><path d="M110 825 H970"/>
+    <path d="M220 280 V920"/><path d="M400 280 V920"/><path d="M580 280 V920"/><path d="M760 280 V920"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="165" y="298" width="750" height="486" rx="42" fill="#f8fbff"/>
+    <rect x="215" y="354" width="270" height="76" rx="22" fill="#4285f4"/>
+    <rect x="528" y="354" width="295" height="76" rx="22" fill="#34a853"/>
+    <rect x="215" y="474" width="520" height="42" rx="21" fill="#dfe7f3"/>
+    <rect x="215" y="552" width="610" height="42" rx="21" fill="#dfe7f3"/>
+    <rect x="215" y="630" width="390" height="42" rx="21" fill="#dfe7f3"/>
+    <circle cx="825" cy="620" r="72" fill="#fbbc04"/>
+    <path d="M795 622 h60 M825 592 v60" stroke="#1f2937" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <g fill="#ffffff" opacity=".95">
+    <circle cx="160" cy="885" r="34"/><circle cx="245" cy="900" r="34"/><circle cx="330" cy="885" r="34"/><circle cx="415" cy="900" r="34"/>
+    <circle cx="500" cy="885" r="34"/><circle cx="585" cy="900" r="34"/><circle cx="670" cy="885" r="34"/><circle cx="755" cy="900" r="34"/>
+    <circle cx="840" cy="885" r="34"/><circle cx="925" cy="900" r="34"/>
+  </g>
+  <g fill="none" stroke="#9fffe0" stroke-width="7" stroke-linecap="round">
+    <path d="M236 245 C356 178 508 174 620 244"/><path d="M720 232 C786 196 864 200 922 256"/>
+    <path d="M176 965 C325 1048 742 1048 904 965"/>
+  </g>
+  <rect x="76" y="76" width="928" height="1198" rx="46" fill="none" stroke="#ffffff" stroke-opacity=".13" stroke-width="2"/>
+  <text x="76" y="162" fill="#9fffe0" font-family="Arial, sans-serif" font-size="38" font-weight="700">CIVIC AI</text>
+  <text x="76" y="1025" fill="#ffffff" font-family="Arial, sans-serif" font-size="76" font-weight="800">Google backs</text>
+  <text x="76" y="1110" fill="#ffffff" font-family="Arial, sans-serif" font-size="76" font-weight="800">AI tools for</text>
+  <text x="76" y="1195" fill="#ffffff" font-family="Arial, sans-serif" font-size="76" font-weight="800">local voices</text>
+  <text x="76" y="1272" fill="#cbd8ea" font-family="Arial, sans-serif" font-size="32">Geekish • sourced quick read</text>
+</svg>
