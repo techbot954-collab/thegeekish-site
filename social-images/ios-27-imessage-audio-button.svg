@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10233a"/><stop offset=".48" stop-color="#00a8e8"/><stop offset="1" stop-color="#f6f7fb"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="130" y="120" width="820" height="610" rx="54" fill="#f7f9ff"/>
+  <rect x="190" y="190" width="470" height="74" rx="30" fill="#d9ecff"/>
+  <rect x="420" y="300" width="430" height="74" rx="30" fill="#1b84ff"/>
+  <rect x="190" y="412" width="390" height="74" rx="30" fill="#d9ecff"/>
+  <rect x="176" y="600" width="728" height="84" rx="42" fill="#ffffff" stroke="#10233a" stroke-width="10"/>
+  <text x="236" y="654" fill="#10233a" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="800">iMessage composer</text>
+  <circle cx="824" cy="642" r="32" fill="#ff595e"/>
+  <path d="M810 642h28M824 628v28" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M755 590l138 104" stroke="#ff595e" stroke-width="16" stroke-linecap="round"/>
+  <rect y="790" width="1080" height="560" fill="#151515"/>
+  <text x="70" y="890" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70">Finally,</tspan><tspan x="70" dy="76">less mis-tap chaos</tspan></text>
+  <text x="70" y="1085" fill="#00d4ff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">IOS 27 IMESSAGE TWEAK</text>
+  <circle cx="104" cy="1202" r="34" fill="#00d4ff"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish - Mika Circuit</text>
+  <text x="156" y="1230" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#00d4ff" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1320"/><stop offset=".52" stop-color="#263f6a"/><stop offset="1" stop-color="#c89b3c"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="540" cy="370" r="230" fill="#101820" stroke="#c89b3c" stroke-width="18"/>
+  <path d="M335 384c0-116 88-210 205-210s205 94 205 210" fill="none" stroke="#f7f1dc" stroke-width="38" stroke-linecap="round"/>
+  <rect x="282" y="370" width="120" height="166" rx="34" fill="#f7f1dc"/>
+  <rect x="678" y="370" width="120" height="166" rx="34" fill="#f7f1dc"/>
+  <path d="M610 580c105 0 150-52 150-118" fill="none" stroke="#f7f1dc" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="608" cy="580" r="30" fill="#c89b3c"/>
+  <path d="M292 632l496-496" stroke="#ff595e" stroke-width="30" stroke-linecap="round"/>
+  <rect y="790" width="1080" height="560" fill="#151515"/>
+  <text x="70" y="890" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70">League voice chat</tspan><tspan x="70" dy="76">gets pulled</tspan></text>
+  <text x="70" y="1085" fill="#c89b3c" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">PATCH 26.20 PAUSE</text>
+  <circle cx="104" cy="1202" r="34" fill="#c89b3c"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish - Jax Pixel</text>
+  <text x="156" y="1230" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#c89b3c" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

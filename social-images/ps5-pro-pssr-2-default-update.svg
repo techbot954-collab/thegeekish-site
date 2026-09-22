@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b18"/><stop offset=".5" stop-color="#1565ff"/><stop offset="1" stop-color="#9bf6ff"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="150" y="126" width="780" height="500" rx="42" fill="#f7f9ff" stroke="#050b18" stroke-width="14"/>
+  <rect x="210" y="190" width="660" height="310" rx="24" fill="#111827"/>
+  <g fill="#1565ff"><rect x="250" y="230" width="90" height="90"/><rect x="350" y="230" width="90" height="90"/><rect x="450" y="230" width="90" height="90"/><rect x="550" y="230" width="90" height="90"/><rect x="650" y="230" width="90" height="90"/></g>
+  <g fill="#9bf6ff"><rect x="250" y="340" width="52" height="52"/><rect x="322" y="340" width="52" height="52"/><rect x="394" y="340" width="52" height="52"/><rect x="466" y="340" width="52" height="52"/><rect x="538" y="340" width="52" height="52"/><rect x="610" y="340" width="52" height="52"/><rect x="682" y="340" width="52" height="52"/><rect x="754" y="340" width="52" height="52"/></g>
+  <path d="M350 560h380" stroke="#050b18" stroke-width="22" stroke-linecap="round"/>
+  <path d="M540 512v94" stroke="#050b18" stroke-width="22" stroke-linecap="round"/>
+  <rect y="790" width="1080" height="560" fill="#151515"/>
+  <text x="70" y="890" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70">Sharper PS5 Pro</tspan><tspan x="70" dy="76">by default</tspan></text>
+  <text x="70" y="1085" fill="#9bf6ff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">PSSR 2.0 UPDATE</text>
+  <circle cx="104" cy="1202" r="34" fill="#9bf6ff"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish - Mika Circuit</text>
+  <text x="156" y="1230" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#9bf6ff" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
