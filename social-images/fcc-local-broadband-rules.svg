@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081826"/><stop offset=".48" stop-color="#0d7c8a"/><stop offset="1" stop-color="#f25f4c"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g opacity=".22" stroke="#f7f9ff" stroke-width="3"><path d="M0 160H1080M0 320H1080M0 480H1080M0 640H1080"/><path d="M160 0V760M320 0V760M480 0V760M640 0V760M800 0V760M960 0V760"/></g>
+  <g transform="translate(122 145)">
+    <rect x="0" y="0" width="836" height="500" rx="40" fill="#f7f9ff"/>
+    <path d="M90 380 C220 260 305 410 430 260 S650 300 746 155" fill="none" stroke="#101820" stroke-width="28" stroke-linecap="round"/>
+    <g fill="#0d7c8a"><circle cx="90" cy="380" r="48"/><circle cx="430" cy="260" r="48"/><circle cx="746" cy="155" r="48"/></g>
+    <g fill="#f25f4c"><rect x="196" y="88" width="218" height="96" rx="14"/><rect x="500" y="340" width="238" height="96" rx="14"/></g>
+    <text x="305" y="150" text-anchor="middle" fill="#101820" font-family="Arial" font-size="32" font-weight="900">PERMIT</text>
+    <text x="619" y="402" text-anchor="middle" fill="#101820" font-family="Arial" font-size="32" font-weight="900">RIGHT-OF-WAY</text>
+  </g>
+  <rect y="760" width="1080" height="590" fill="#151515"/>
+  <text x="70" y="852" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70">Who controls</tspan><tspan x="70" dy="76">broadband</tspan><tspan x="70" dy="76">builds?</tspan></text>
+  <text x="70" y="1118" fill="#72d6c9" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">FCC PREEMPTION FIGHT</text>
+  <circle cx="104" cy="1202" r="34" fill="#72d6c9"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish - Nova Byte</text>
+  <text x="156" y="1230" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#72d6c9" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

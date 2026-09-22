@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081826"/><stop offset=".5" stop-color="#164d7a"/><stop offset="1" stop-color="#7bd88f"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g opacity=".18" fill="#f7f9ff"><circle cx="160" cy="150" r="6"/><circle cx="310" cy="230" r="6"/><circle cx="820" cy="180" r="6"/><circle cx="930" cy="500" r="6"/><circle cx="220" cy="600" r="6"/></g>
+  <g transform="translate(116 132)">
+    <rect width="848" height="530" rx="44" fill="#f7f9ff"/>
+    <rect x="72" y="70" width="704" height="122" rx="24" fill="#101820"/>
+    <text x="424" y="148" text-anchor="middle" fill="#7bd88f" font-family="Arial" font-size="48" font-weight="900">$3.5B VALUATION</text>
+    <g stroke="#164d7a" stroke-width="10" fill="none" stroke-linecap="round"><path d="M130 402 C245 260 340 455 460 314 S645 248 724 380"/></g>
+    <g fill="#f25f4c"><circle cx="130" cy="402" r="32"/><circle cx="460" cy="314" r="32"/><circle cx="724" cy="380" r="32"/></g>
+    <g font-family="Arial" font-weight="900" font-size="26" fill="#101820">
+      <text x="96" y="470">DATA</text><text x="410" y="382">RL ENVS</text><text x="650" y="448">MODELS</text>
+    </g>
+  </g>
+  <rect y="760" width="1080" height="590" fill="#151515"/>
+  <text x="70" y="852" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70">AI data</tspan><tspan x="70" dy="76">gold rush</tspan></text>
+  <text x="70" y="1038" fill="#7bd88f" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">$350M SERIES E</text>
+  <circle cx="104" cy="1202" r="34" fill="#7bd88f"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish - Nova Byte</text>
+  <text x="156" y="1230" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#72d6c9" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
