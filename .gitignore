@@ -1,0 +1,5 @@
+.meta-autopost.env
+.meta-autopost-state.json
+meta-autopost.log
+__pycache__/
+*.pyc
