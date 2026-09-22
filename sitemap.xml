@@ -13,6 +13,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://thegeekish.com/articles/meta-macrocycle-plastic-recycling.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/gopro-mission-1-ils-camera.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/subscription-free-home-security.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://thegeekish.com/articles/cisco-ai-malware-command-system.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>

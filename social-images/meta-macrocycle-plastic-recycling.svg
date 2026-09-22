@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10221d"/><stop offset=".52" stop-color="#2f8f74"/><stop offset="1" stop-color="#f2c14e"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="540" cy="390" r="238" fill="#f8fbff" opacity=".95"/>
+  <g fill="none" stroke="#10221d" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M424 390c30-82 108-126 196-92"/>
+    <path d="M620 298l-8-58 74 44-66 14z"/>
+    <path d="M666 438c-42 78-130 108-210 62"/>
+    <path d="M456 500l3 60-70-50 67-10z"/>
+    <path d="M462 350h156M462 430h156"/>
+  </g>
+  <g fill="#f2c14e" stroke="#10221d" stroke-width="14">
+    <rect x="287" y="640" width="132" height="150" rx="34"/>
+    <rect x="474" y="602" width="132" height="188" rx="34"/>
+    <rect x="661" y="640" width="132" height="150" rx="34"/>
+  </g>
+  <rect y="820" width="1080" height="530" fill="#10221d"/>
+  <text x="70" y="915" fill="#f8fbff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Meta backs</tspan><tspan x="70" dy="76">a plastic-</tspan><tspan x="70" dy="76">recycling</tspan><tspan x="70" dy="76">factory push</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#f2c14e"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#10221d" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1195" fill="#f8fbff" font-family="Arial" font-size="26" font-weight="800">Geekish - Nova Byte</text>
+  <text x="156" y="1230" fill="#b9c5d6" font-family="Arial" font-size="24">Read the sourced quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#f2c14e" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

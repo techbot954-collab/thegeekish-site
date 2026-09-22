@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141820"/><stop offset=".52" stop-color="#2a9d8f"/><stop offset="1" stop-color="#e76f51"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="540" cy="390" r="242" fill="#f8fbff" opacity=".95"/>
+  <g fill="none" stroke="#141820" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M360 420V310l180-116 180 116v250H360z"/>
+    <path d="M468 560V430h144v130"/>
+    <path d="M420 358h240"/>
+  </g>
+  <circle cx="540" cy="398" r="74" fill="#2a9d8f" stroke="#141820" stroke-width="18"/>
+  <circle cx="540" cy="398" r="24" fill="#f8fbff"/>
+  <rect x="382" y="668" width="316" height="86" rx="18" fill="#141820"/>
+  <text x="540" y="723" text-anchor="middle" fill="#f8fbff" font-family="Arial" font-size="34" font-weight="900">LOCAL STORAGE</text>
+  <rect y="820" width="1080" height="530" fill="#141820"/>
+  <text x="70" y="915" fill="#f8fbff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70" dy="0">Smart home</tspan><tspan x="70" dy="76">security</tspan><tspan x="70" dy="76">without another</tspan><tspan x="70" dy="76">subscription?</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#e76f51"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#141820" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f8fbff" font-family="Arial" font-size="26" font-weight="800">Geekish - Jax Pixel</text>
+  <text x="156" y="1230" fill="#b9c5d6" font-family="Arial" font-size="24">Read the sourced quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#e76f51" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

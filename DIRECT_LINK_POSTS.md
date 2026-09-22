@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Meta is backing a plastic-recycling startup's first factory
+  - Article: https://thegeekish.com/articles/meta-macrocycle-plastic-recycling.html
+  - Image: https://thegeekish.com/social-images-png/meta-macrocycle-plastic-recycling.png?v=20260922a
+  - Copy: social-posts/meta-macrocycle-plastic-recycling.md
+
+- GoPro's Mission 1 Pro ILS brings swappable lenses to action cams
+  - Article: https://thegeekish.com/articles/gopro-mission-1-ils-camera.html
+  - Image: https://thegeekish.com/social-images-png/gopro-mission-1-ils-camera.png?v=20260922a
+  - Copy: social-posts/gopro-mission-1-ils-camera.md
+
+- WIRED says smart home security does not have to mean another subscription
+  - Article: https://thegeekish.com/articles/subscription-free-home-security.html
+  - Image: https://thegeekish.com/social-images-png/subscription-free-home-security.png?v=20260922a
+  - Copy: social-posts/subscription-free-home-security.md
+
 - Apollo uses AI to fill gaps in ancient Greek papyrus
   - Article: https://thegeekish.com/articles/apollo-ai-ancient-greek-papyrus.html
   - Image: https://thegeekish.com/social-images-png/apollo-ai-ancient-greek-papyrus.png?v=20260922a
