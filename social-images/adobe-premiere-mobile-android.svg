@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101828"/><stop offset=".52" stop-color="#3847ff"/><stop offset="1" stop-color="#00d1a7"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="95" y="110" width="365" height="650" rx="56" fill="#f6fbff" stroke="#101828" stroke-width="16"/>
+  <rect x="132" y="175" width="291" height="430" rx="26" fill="#151515"/>
+  <rect x="175" y="240" width="160" height="100" rx="12" fill="#3847ff"/>
+  <polygon points="235,260 235,320 292,290" fill="#f8fbff"/>
+  <rect x="155" y="642" width="245" height="32" rx="16" fill="#00d1a7"/>
+  <rect x="155" y="692" width="180" height="32" rx="16" fill="#ff5a3d"/>
+  <rect x="540" y="138" width="410" height="575" rx="44" fill="#eef4ff" stroke="#101828" stroke-width="16"/>
+  <rect x="585" y="205" width="320" height="245" rx="24" fill="#151515"/>
+  <rect x="625" y="500" width="240" height="34" rx="17" fill="#3847ff"/>
+  <rect x="625" y="556" width="160" height="34" rx="17" fill="#00d1a7"/>
+  <circle cx="745" cy="327" r="76" fill="#ff5a3d"/>
+  <text x="745" y="355" text-anchor="middle" fill="#101828" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900">Pr</text>
+  <rect y="812" width="1080" height="538" fill="#101828"/>
+  <text x="70" y="916" fill="#f8fbff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="900"><tspan x="70" dy="0">Premiere mobile</tspan><tspan x="70" dy="82">finally lands</tspan><tspan x="70" dy="82">on Android</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#00d1a7"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#101828" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f8fbff" font-family="Arial" font-size="26" font-weight="800">Geekish - Jax Pixel</text>
+  <text x="156" y="1230" fill="#b9c5d6" font-family="Arial" font-size="24">Read the sourced quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#00d1a7" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
