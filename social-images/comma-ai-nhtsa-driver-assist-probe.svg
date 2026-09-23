@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151922"/><stop offset="1" stop-color="#30304e"/></linearGradient>
+    <linearGradient id="dash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef7ff"/><stop offset="1" stop-color="#cce7f6"/></linearGradient>
+  </defs>
+  <rect width="1254" height="1254" fill="url(#bg)"/>
+  <circle cx="1015" cy="250" r="190" fill="#ffcd4f" opacity=".17"/>
+  <circle cx="250" cy="960" r="230" fill="#72f0d1" opacity=".14"/>
+  <rect x="185" y="350" width="680" height="410" rx="48" fill="url(#dash)"/>
+  <rect x="270" y="430" width="510" height="90" rx="26" fill="#27344b"/>
+  <rect x="270" y="575" width="210" height="96" rx="28" fill="#72f0d1"/>
+  <rect x="530" y="575" width="250" height="96" rx="28" fill="#ffcd4f"/>
+  <circle cx="375" cy="623" r="26" fill="#151922"/>
+  <circle cx="655" cy="623" r="26" fill="#151922"/>
+  <circle cx="800" cy="505" r="185" fill="none" stroke="#ffffff" stroke-width="40"/>
+  <path d="M930 635l160 160" stroke="#ffffff" stroke-width="48" stroke-linecap="round"/>
+  <path d="M716 505h168M800 421v168" stroke="#ff5c7a" stroke-width="30" stroke-linecap="round"/>
+  <text x="155" y="1015" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" fill="#fff">Driver-assist</text>
+  <text x="155" y="1100" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" fill="#72f0d1">under probe</text>
+</svg>

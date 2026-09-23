@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101820"/><stop offset="1" stop-color="#1d3d45"/></linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#34424a"/><stop offset="1" stop-color="#20272d"/></linearGradient>
+  </defs>
+  <rect width="1254" height="1254" fill="url(#bg)"/>
+  <circle cx="955" cy="245" r="170" fill="#48e5c2" opacity=".16"/>
+  <rect x="105" y="760" width="1044" height="260" rx="42" fill="url(#road)"/>
+  <rect x="250" y="480" width="710" height="260" rx="70" fill="#f3f7fb"/>
+  <rect x="345" y="385" width="435" height="165" rx="54" fill="#d6ecf7"/>
+  <rect x="410" y="420" width="290" height="75" rx="24" fill="#293a4a"/>
+  <circle cx="350" cy="745" r="78" fill="#111820"/>
+  <circle cx="860" cy="745" r="78" fill="#111820"/>
+  <circle cx="350" cy="745" r="34" fill="#7cf4c4"/>
+  <circle cx="860" cy="745" r="34" fill="#7cf4c4"/>
+  <rect x="805" y="365" width="220" height="340" rx="34" fill="#ffcc66"/>
+  <path d="M915 430v112" stroke="#111820" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="915" cy="610" r="18" fill="#111820"/>
+  <path d="M190 330c80-70 170-70 250 0s170 70 250 0 170-70 250 0" fill="none" stroke="#ffffff" stroke-width="24" opacity=".24" stroke-linecap="round"/>
+  <text x="150" y="1080" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="800" fill="#fff">Zoox pauses</text>
+  <text x="150" y="1165" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="800" fill="#48e5c2">Atlanta tests</text>
+</svg>

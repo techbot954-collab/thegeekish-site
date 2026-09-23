@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16151f"/><stop offset="1" stop-color="#243b55"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbff"/><stop offset="1" stop-color="#dff4ff"/></linearGradient>
+  </defs>
+  <rect width="1254" height="1254" fill="url(#bg)"/>
+  <circle cx="1010" cy="210" r="180" fill="#7cf4c4" opacity=".18"/>
+  <circle cx="230" cy="1040" r="240" fill="#ffcc66" opacity=".18"/>
+  <rect x="165" y="195" width="924" height="690" rx="52" fill="url(#card)"/>
+  <rect x="235" y="285" width="260" height="170" rx="28" fill="#19366f"/>
+  <rect x="545" y="285" width="260" height="170" rx="28" fill="#2bb673"/>
+  <rect x="235" y="510" width="570" height="70" rx="20" fill="#d8e8f1"/>
+  <rect x="235" y="620" width="390" height="70" rx="20" fill="#d8e8f1"/>
+  <path d="M860 350h112v346" fill="none" stroke="#ff5c7a" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M905 394l67-67 67 67" fill="none" stroke="#ff5c7a" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="365" y="392" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#fff">Disney+</text>
+  <text x="675" y="392" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" fill="#fff">Hulu</text>
+  <text x="180" y="1010" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" fill="#fff">Streaming bills</text>
+  <text x="180" y="1095" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" fill="#7cf4c4">climb again</text>
+</svg>
