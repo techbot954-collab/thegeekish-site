@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Apple CarPlay gets better when you clean up the defaults
+  - Article: https://thegeekish.com/articles/apple-carplay-setup-tweaks.html
+  - Image: https://thegeekish.com/social-images-png/apple-carplay-setup-tweaks.png?v=20260923a
+  - Copy: social-posts/apple-carplay-setup-tweaks.md
+
+- Anti-aliasing is the PC graphics setting hiding real tradeoffs
+  - Article: https://thegeekish.com/articles/pc-game-anti-aliasing-settings.html
+  - Image: https://thegeekish.com/social-images-png/pc-game-anti-aliasing-settings.png?v=20260923a
+  - Copy: social-posts/pc-game-anti-aliasing-settings.md
+
 - Meta is backing a plastic-recycling startup's first factory
   - Article: https://thegeekish.com/articles/meta-macrocycle-plastic-recycling.html
   - Image: https://thegeekish.com/social-images-png/meta-macrocycle-plastic-recycling.png?v=20260922a

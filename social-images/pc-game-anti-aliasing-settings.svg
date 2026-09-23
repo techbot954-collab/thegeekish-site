@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151515"/><stop offset=".5" stop-color="#29335c"/><stop offset="1" stop-color="#45b7d1"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="150" y="150" width="780" height="510" rx="42" fill="#0f172a" stroke="#f7f9ff" stroke-width="18"/>
+  <rect x="205" y="205" width="670" height="360" rx="28" fill="#172554"/>
+  <path d="M245 520l120-150 86 88 106-142 92 112 64-78 122 170z" fill="#45b7d1"/>
+  <path d="M250 520h585" stroke="#f7f9ff" stroke-width="10" opacity=".7"/>
+  <path d="M271 270h88v88h88v88h88" fill="none" stroke="#ff595e" stroke-width="32" stroke-linejoin="miter"/>
+  <path d="M604 270c78 40 126 96 164 176" fill="none" stroke="#f7f9ff" stroke-width="34" stroke-linecap="round"/>
+  <text x="258" y="620" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">JAGGED</text>
+  <text x="635" y="620" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">SMOOTH</text>
+  <rect x="330" y="700" width="420" height="64" rx="32" fill="#111827"/>
+  <rect x="352" y="719" width="255" height="26" rx="13" fill="#ff595e"/>
+  <circle cx="620" cy="732" r="34" fill="#f7f9ff"/>
+  <rect y="790" width="1080" height="560" fill="#151515"/>
+  <text x="70" y="890" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70">Anti-aliasing</tspan><tspan x="70" dy="76">has tradeoffs</tspan></text>
+  <text x="70" y="1085" fill="#45b7d1" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">PC GRAPHICS SETTINGS</text>
+  <circle cx="104" cy="1202" r="34" fill="#45b7d1"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish - Jax Pixel</text>
+  <text x="156" y="1230" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#45b7d1" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
