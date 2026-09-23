@@ -1,13 +1,13 @@
-# Instagram/Facebook post — Meta may answer smart-glasses privacy worries with a camera-free pair
+# Instagram/Facebook post - Meta made the camera-free AI glasses official
 
 Article direct link: https://thegeekish.com/articles/meta-camera-free-smart-glasses.html
-Image to post: https://thegeekish.com/social-images-png/meta-camera-free-smart-glasses.png?v=20260917a
+Image to post: https://thegeekish.com/social-images-png/meta-camera-free-smart-glasses.png?v=20260923b
 Writer: Jax Pixel
 
 ## Facebook post
-Meta may answer smart-glasses privacy worries with a camera-free pair
+Meta made the camera-free AI glasses official.
 
-The rumored Luna glasses would reportedly drop cameras and focus on voice access to Meta AI. That makes privacy part of the product pitch.
+TechCrunch reports Ray-Ban Meta Audio starts at $349, drops the camera, and focuses on calls, audio, translation, and talking to Muse.
 
 Read the sourced Geekish quick take here:
 https://thegeekish.com/articles/meta-camera-free-smart-glasses.html
@@ -15,9 +15,9 @@ https://thegeekish.com/articles/meta-camera-free-smart-glasses.html
 #Geekish #TechNews #Meta #SmartGlasses #AI #Wearables
 
 ## Instagram feed caption
-Meta may answer smart-glasses privacy worries with a camera-free pair
+Meta's least awkward AI glasses may be the ones without cameras.
 
-If smart glasses are going mainstream, the least weird pair may have the best shot.
+Ray-Ban Meta Audio turns privacy into a product feature and shifts the pitch from recording to audio, calls, translation, and Muse.
 
 Read it on Geekish: https://thegeekish.com/articles/meta-camera-free-smart-glasses.html
 
@@ -27,13 +27,13 @@ If Instagram does not make the caption link clickable, use this same article URL
 
 ## Instagram Story text
 NEW ON GEEKISH
-Meta may answer smart-glasses privacy worries with a camera-free pair
+Meta made the camera-free AI glasses official
 
 Tap the link sticker to read:
 https://thegeekish.com/articles/meta-camera-free-smart-glasses.html
 
 ## Image overlay text
-Camera-free AI glasses?
+Camera-free AI glasses
 
 ## Posting checklist
 - Use the PNG image above.

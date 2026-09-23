@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Generated illustration of a luxury electric SUV silhouette with glowing battery and speed lines">
+  <rect width="1200" height="630" fill="#101820"/>
+  <path d="M0 455h1200v175H0z" fill="#d7e7e4"/>
+  <path d="M152 363c68-92 156-138 264-138h264c94 0 180 43 258 128l85 16c37 7 64 39 64 77v32H112v-30c0-43 31-79 73-85h-33z" fill="#24343c"/>
+  <path d="M293 260h260c79 0 145 27 199 82H236c20-36 39-64 57-82z" fill="#6bd5c8"/>
+  <path d="M258 488h634" stroke="#0d1117" stroke-width="36" stroke-linecap="round"/>
+  <circle cx="318" cy="485" r="72" fill="#101820"/><circle cx="318" cy="485" r="34" fill="#f4cf5d"/>
+  <circle cx="850" cy="485" r="72" fill="#101820"/><circle cx="850" cy="485" r="34" fill="#f4cf5d"/>
+  <path d="M530 402h162l-24 52H506z" fill="#f4cf5d"/>
+  <path d="M724 188h276M756 230h370M804 272h270" stroke="#ff6b57" stroke-width="14" stroke-linecap="round" opacity=".85"/>
+  <path d="M148 392h122" stroke="#f4cf5d" stroke-width="16" stroke-linecap="round"/>
+  <text x="76" y="92" fill="#d7e7e4" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">GEEKISH</text>
+  <text x="76" y="575" fill="#101820" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800">Bentley's EV era starts</text>
+</svg>

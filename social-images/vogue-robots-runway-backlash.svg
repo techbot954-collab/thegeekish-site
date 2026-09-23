@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Generated illustration of humanoid robots under fashion runway lights">
+  <rect width="1200" height="630" fill="#121316"/>
+  <path d="M0 510h1200v120H0z" fill="#f5f0e6"/>
+  <path d="M126 90h948l-154 420H280z" fill="#272b31"/>
+  <path d="M210 100 75 500M390 98 310 500M810 98l78 402M990 100l135 400" stroke="#f1d35b" stroke-width="8" opacity=".7"/>
+  <circle cx="280" cy="130" r="42" fill="#ff6b57" opacity=".9"/>
+  <circle cx="920" cy="130" r="42" fill="#55d6be" opacity=".9"/>
+  <g transform="translate(482 170)">
+    <rect x="28" y="72" width="156" height="190" rx="42" fill="#dfe8ef"/>
+    <rect x="58" y="22" width="96" height="74" rx="30" fill="#f7fbff"/>
+    <circle cx="88" cy="60" r="9" fill="#17191d"/>
+    <circle cx="124" cy="60" r="9" fill="#17191d"/>
+    <path d="M64 142h84" stroke="#1a1c20" stroke-width="12" stroke-linecap="round"/>
+    <path d="M28 116-54 72M184 116l86-40M70 262l-38 108M142 262l42 108" stroke="#dfe8ef" stroke-width="30" stroke-linecap="round"/>
+    <path d="M36 258h140" stroke="#8fa2b2" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <g fill="#17191d" opacity=".92">
+    <circle cx="178" cy="548" r="22"/><circle cx="240" cy="545" r="26"/><circle cx="306" cy="552" r="20"/>
+    <circle cx="874" cy="548" r="24"/><circle cx="940" cy="546" r="26"/><circle cx="1010" cy="552" r="22"/>
+  </g>
+  <text x="78" y="88" fill="#f5f0e6" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">GEEKISH</text>
+  <text x="78" y="570" fill="#121316" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="800">Robots stole the runway</text>
+</svg>
