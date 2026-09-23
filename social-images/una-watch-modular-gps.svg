@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f1720"/><stop offset=".52" stop-color="#24a094"/><stop offset="1" stop-color="#f4c95d"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="135" y="104" width="810" height="554" rx="44" fill="#f7f7ef"/>
+  <rect x="394" y="166" width="292" height="398" rx="72" fill="#121820"/>
+  <rect x="444" y="221" width="192" height="238" rx="28" fill="#dff7ee"/>
+  <text x="540" y="312" text-anchor="middle" fill="#121820" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="900">GPS</text>
+  <text x="540" y="366" text-anchor="middle" fill="#24a094" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">10 DAYS</text>
+  <circle cx="540" cy="497" r="28" fill="#f4c95d"/>
+  <path d="M330 230h-88v280h88M750 230h88v280h-88M343 590l-58 42M737 590l58 42" fill="none" stroke="#121820" stroke-width="18" stroke-linecap="round"/>
+  <text x="244" y="184" fill="#121820" font-family="Arial" font-size="28" font-weight="900">REPAIR</text>
+  <text x="736" y="184" fill="#121820" font-family="Arial" font-size="28" font-weight="900">MODULAR</text>
+  <rect y="748" width="1080" height="602" fill="#151515"/>
+  <text x="70" y="844" fill="#f7f7ef" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="900"><tspan x="70">The $199</tspan><tspan x="70" dy="76">hackable watch</tspan></text>
+  <text x="70" y="1032" fill="#24a094" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">OPEN-SOURCE GPS WEARABLE</text>
+  <circle cx="104" cy="1202" r="34" fill="#f4c95d"/><text x="104" y="1212" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1195" fill="#f7f7ef" font-family="Arial" font-size="26" font-weight="800">Geekish - Mika Circuit</text>
+  <text x="156" y="1230" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#24a094" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

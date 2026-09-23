@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset=".5" stop-color="#ff3040"/><stop offset="1" stop-color="#44d7b6"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="116" y="105" width="848" height="562" rx="44" fill="#fff9f0"/>
+  <rect x="174" y="164" width="732" height="84" rx="22" fill="#111827"/>
+  <circle cx="222" cy="206" r="17" fill="#ff3040"/><circle cx="270" cy="206" r="17" fill="#ffd166"/><circle cx="318" cy="206" r="17" fill="#44d7b6"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="900">
+    <rect x="188" y="304" width="290" height="124" rx="26" fill="#ff3040"/><text x="333" y="378" text-anchor="middle" fill="#fff9f0" font-size="32">LEARNING</text>
+    <rect x="602" y="304" width="290" height="124" rx="26" fill="#44d7b6"/><text x="747" y="378" text-anchor="middle" fill="#111827" font-size="32">GAMING</text>
+    <rect x="312" y="480" width="456" height="74" rx="37" fill="#111827"/><circle cx="652" cy="517" r="30" fill="#ffd166"/><text x="392" y="529" fill="#fff9f0" font-size="28">VIBE DIAL</text>
+  </g>
+  <path d="M540 578l42 42h-84z" fill="#ffd166"/>
+  <rect y="748" width="1080" height="602" fill="#151515"/>
+  <text x="70" y="844" fill="#fff9f0" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="900"><tspan x="70">YouTube gets</tspan><tspan x="70" dy="76">custom feeds</tspan></text>
+  <text x="70" y="1032" fill="#44d7b6" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">A KNOB FOR THE ALGORITHM</text>
+  <circle cx="104" cy="1202" r="34" fill="#ff3040"/><text x="104" y="1212" text-anchor="middle" fill="#fff9f0" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#fff9f0" font-family="Arial" font-size="26" font-weight="800">Geekish - Jax Pixel</text>
+  <text x="156" y="1230" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#44d7b6" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
