@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#20172c"/>
+      <stop offset=".58" stop-color="#101827"/>
+      <stop offset="1" stop-color="#42213d"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g opacity=".24" stroke="#ffffff" stroke-width="3">
+    <path d="M0 820h1080M0 910h1080M0 1000h1080M0 1090h1080"/>
+    <path d="M180 1350L520 360M900 1350L560 360"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="776" cy="298" r="88" fill="#ff5a3d"/>
+    <path d="M268 756c118-44 230-44 336 0" fill="none" stroke="#57d7ff" stroke-width="18" stroke-linecap="round"/>
+    <path d="M380 366h192l-36 80H416z" fill="#f8e7ad" stroke="#ffffff" stroke-width="7"/>
+    <path d="M338 492h276l-64 418H402z" fill="#191919" stroke="#ffffff" stroke-width="8"/>
+    <path d="M380 492h192l-18 116H398z" fill="#ff5a3d"/>
+    <circle cx="475" cy="712" r="48" fill="#57d7ff"/>
+    <path d="M246 452c86 10 160 58 221 144" stroke="#ffffff" stroke-width="8" fill="none"/>
+    <path d="M650 451c108-8 180-55 216-142" stroke="#ffffff" stroke-width="8" fill="none"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-weight="1000">
+    <text x="82" y="1138" font-size="61" fill="#ffffff">Brad Bird's</text>
+    <text x="82" y="1211" font-size="61" fill="#ffffff">retro sci-fi noir</text>
+    <text x="82" y="101" font-size="34" letter-spacing="5" fill="#ff5a3d">GEEKISH</text>
+  </g>
+  <text x="82" y="1282" font-family="Arial, sans-serif" font-weight="900" font-size="31" fill="#57d7ff">Ray Gunn trailer lands at Netflix</text>
+</svg>

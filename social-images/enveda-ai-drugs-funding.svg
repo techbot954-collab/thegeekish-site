@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fffaf0"/>
+      <stop offset=".52" stop-color="#eaf7ef"/>
+      <stop offset="1" stop-color="#e7ecff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="30" stdDeviation="28" flood-color="#151515" flood-opacity=".17"/>
+    </filter>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g filter="url(#shadow)">
+    <rect x="196" y="274" width="688" height="564" rx="52" fill="#ffffff" stroke="#151515" stroke-width="12"/>
+    <path d="M354 706c90-24 137-82 142-174 5-85 58-142 158-170" fill="none" stroke="#2b8a57" stroke-width="22" stroke-linecap="round"/>
+    <path d="M449 600c-53-69-105-78-157-27 47 12 94 21 157 27z" fill="#dbe8d0" stroke="#151515" stroke-width="7"/>
+    <path d="M561 469c24-75 71-105 142-90-35 39-75 67-142 90z" fill="#dbe8d0" stroke="#151515" stroke-width="7"/>
+    <circle cx="364" cy="438" r="34" fill="#246bfe"/>
+    <circle cx="444" cy="410" r="26" fill="#ff5a3d"/>
+    <circle cx="704" cy="626" r="38" fill="#246bfe"/>
+    <circle cx="618" cy="690" r="30" fill="#ff5a3d"/>
+    <path d="M364 438l80-28M704 626l-86 64M444 410l117 59" stroke="#151515" stroke-width="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-weight="1000">
+    <text x="540" y="949" text-anchor="middle" font-size="78" fill="#151515">$311M</text>
+    <text x="540" y="1006" text-anchor="middle" font-size="34" fill="#6d665f">AI biotech funding</text>
+    <text x="82" y="1190" font-size="58" fill="#151515">Nature-derived</text>
+    <text x="82" y="1261" font-size="58" fill="#151515">drug trials</text>
+  </g>
+  <text x="82" y="101" font-family="Arial, sans-serif" font-weight="1000" font-size="34" letter-spacing="5" fill="#ff5a3d">GEEKISH</text>
+</svg>

@@ -1,5 +1,25 @@
 # Direct-link social posting index
 
+- Samsung smart fridges show the risk of firmware updates
+  - Article: https://thegeekish.com/articles/samsung-smart-fridge-firmware-brick.html
+  - Image: https://thegeekish.com/social-images-png/samsung-smart-fridge-firmware-brick.png?v=20260923a
+  - Copy: social-posts/samsung-smart-fridge-firmware-brick.md
+
+- Modal Motors wants electric motors without rare-earth magnets
+  - Article: https://thegeekish.com/articles/modal-motors-rare-earth-free.html
+  - Image: https://thegeekish.com/social-images-png/modal-motors-rare-earth-free.png?v=20260923a
+  - Copy: social-posts/modal-motors-rare-earth-free.md
+
+- Enveda raises $311M for nature-derived AI drug trials
+  - Article: https://thegeekish.com/articles/enveda-ai-drugs-funding.html
+  - Image: https://thegeekish.com/social-images-png/enveda-ai-drugs-funding.png?v=20260923a
+  - Copy: social-posts/enveda-ai-drugs-funding.md
+
+- Netflix's Ray Gunn trailer brings Brad Bird back to retro sci-fi
+  - Article: https://thegeekish.com/articles/ray-gunn-netflix-trailer.html
+  - Image: https://thegeekish.com/social-images-png/ray-gunn-netflix-trailer.png?v=20260923a
+  - Copy: social-posts/ray-gunn-netflix-trailer.md
+
 - Xiaomi's 18 Pro phones make privacy screens feel less clunky
   - Article: https://thegeekish.com/articles/xiaomi-18-pro-privacy-display.html
   - Image: https://thegeekish.com/social-images-png/xiaomi-18-pro-privacy-display.png?v=20260923a
