@@ -1,5 +1,30 @@
 # Direct-link social posting index
 
+- Xiaomi's 18 Pro phones make privacy screens feel less clunky
+  - Article: https://thegeekish.com/articles/xiaomi-18-pro-privacy-display.html
+  - Image: https://thegeekish.com/social-images-png/xiaomi-18-pro-privacy-display.png?v=20260923a
+  - Copy: social-posts/xiaomi-18-pro-privacy-display.md
+
+- Eight Sleep's Pod 6 shrinks the smart-bed hub
+  - Article: https://thegeekish.com/articles/eight-sleep-pod-6.html
+  - Image: https://thegeekish.com/social-images-png/eight-sleep-pod-6.png?v=20260923a
+  - Copy: social-posts/eight-sleep-pod-6.md
+
+- UK regulators want more search choice inside Android and Chrome
+  - Article: https://thegeekish.com/articles/uk-android-chrome-search-choices.html
+  - Image: https://thegeekish.com/social-images-png/uk-android-chrome-search-choices.png?v=20260923a
+  - Copy: social-posts/uk-android-chrome-search-choices.md
+
+- Apple Maps is turning landmarks into podcast stops
+  - Article: https://thegeekish.com/articles/apple-maps-hidden-histories.html
+  - Image: https://thegeekish.com/social-images-png/apple-maps-hidden-histories.png?v=20260923a
+  - Copy: social-posts/apple-maps-hidden-histories.md
+
+- Supercritical CO2 is the latest data-center power pitch
+  - Article: https://thegeekish.com/articles/supercritical-co2-data-centers.html
+  - Image: https://thegeekish.com/social-images-png/supercritical-co2-data-centers.png?v=20260923a
+  - Copy: social-posts/supercritical-co2-data-centers.md
+
 - Apple CarPlay gets better when you clean up the defaults
   - Article: https://thegeekish.com/articles/apple-carplay-setup-tweaks.html
   - Image: https://thegeekish.com/social-images-png/apple-carplay-setup-tweaks.png?v=20260923a

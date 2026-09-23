@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101221"/><stop offset=".52" stop-color="#213d63"/><stop offset="1" stop-color="#6b4a7a"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="76" y="66" width="1048" height="496" rx="32" fill="#060914" opacity=".52"/>
+  <rect x="132" y="126" width="480" height="360" rx="34" fill="#f8fbff"/>
+  <path d="M160 420c110-98 210-30 420-145" fill="none" stroke="#ff7058" stroke-width="18" stroke-linecap="round"/>
+  <path d="M160 246c140 25 250-70 420-28" fill="none" stroke="#79d5ff" stroke-width="18" stroke-linecap="round"/>
+  <path d="M232 324h252" stroke="#b4c2d6" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="302" cy="270" r="34" fill="#ff7058"/>
+  <path d="M302 288c-28-38-28-67 0-89 28 22 28 51 0 89z" fill="#ff7058"/>
+  <circle cx="302" cy="237" r="12" fill="#fff"/>
+  <rect x="426" y="310" width="110" height="80" rx="24" fill="#101827"/>
+  <path d="M455 348h52M455 370h52" stroke="#8cf0ff" stroke-width="9" stroke-linecap="round"/>
+  <text x="690" y="180" fill="#f8fbff" font-family="Arial, sans-serif" font-size="54" font-weight="800">Maps meet</text>
+  <text x="690" y="244" fill="#ffcf70" font-family="Arial, sans-serif" font-size="48" font-weight="800">audio tours</text>
+  <text x="690" y="330" fill="#f8fbff" font-family="Arial, sans-serif" font-size="30" font-weight="700">Apple Maps</text>
+  <text x="690" y="374" fill="#d5e6f6" font-family="Arial, sans-serif" font-size="26">landmarks link to podcasts</text>
+  <text x="74" y="604" fill="#a9bbd2" font-family="Arial, sans-serif" font-size="22">Geekish-generated illustration</text>
+</svg>

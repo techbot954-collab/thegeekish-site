@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#08111f"/><stop offset=".58" stop-color="#1e315d"/><stop offset="1" stop-color="#244b5b"/></linearGradient>
+    <linearGradient id="glass" x1="0" x2="1"><stop stop-color="#7df9ff"/><stop offset="1" stop-color="#2d6bff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="75" y="64" width="1050" height="500" rx="34" fill="#050914" opacity=".55"/>
+  <path d="M480 142l330 80v186l-330 80z" fill="#62d9ff" opacity=".16"/>
+  <rect x="230" y="118" width="285" height="415" rx="48" fill="#101827" stroke="#e8f6ff" stroke-width="10"/>
+  <rect x="262" y="164" width="222" height="322" rx="30" fill="url(#glass)"/>
+  <rect x="305" y="210" width="135" height="18" rx="9" fill="#08111f" opacity=".8"/>
+  <rect x="300" y="255" width="146" height="146" rx="22" fill="#08111f" opacity=".28"/>
+  <circle cx="340" cy="328" r="28" fill="#fff7c2"/>
+  <circle cx="408" cy="328" r="28" fill="#ff755f"/>
+  <rect x="515" y="200" width="130" height="212" rx="26" fill="#0b1425" stroke="#67f5ff" stroke-width="6"/>
+  <rect x="544" y="245" width="72" height="112" rx="18" fill="#ffdc66"/>
+  <text x="690" y="180" fill="#f7fbff" font-family="Arial, sans-serif" font-size="56" font-weight="800">Privacy mode</text>
+  <text x="690" y="244" fill="#67f5ff" font-family="Arial, sans-serif" font-size="42" font-weight="700">goes flagship</text>
+  <text x="690" y="330" fill="#f7fbff" font-family="Arial, sans-serif" font-size="30" font-weight="700">Xiaomi 18 Pro</text>
+  <text x="690" y="374" fill="#d5e6f6" font-family="Arial, sans-serif" font-size="26">rear screen + 200MP cameras</text>
+  <text x="74" y="604" fill="#9fb8d8" font-family="Arial, sans-serif" font-size="22">Geekish-generated illustration</text>
+</svg>

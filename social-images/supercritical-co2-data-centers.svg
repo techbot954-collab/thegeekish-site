@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#09101d"/><stop offset=".55" stop-color="#26355b"/><stop offset="1" stop-color="#355f50"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="76" y="66" width="1048" height="496" rx="32" fill="#06101b" opacity=".55"/>
+  <rect x="132" y="218" width="312" height="210" rx="24" fill="#101827" stroke="#8ce8ff" stroke-width="6"/>
+  <g fill="#8ce8ff"><rect x="168" y="258" width="44" height="44" rx="8"/><rect x="236" y="258" width="44" height="44" rx="8"/><rect x="304" y="258" width="44" height="44" rx="8"/><rect x="168" y="328" width="44" height="44" rx="8"/><rect x="236" y="328" width="44" height="44" rx="8"/><rect x="304" y="328" width="44" height="44" rx="8"/></g>
+  <circle cx="560" cy="326" r="95" fill="none" stroke="#f7fbff" stroke-width="16"/>
+  <path d="M560 231v190M465 326h190" stroke="#f7fbff" stroke-width="14" stroke-linecap="round"/>
+  <path d="M444 326c40-72 105-102 191-70" fill="none" stroke="#ffcf70" stroke-width="12" stroke-linecap="round"/>
+  <path d="M650 326c-42 72-108 102-192 70" fill="none" stroke="#71f0a1" stroke-width="12" stroke-linecap="round"/>
+  <text x="722" y="176" fill="#f8fbff" font-family="Arial, sans-serif" font-size="54" font-weight="800">AI power</text>
+  <text x="722" y="238" fill="#71f0a1" font-family="Arial, sans-serif" font-size="46" font-weight="800">gets complicated</text>
+  <text x="722" y="326" fill="#f8fbff" font-family="Arial, sans-serif" font-size="30" font-weight="700">supercritical CO2</text>
+  <text x="722" y="370" fill="#d5e6f6" font-family="Arial, sans-serif" font-size="26">data-center turbines, not magic</text>
+  <text x="74" y="604" fill="#a9bbd2" font-family="Arial, sans-serif" font-size="22">Geekish-generated illustration</text>
+</svg>
