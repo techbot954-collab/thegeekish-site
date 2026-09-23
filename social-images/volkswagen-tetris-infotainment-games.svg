@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#081225"/>
+      <stop offset=".5" stop-color="#1d2b53"/>
+      <stop offset="1" stop-color="#154f54"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M120 410c80-92 178-140 300-140h360c122 0 220 48 300 140v80H120z" fill="#101b35"/>
+  <rect x="344" y="122" width="512" height="306" rx="30" fill="#eaf4fb"/>
+  <rect x="382" y="160" width="436" height="230" rx="18" fill="#07101f"/>
+  <rect x="448" y="196" width="48" height="48" fill="#20d5b5"/>
+  <rect x="496" y="196" width="48" height="48" fill="#20d5b5"/>
+  <rect x="544" y="196" width="48" height="48" fill="#20d5b5"/>
+  <rect x="544" y="244" width="48" height="48" fill="#20d5b5"/>
+  <rect x="648" y="196" width="48" height="48" fill="#ffcc4d"/>
+  <rect x="648" y="244" width="48" height="48" fill="#ffcc4d"/>
+  <rect x="696" y="244" width="48" height="48" fill="#ffcc4d"/>
+  <rect x="696" y="292" width="48" height="48" fill="#ffcc4d"/>
+  <rect x="520" y="292" width="48" height="48" fill="#ff6b6b"/>
+  <rect x="568" y="292" width="48" height="48" fill="#ff6b6b"/>
+  <rect x="616" y="292" width="48" height="48" fill="#ff6b6b"/>
+  <rect x="664" y="292" width="48" height="48" fill="#7d92ff"/>
+  <circle cx="284" cy="492" r="52" fill="#eaf4fb"/>
+  <circle cx="916" cy="492" r="52" fill="#eaf4fb"/>
+  <rect x="166" y="452" width="120" height="64" rx="18" fill="#172844" stroke="#7de7ff" stroke-width="6"/>
+  <rect x="914" y="452" width="120" height="64" rx="18" fill="#172844" stroke="#7de7ff" stroke-width="6"/>
+  <text x="74" y="604" fill="#b7c8d8" font-family="Arial, sans-serif" font-size="22">Geekish-generated illustration</text>
+  <text x="76" y="110" fill="#f7fbff" font-family="Arial, sans-serif" font-size="54" font-weight="800">Dashboard</text>
+  <text x="76" y="172" fill="#20d5b5" font-family="Arial, sans-serif" font-size="54" font-weight="800">Tetris</text>
+  <text x="770" y="96" fill="#f7fbff" font-family="Arial, sans-serif" font-size="38" font-weight="700">parked-only</text>
+  <text x="770" y="142" fill="#ffcc4d" font-family="Arial, sans-serif" font-size="38" font-weight="700">car games</text>
+</svg>
