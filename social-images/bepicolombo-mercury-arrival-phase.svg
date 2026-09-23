@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b19"/><stop offset=".48" stop-color="#243b55"/><stop offset="1" stop-color="#ff9f1c"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="930" cy="130" r="210" fill="#ffd166"/>
+  <circle cx="800" cy="438" r="170" fill="#b56b45"/>
+  <circle cx="742" cy="385" r="18" fill="#6b3f2a" opacity=".7"/>
+  <circle cx="862" cy="492" r="28" fill="#6b3f2a" opacity=".55"/>
+  <circle cx="790" cy="548" r="14" fill="#6b3f2a" opacity=".5"/>
+  <path d="M168 555c180-190 424-238 732-144" fill="none" stroke="#f7f9ff" stroke-width="6" opacity=".35"/>
+  <g transform="translate(300 360) rotate(-18)">
+    <rect x="-58" y="-38" width="116" height="76" rx="16" fill="#e5e7eb" stroke="#111827" stroke-width="10"/>
+    <rect x="-200" y="-70" width="116" height="140" rx="10" fill="#38bdf8" stroke="#f7f9ff" stroke-width="8"/>
+    <rect x="84" y="-70" width="116" height="140" rx="10" fill="#38bdf8" stroke="#f7f9ff" stroke-width="8"/>
+    <path d="M0 38v110" stroke="#f7f9ff" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="0" cy="168" r="34" fill="#f97316"/>
+    <path d="M0 205c-26 50-52 80-78 104M0 205c30 52 62 82 94 108" stroke="#ffedd5" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <circle cx="135" cy="148" r="5" fill="#f7f9ff"/><circle cx="240" cy="250" r="4" fill="#f7f9ff"/><circle cx="488" cy="180" r="6" fill="#f7f9ff"/><circle cx="642" cy="260" r="4" fill="#f7f9ff"/>
+  <rect y="850" width="1080" height="500" fill="#151515"/>
+  <text x="70" y="948" fill="#f7f9ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900"><tspan x="70">BepiColombo</tspan><tspan x="70" dy="76">closes in</tspan></text>
+  <text x="70" y="1140" fill="#ff9f1c" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">MERCURY AFTER 8 YEARS</text>
+  <circle cx="104" cy="1232" r="34" fill="#ff9f1c"/><text x="104" y="1242" text-anchor="middle" fill="#151515" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1225" fill="#f7f9ff" font-family="Arial" font-size="26" font-weight="800">Geekish - Nova Byte</text>
+  <text x="156" y="1260" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1310" fill="#ff9f1c" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
