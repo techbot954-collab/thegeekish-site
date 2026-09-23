@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Bessemer AI funds illustration</title>
+  <desc id="desc">Venture capital flowing into compute, infrastructure, models, tools, apps, and agents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f7ff"/>
+      <stop offset="0.55" stop-color="#edf7f3"/>
+      <stop offset="1" stop-color="#fff2d8"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#263656"/>
+      <stop offset="1" stop-color="#245f5a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <g transform="translate(443 146)">
+    <rect x="0" y="0" width="314" height="314" rx="34" fill="url(#chip)" stroke="#1e2a3b" stroke-width="8"/>
+    <rect x="78" y="78" width="158" height="158" rx="18" fill="#f9fbfd" opacity="0.95"/>
+    <path d="M118 170 C143 118 193 118 198 160 C204 211 122 212 118 170 Z" fill="#7ed1b2"/>
+    <circle cx="196" cy="122" r="18" fill="#f7cf63"/>
+    <g stroke="#1e2a3b" stroke-width="7">
+      <path d="M-38 55 H0"/><path d="M-38 116 H0"/><path d="M-38 177 H0"/><path d="M-38 238 H0"/>
+      <path d="M314 55 H352"/><path d="M314 116 H352"/><path d="M314 177 H352"/><path d="M314 238 H352"/>
+      <path d="M55 -38 V0"/><path d="M116 -38 V0"/><path d="M177 -38 V0"/><path d="M238 -38 V0"/>
+      <path d="M55 314 V352"/><path d="M116 314 V352"/><path d="M177 314 V352"/><path d="M238 314 V352"/>
+    </g>
+  </g>
+  <g fill="#ffffff" stroke="#1e2a3b" stroke-width="6">
+    <rect x="90" y="126" width="205" height="98" rx="15"/>
+    <rect x="126" y="348" width="205" height="98" rx="15"/>
+    <rect x="870" y="126" width="205" height="98" rx="15"/>
+    <rect x="835" y="348" width="205" height="98" rx="15"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-weight="800" font-size="28" fill="#1e2a3b">
+    <text x="192" y="185" text-anchor="middle">COMPUTE</text>
+    <text x="228" y="407" text-anchor="middle">TOOLS</text>
+    <text x="972" y="185" text-anchor="middle">MODELS</text>
+    <text x="938" y="407" text-anchor="middle">AGENTS</text>
+  </g>
+  <g stroke="#1e2a3b" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M295 176 C358 174 386 192 443 228"/>
+    <path d="M331 395 C380 376 407 359 443 332"/>
+    <path d="M870 176 C816 179 793 195 757 228"/>
+    <path d="M835 395 C801 376 779 357 757 332"/>
+  </g>
+  <g transform="translate(520 505)">
+    <rect x="0" y="0" width="160" height="72" rx="36" fill="#f7cf63" stroke="#1e2a3b" stroke-width="6"/>
+    <text x="80" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="900" fill="#1e2a3b">$5.75B</text>
+  </g>
+  <text x="70" y="82" font-family="Arial, sans-serif" font-size="36" font-weight="800" fill="#1e2a3b">GEEKISH</text>
+  <text x="70" y="624" font-family="Arial, sans-serif" font-size="46" font-weight="800" fill="#1e2a3b">Venture money floods the AI stack</text>
+</svg>
