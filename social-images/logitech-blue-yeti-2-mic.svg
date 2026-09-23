@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#0f1720"/><rect x="390" y="140" width="300" height="520" rx="110" fill="#f7f7ef"/><rect x="440" y="205" width="200" height="290" rx="60" fill="#141414"/><circle cx="540" cy="572" r="44" fill="#24a094"/><path d="M310 390c-70 0-126 56-126 126M770 390c70 0 126 56 126 126M260 280c-120 60-180 160-180 300M820 280c120 60 180 160 180 300" stroke="#f4c95d" stroke-width="20" fill="none" stroke-linecap="round"/><rect x="480" y="660" width="120" height="110" fill="#f7f7ef"/><rect x="330" y="760" width="420" height="52" rx="26" fill="#f7f7ef"/><text x="540" y="930" text-anchor="middle" font-family="Arial" font-size="58" font-weight="900" fill="#f7f7ef">VOICE TRACKING</text>
+  <rect y="1016" width="1080" height="334" fill="#f7f7ef"/>
+  <text x="70" y="1086" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="900"><tspan x="70" dy="0">Logitech's Blue Yeti 2 fixes</tspan><tspan x="70" dy="58">the creator mic problem with</tspan><tspan x="70" dy="58">sensors</tspan></text>
+  <circle cx="104" cy="1242" r="34" fill="#24a094"/><text x="104" y="1252" text-anchor="middle" fill="#f7f7ef" font-family="Arial" font-size="24" font-weight="900">MC</text>
+  <text x="156" y="1235" fill="#151515" font-family="Arial" font-size="26" font-weight="800">Geekish - Mika Circuit</text>
+  <text x="156" y="1270" fill="#59616b" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1320" fill="#24a094" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
