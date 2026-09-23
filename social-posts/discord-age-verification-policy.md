@@ -7,7 +7,7 @@ Writer: Jax Pixel
 ## Facebook post
 Discord is rolling out revised age verification after privacy concerns delayed its earlier plan.
 
-The new system sorts users into Adult, Teen, or Unconfirmed groups, with extra checks only when needed.
+The new system sorts users into Adult, Teen, or Unconfirmed groups, and TechCrunch says Discord expects about 90% of users to avoid extra checks.
 
 Read the sourced Geekish quick take here:
 https://thegeekish.com/articles/discord-age-verification-policy.html
@@ -17,7 +17,7 @@ https://thegeekish.com/articles/discord-age-verification-policy.html
 ## Instagram feed caption
 Discord's age checks are back, but redesigned around privacy promises.
 
-The company says it will not use messages or calls to estimate age.
+The company says it will not use messages or calls to estimate age, and most users should not need extra verification.
 
 Read it on Geekish: https://thegeekish.com/articles/discord-age-verification-policy.html
 
