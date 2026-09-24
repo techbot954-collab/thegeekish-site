@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">AI audio wearable chip illustration</title>
+  <desc id="desc">Wireless earbuds, audio glasses, and an on-device AI chip with sound waves.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff7e8"/>
+      <stop offset="0.55" stop-color="#d9fff2"/>
+      <stop offset="1" stop-color="#e8eeff"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#246bfe"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="68" y="68" width="1064" height="539" rx="34" fill="#fffaf3" stroke="#151515" stroke-width="4"/>
+  <circle cx="940" cy="160" r="62" fill="#ff5a3d"/>
+  <circle cx="950" cy="160" r="32" fill="#fffaf3"/>
+  <g fill="none" stroke="#151515" stroke-width="16" stroke-linecap="round">
+    <path d="M236 356c-28-50-12-113 37-142 49-28 112-12 141 37"/>
+    <path d="M808 250c69-45 150-44 218 0"/>
+    <path d="M773 304c45-30 93-31 143-5"/>
+  </g>
+  <g>
+    <rect x="468" y="186" width="264" height="264" rx="38" fill="url(#chip)" stroke="#151515" stroke-width="5"/>
+    <rect x="524" y="242" width="152" height="152" rx="24" fill="#fffaf3" opacity="0.95"/>
+    <text x="600" y="308" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="900" fill="#151515">AI</text>
+    <text x="600" y="350" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#246bfe">AUDIO</text>
+    <g stroke="#151515" stroke-width="5">
+      <path d="M504 176v-42M556 176v-42M608 176v-42M660 176v-42M712 176v-42"/>
+      <path d="M504 492v-42M556 492v-42M608 492v-42M660 492v-42M712 492v-42"/>
+      <path d="M458 222h-42M458 274h-42M458 326h-42M458 378h-42M458 430h-42"/>
+      <path d="M784 222h-42M784 274h-42M784 326h-42M784 378h-42M784 430h-42"/>
+    </g>
+  </g>
+  <g fill="#151515">
+    <path d="M229 292c44 0 80 36 80 80v55c0 26-21 47-47 47h-6c-26 0-47-21-47-47V312c0-11 9-20 20-20z"/>
+    <path d="M326 321c35 15 59 50 59 91v44c0 19-15 34-34 34s-34-15-34-34v-55c0-19-8-36-21-48l30-32z"/>
+  </g>
+  <g fill="none" stroke="#246bfe" stroke-width="7" stroke-linecap="round">
+    <path d="M360 326c31 21 52 61 52 104"/>
+    <path d="M389 287c55 39 90 93 96 162"/>
+    <path d="M804 396c34-36 86-55 140-48"/>
+    <path d="M790 441c53-38 121-47 188-26"/>
+  </g>
+  <g fill="#151515">
+    <rect x="780" y="256" width="180" height="34" rx="17"/>
+    <rect x="952" y="256" width="84" height="34" rx="17"/>
+    <circle cx="808" cy="273" r="48" fill="#fffaf3" stroke="#151515" stroke-width="12"/>
+    <circle cx="997" cy="273" r="48" fill="#fffaf3" stroke="#151515" stroke-width="12"/>
+  </g>
+  <text x="92" y="112" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900" fill="#ff5a3d" letter-spacing="4">GEEKISH / AUDIO AI</text>
+  <text x="92" y="565" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#151515">On-device AI moves into your ears</text>
+</svg>

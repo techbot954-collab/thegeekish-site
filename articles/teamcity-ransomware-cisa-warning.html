@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CISA says ransomware gangs are exploiting a critical TeamCity flaw — Geekish</title>
+  <meta name="description" content="BleepingComputer reports CISA now flags CVE-2026-63077, a critical JetBrains TeamCity flaw, as used in ransomware campaigns." />
+  <link rel="canonical" href="https://thegeekish.com/articles/teamcity-ransomware-cisa-warning.html" />
+  <meta property="og:title" content="CISA says ransomware gangs are exploiting a critical TeamCity flaw — Geekish" />
+  <meta property="og:description" content="BleepingComputer reports CISA now flags CVE-2026-63077, a critical JetBrains TeamCity flaw, as used in ransomware campaigns." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://thegeekish.com/articles/teamcity-ransomware-cisa-warning.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BlogPosting","headline":"CISA says ransomware gangs are exploiting a critical TeamCity flaw","description":"BleepingComputer reports CISA now flags CVE-2026-63077, a critical JetBrains TeamCity flaw, as used in ransomware campaigns.","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Person","name":"Nova Byte"},"publisher":{"@type":"Organization","name":"Geekish"},"mainEntityOfPage":"https://thegeekish.com/articles/teamcity-ransomware-cisa-warning.html"}
+  </script>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header"><div class="wrap nav"><a class="logo" href="../index.html">Geekish</a><nav class="links" aria-label="Primary navigation"><a href="../index.html#latest">Latest</a><a href="../authors/">Writers</a><a href="../index.html#post-ready">Post-ready</a></nav><a class="nav-cta" href="../index.html#latest">More Posts</a></div></header>
+  <main>
+    <article class="wrap article-page">
+      <a class="back-link" href="../index.html#latest">&larr; Back to Geekish</a>
+      <div class="article-kicker">Cybersecurity • September 24, 2026</div>
+      <h1>CISA says ransomware gangs are exploiting a critical TeamCity flaw</h1>
+      <div class="byline-card"><div class="author-avatar">NB</div><div><span>By Nova Byte</span><strong>AI, chips, and infrastructure reporter</strong><p>Based on BleepingComputer's report and CISA's Known Exploited Vulnerabilities catalog.</p></div></div>
+      <p class="article-dek">The warning is especially sharp because TeamCity sits inside software build pipelines, where one compromised server can ripple downstream.</p>
+      <figure class="article-image">
+        <img src="../social-images-png/teamcity-ransomware-cisa-warning.png?v=20260924a" alt="Generated illustration of a CI/CD build server under a ransomware warning shield" />
+        <figcaption>Image: Geekish-generated illustration based on linked reporting about ransomware abuse of a TeamCity vulnerability.</figcaption>
+      </figure>
+      <div class="article-hero-card tilt-card"><span>CI/CD SECURITY</span><strong>Geekish sourced quick read</strong><p>Original Geekish context based on the sources linked below.</p></div>
+      <section class="article-section"><h2>The short version</h2><p>BleepingComputer reports CISA updated its Known Exploited Vulnerabilities catalog to mark CVE-2026-63077 as used in ransomware campaigns. JetBrains patched the critical TeamCity On-Premises authentication bypass flaw in July.</p></section>
+      <section class="article-section"><h2>What the flaw can do</h2><p>According to BleepingComputer, JetBrains said an unauthenticated attacker with HTTP(S) access could abuse the TeamCity agent polling protocol to bypass checks and execute operating system commands as the TeamCity server process.</p></section>
+      <section class="article-section"><h2>Why builders should care</h2><p>TeamCity automates builds, tests, and deployments. BleepingComputer notes JetBrains warned successful exploitation could expose data, configurations, stored credentials, server state, and potentially build artifacts or downstream CI/CD pipelines.</p></section>
+      <section class="article-section"><h2>Geekish take</h2><p>This is not a background patch note. Build systems are high-leverage targets because they touch code, secrets, and release paths. If TeamCity is internet-exposed, this is a patch-and-review-now story.</p></section>
+      <aside class="takeaway-box"><h2>Quick takeaways</h2><ul><li>CISA now tags CVE-2026-63077 as used in ransomware campaigns.</li><li>JetBrains patched the TeamCity On-Premises flaw in July 2026.</li><li>BleepingComputer says Shadowserver still tracks more than 160 unpatched exposed servers.</li></ul></aside>
+      <aside class="source-box"><h2>Sources</h2><p>Read the original sources here:</p><ul><li><a href="https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/" target="_blank" rel="noopener">BleepingComputer - CISA: Ransomware gangs now exploiting critical TeamCity flaw</a></li><li><a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-63077" target="_blank" rel="noopener">CISA - Known Exploited Vulnerabilities catalog entry for CVE-2026-63077</a></li><li><a href="https://blog.jetbrains.com/teamcity/2026/08/cve-2026-63077-update/" target="_blank" rel="noopener">JetBrains - CVE-2026-63077 update</a></li></ul></aside>
+      <section class="article-cta"><h2>Want more tech without boring tech-site energy?</h2><p>Follow Geekish for sourced quick reads, AI, gadgets, apps, creator tools, and internet culture.</p><a class="primary" href="../index.html#post-ready">Get the tech drop</a></section>
+    </article>
+  </main>
+  <footer><div class="wrap footer-inner"><strong>Geekish</strong><span>Clean tech stories • sourced reads • social-ready posts</span></div></footer>
+</body>
+</html>

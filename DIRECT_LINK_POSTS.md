@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Qualcomm wants earbuds and audio glasses to run AI locally
+  - Article: https://thegeekish.com/articles/qualcomm-sound-elite-ai-audio.html
+  - Image: https://thegeekish.com/social-images-png/qualcomm-sound-elite-ai-audio.png?v=20260924a
+  - Copy: social-posts/qualcomm-sound-elite-ai-audio.md
+
+- CISA says ransomware gangs are exploiting a critical TeamCity flaw
+  - Article: https://thegeekish.com/articles/teamcity-ransomware-cisa-warning.html
+  - Image: https://thegeekish.com/social-images-png/teamcity-ransomware-cisa-warning.png?v=20260924a
+  - Copy: social-posts/teamcity-ransomware-cisa-warning.md
+
+- Microsoft fixed the Windows File History backup bug
+  - Article: https://thegeekish.com/articles/windows-file-history-backup-fix.html
+  - Image: https://thegeekish.com/social-images-png/windows-file-history-backup-fix.png?v=20260924a
+  - Copy: social-posts/windows-file-history-backup-fix.md
+
 - Meta is turning smart glasses into hearing helpers
   - Article: https://thegeekish.com/articles/meta-hearing-enhancement-smart-glasses.html
   - Image: https://thegeekish.com/social-images-png/meta-hearing-enhancement-smart-glasses.png?v=20260924a
