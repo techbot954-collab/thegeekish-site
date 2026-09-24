@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Google Vids puts Gemini Omni video tools in the browser
+  - Article: https://thegeekish.com/articles/google-vids-gemini-omni.html
+  - Image: https://thegeekish.com/social-images-png/google-vids-gemini-omni.png?v=20260924a
+  - Copy: social-posts/google-vids-gemini-omni.md
+
+- Gemini is getting more connected apps for real errands
+  - Article: https://thegeekish.com/articles/gemini-connected-apps-rollout.html
+  - Image: https://thegeekish.com/social-images-png/gemini-connected-apps-rollout.png?v=20260924a
+  - Copy: social-posts/gemini-connected-apps-rollout.md
+
+- NVIDIA Isaac ROS 5.0 gives robot builders agent-ready tools
+  - Article: https://thegeekish.com/articles/nvidia-isaac-ros-5-agentic-robotics.html
+  - Image: https://thegeekish.com/social-images-png/nvidia-isaac-ros-5-agentic-robotics.png?v=20260924a
+  - Copy: social-posts/nvidia-isaac-ros-5-agentic-robotics.md
+
 - Meta's Muse Charm is the new AI gadget test
   - Article: https://thegeekish.com/articles/meta-muse-charm-ai-gadget.html
   - Image: https://thegeekish.com/social-images-png/meta-muse-charm-ai-gadget.png?v=20260924a

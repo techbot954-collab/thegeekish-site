@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f6f3ee"/>
+  <rect x="74" y="62" width="1052" height="506" rx="36" fill="#151515"/>
+  <rect x="126" y="120" width="332" height="332" rx="26" fill="#dbe8d0"/>
+  <path d="M252 386 L315 274 L376 386" fill="none" stroke="#151515" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="315" cy="242" r="48" fill="#246bfe"/>
+  <rect x="504" y="128" width="248" height="82" rx="20" fill="#ff5a3d"/>
+  <rect x="504" y="252" width="248" height="82" rx="20" fill="#fffaf3"/>
+  <rect x="504" y="376" width="248" height="82" rx="20" fill="#246bfe"/>
+  <path d="M752 169 H936 V417 H752" fill="none" stroke="#fffaf3" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="976" cy="169" r="38" fill="#dbe8d0"/>
+  <circle cx="976" cy="417" r="38" fill="#ff5a3d"/>
+  <text x="532" y="181" font-family="Arial, sans-serif" font-size="32" font-weight="900" fill="#fffaf3">ROS 5.0</text>
+  <text x="532" y="305" font-family="Arial, sans-serif" font-size="31" font-weight="900" fill="#151515">Skills</text>
+  <text x="532" y="429" font-family="Arial, sans-serif" font-size="31" font-weight="900" fill="#fffaf3">Agents</text>
+  <text x="92" y="606" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#151515">Geekish • Robotics</text>
+</svg>
