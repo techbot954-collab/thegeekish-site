@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">AI agents colluding at blackjack</title>
+  <desc id="desc">A stylized blackjack table with two AI chat agents exchanging coded signals.</desc>
+  <rect width="1200" height="630" fill="#101623"/>
+  <rect x="0" y="0" width="1200" height="630" fill="#182235"/>
+  <circle cx="610" cy="333" r="246" fill="#126a52" opacity=".92"/>
+  <circle cx="610" cy="333" r="206" fill="#158060" opacity=".75"/>
+  <path d="M170 505c112-106 760-106 878 0" fill="none" stroke="#f4c95d" stroke-width="12" stroke-linecap="round"/>
+  <g transform="translate(445 258) rotate(-8)">
+    <rect width="94" height="134" rx="12" fill="#f7f4e8"/>
+    <text x="25" y="42" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#121722">A</text>
+    <text x="58" y="104" font-family="Arial, sans-serif" font-size="42" fill="#d14c4c">♥</text>
+  </g>
+  <g transform="translate(533 240) rotate(5)">
+    <rect width="94" height="134" rx="12" fill="#f7f4e8"/>
+    <text x="25" y="42" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#121722">K</text>
+    <text x="58" y="104" font-family="Arial, sans-serif" font-size="42" fill="#121722">♣</text>
+  </g>
+  <g transform="translate(705 255)">
+    <rect x="0" y="0" width="190" height="128" rx="26" fill="#e7fbff"/>
+    <circle cx="57" cy="55" r="12" fill="#182235"/>
+    <circle cx="132" cy="55" r="12" fill="#182235"/>
+    <path d="M62 89c28 16 52 16 76 0" fill="none" stroke="#182235" stroke-width="8" stroke-linecap="round"/>
+    <path d="M38 128l-22 38 58-34" fill="#e7fbff"/>
+  </g>
+  <g transform="translate(280 246)">
+    <rect x="0" y="0" width="190" height="128" rx="26" fill="#f4f0ff"/>
+    <circle cx="57" cy="55" r="12" fill="#182235"/>
+    <circle cx="132" cy="55" r="12" fill="#182235"/>
+    <path d="M64 88c24 14 56 14 80 0" fill="none" stroke="#182235" stroke-width="8" stroke-linecap="round"/>
+    <path d="M152 128l44 35-18-42" fill="#f4f0ff"/>
+  </g>
+  <path d="M478 211c53-32 134-32 187 0" fill="none" stroke="#9fe7ff" stroke-width="8" stroke-dasharray="4 18" stroke-linecap="round"/>
+  <path d="M360 410h500" stroke="#f4c95d" stroke-width="3" opacity=".55"/>
+  <text x="80" y="95" font-family="Arial, sans-serif" font-size="44" font-weight="800" fill="#ffffff">AI agents learned secret table talk</text>
+  <text x="82" y="144" font-family="Arial, sans-serif" font-size="25" fill="#c8d7e8">Blackjack was the lab test. Collusion is the warning.</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">NASA digital airline systems</title>
+  <desc id="desc">An aircraft follows a digital taxi path while runway sensors flag obstacles.</desc>
+  <rect width="1200" height="630" fill="#101623"/>
+  <rect y="360" width="1200" height="270" fill="#263241"/>
+  <path d="M70 438h1060" stroke="#f6f3de" stroke-width="8" stroke-dasharray="42 34"/>
+  <path d="M130 520c180-84 354-111 522-82 139 24 244-19 388-96" fill="none" stroke="#55d6be" stroke-width="10" stroke-linecap="round"/>
+  <path d="M130 520c180-84 354-111 522-82 139 24 244-19 388-96" fill="none" stroke="#55d6be" stroke-width="28" opacity=".18" stroke-linecap="round"/>
+  <g transform="translate(448 210) rotate(-8)">
+    <path d="M0 96 278 36c38-8 73 7 89 38L398 132 258 120 152 202 93 191l56-84L0 96Z" fill="#f8fbff"/>
+    <path d="M258 120 398 132l-32 46-116-26Z" fill="#9ed5ff"/>
+    <path d="M151 107 87 38l42-10 101 64Z" fill="#9ed5ff"/>
+  </g>
+  <g transform="translate(756 405)">
+    <rect x="0" y="0" width="96" height="58" rx="10" fill="#f4c95d"/>
+    <path d="M48 11v24" stroke="#101623" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="48" cy="46" r="5" fill="#101623"/>
+  </g>
+  <g stroke="#9fe7ff" stroke-width="3" fill="none" opacity=".85">
+    <rect x="95" y="84" width="256" height="130" rx="18"/>
+    <path d="M125 172h196M125 136h130M125 108h88"/>
+  </g>
+  <text x="80" y="92" font-family="Arial, sans-serif" font-size="45" font-weight="800" fill="#ffffff">NASA is debugging the runway</text>
+  <text x="82" y="142" font-family="Arial, sans-serif" font-size="25" fill="#c8d7e8">Digital taxi routes, sensors, and fewer voice-command mixups.</text>
+</svg>

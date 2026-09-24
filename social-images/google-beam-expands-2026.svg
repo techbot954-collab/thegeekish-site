@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Google Beam expands</title>
+  <desc id="desc">A glowing 3D video meeting portal connects offices across a world map.</desc>
+  <rect width="1200" height="630" fill="#111827"/>
+  <path d="M102 452c152-118 292-178 420-178 131 0 172 70 306 70 90 0 181-32 270-96" fill="none" stroke="#4263eb" stroke-width="34" opacity=".35" stroke-linecap="round"/>
+  <path d="M102 452c152-118 292-178 420-178 131 0 172 70 306 70 90 0 181-32 270-96" fill="none" stroke="#66e3ff" stroke-width="8" opacity=".85" stroke-linecap="round"/>
+  <g transform="translate(412 142)">
+    <rect x="0" y="0" width="376" height="282" rx="30" fill="#f8fbff"/>
+    <rect x="28" y="28" width="320" height="196" rx="22" fill="#d9f3ff"/>
+    <ellipse cx="188" cy="125" rx="92" ry="84" fill="#9ed5ff"/>
+    <circle cx="188" cy="96" r="36" fill="#243047"/>
+    <path d="M112 196c26-54 124-54 152 0" fill="#243047"/>
+    <rect x="132" y="242" width="112" height="16" rx="8" fill="#243047" opacity=".45"/>
+  </g>
+  <g fill="#f4c95d">
+    <circle cx="247" cy="202" r="14"/><circle cx="932" cy="206" r="14"/><circle cx="980" cy="420" r="14"/><circle cx="214" cy="430" r="14"/><circle cx="748" cy="500" r="14"/>
+  </g>
+  <text x="80" y="92" font-family="Arial, sans-serif" font-size="46" font-weight="800" fill="#ffffff">Google Beam goes wider</text>
+  <text x="82" y="142" font-family="Arial, sans-serif" font-size="25" fill="#c8d7e8">Six countries, HP hardware, and bookable rooms at Industrious.</text>
+</svg>
