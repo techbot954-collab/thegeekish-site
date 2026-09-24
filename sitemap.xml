@@ -13,6 +13,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://thegeekish.com/articles/meta-glasses-visual-data-opt-out.html</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://thegeekish.com/articles/meta-vr-glasses-imax-puck.html</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -506,7 +512,7 @@
   </url>
   <url>
     <loc>https://thegeekish.com/articles/shinyhunters-fbi-breach-claim.html</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

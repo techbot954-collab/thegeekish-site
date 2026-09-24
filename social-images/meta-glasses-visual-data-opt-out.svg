@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Meta glasses visual data opt-out illustration</title>
+  <desc id="desc">Generated illustration of smart glasses, a camera-data panel, and an opt-out privacy switch.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101828"/>
+      <stop offset="0.46" stop-color="#174450"/>
+      <stop offset="1" stop-color="#f2b84b"/>
+    </linearGradient>
+    <linearGradient id="lens" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dff7ff"/>
+      <stop offset="1" stop-color="#79d5e8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#05121a" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="66" y="64" width="1068" height="502" rx="34" fill="#ffffff" opacity="0.08"/>
+  <g filter="url(#shadow)">
+    <rect x="108" y="115" width="430" height="360" rx="26" fill="#fff9ec"/>
+    <rect x="142" y="155" width="362" height="42" rx="14" fill="#13283a"/>
+    <rect x="142" y="223" width="214" height="24" rx="12" fill="#38a6c6"/>
+    <rect x="142" y="267" width="296" height="20" rx="10" fill="#8bb0be"/>
+    <rect x="142" y="304" width="258" height="20" rx="10" fill="#8bb0be"/>
+    <rect x="142" y="355" width="310" height="72" rx="24" fill="#152f42"/>
+    <circle cx="184" cy="391" r="25" fill="#f05a4f"/>
+    <rect x="214" y="379" width="174" height="24" rx="12" fill="#fff9ec"/>
+  </g>
+  <g filter="url(#shadow)" transform="translate(600 118)">
+    <path d="M74 193c0-61 50-111 111-111h55c35 0 64 28 64 64v58c0 35-29 64-64 64H139c-36 0-65-29-65-65v-10Z" fill="url(#lens)"/>
+    <path d="M338 193c0-61 50-111 111-111h55c35 0 64 28 64 64v58c0 35-29 64-64 64H403c-36 0-65-29-65-65v-10Z" fill="url(#lens)"/>
+    <path d="M295 170c33-22 55-22 88 0" fill="none" stroke="#111827" stroke-width="28" stroke-linecap="round"/>
+    <path d="M78 147 16 120M562 147l62-27" fill="none" stroke="#111827" stroke-width="30" stroke-linecap="round"/>
+    <circle cx="522" cy="126" r="18" fill="#111827"/>
+    <circle cx="522" cy="126" r="8" fill="#f05a4f"/>
+    <path d="M157 144h63M422 144h64" stroke="#111827" stroke-width="17" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(610 410)">
+    <rect x="0" y="0" width="390" height="94" rx="47" fill="#10283a"/>
+    <rect x="20" y="17" width="172" height="60" rx="30" fill="#f05a4f"/>
+    <circle cx="58" cy="47" r="24" fill="#fff9ec"/>
+    <text x="218" y="58" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#fff9ec">OPT OUT</text>
+  </g>
+  <text x="96" y="546" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#fff9ec">Generated image: Geekish</text>
+</svg>

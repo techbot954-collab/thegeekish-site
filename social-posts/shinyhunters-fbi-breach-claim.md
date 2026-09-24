@@ -1,13 +1,13 @@
-# Instagram/Facebook post - ShinyHunters claims it breached FBI data, TechCrunch reports
+# Instagram/Facebook post - The FBI is investigating the ShinyHunters breach claim
 
 Article direct link: https://thegeekish.com/articles/shinyhunters-fbi-breach-claim.html
-Image to post: https://thegeekish.com/social-images-png/shinyhunters-fbi-breach-claim.png?v=20260922a
+Image to post: https://thegeekish.com/social-images-png/shinyhunters-fbi-breach-claim.png?v=20260924a
 Writer: Nova Byte
 
 ## Facebook post
-ShinyHunters claims it breached FBI data, TechCrunch reports
+The FBI is investigating the ShinyHunters breach claim.
 
-TechCrunch says the hacking group claims it stole data tied to FBI agents and applicants. The important word is "claims," but the risk category is serious.
+Ars Technica reports the FBI is investigating whether ShinyHunters stole personal data tied to current and former employees from an agency jobs site. The claim is still a claim, but the risk category is serious.
 
 Read the sourced Geekish quick take here:
 https://thegeekish.com/articles/shinyhunters-fbi-breach-claim.html
@@ -15,9 +15,9 @@ https://thegeekish.com/articles/shinyhunters-fbi-breach-claim.html
 #Geekish #TechNews #Cybersecurity #DataBreach #Infosec #Security
 
 ## Instagram feed caption
-Not every breach story is just about passwords.
+This breach story moved from claim to investigation.
 
-TechCrunch reports ShinyHunters claims it breached FBI data tied to agents and applicants. If verified, that kind of personal data can become a counterintelligence risk.
+Ars reports the FBI is investigating ShinyHunters' claim that data tied to current and former employees was stolen from an agency jobs site. If verified, that kind of personal data can become a counterintelligence risk.
 
 Read it on Geekish: https://thegeekish.com/articles/shinyhunters-fbi-breach-claim.html
 
@@ -27,7 +27,7 @@ If Instagram does not make the caption link clickable, use this same article URL
 
 ## Instagram Story text
 NEW ON GEEKISH
-ShinyHunters claims it breached FBI data
+The FBI is investigating the ShinyHunters breach claim
 
 Tap the link sticker to read:
 https://thegeekish.com/articles/shinyhunters-fbi-breach-claim.html
