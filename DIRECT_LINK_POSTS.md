@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Meta's Muse Charm is the new AI gadget test
+  - Article: https://thegeekish.com/articles/meta-muse-charm-ai-gadget.html
+  - Image: https://thegeekish.com/social-images-png/meta-muse-charm-ai-gadget.png?v=20260924a
+  - Copy: social-posts/meta-muse-charm-ai-gadget.md
+
+- Meta's VR glasses move the headset into your pocket
+  - Article: https://thegeekish.com/articles/meta-vr-glasses-imax-puck.html
+  - Image: https://thegeekish.com/social-images-png/meta-vr-glasses-imax-puck.png?v=20260924a
+  - Copy: social-posts/meta-vr-glasses-imax-puck.md
+
+- The US-China AI safety channel has a trust problem
+  - Article: https://thegeekish.com/articles/us-china-ai-safety-alerts.html
+  - Image: https://thegeekish.com/social-images-png/us-china-ai-safety-alerts.png?v=20260924a
+  - Copy: social-posts/us-china-ai-safety-alerts.md
+
 - Samsung smart fridges show the risk of firmware updates
   - Article: https://thegeekish.com/articles/samsung-smart-fridge-firmware-brick.html
   - Image: https://thegeekish.com/social-images-png/samsung-smart-fridge-firmware-brick.png?v=20260923a
