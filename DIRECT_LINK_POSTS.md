@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Meta's holographic avatars make video calls feel uncanny
+  - Article: https://thegeekish.com/articles/meta-holographic-avatars-video-calls.html
+  - Image: https://thegeekish.com/social-images-png/meta-holographic-avatars-video-calls.png?v=20260924a
+  - Copy: social-posts/meta-holographic-avatars-video-calls.md
+
+- Orbit is getting crowded enough to worry space watchers
+  - Article: https://thegeekish.com/articles/orbital-collision-report-2026.html
+  - Image: https://thegeekish.com/social-images-png/orbital-collision-report-2026.png?v=20260924a
+  - Copy: social-posts/orbital-collision-report-2026.md
+
+- Rare earths are the hidden hardware story inside everyday tech
+  - Article: https://thegeekish.com/articles/rare-earth-supply-chain-tech.html
+  - Image: https://thegeekish.com/social-images-png/rare-earth-supply-chain-tech.png?v=20260924a
+  - Copy: social-posts/rare-earth-supply-chain-tech.md
+
 - Google Vids puts Gemini Omni video tools in the browser
   - Article: https://thegeekish.com/articles/google-vids-gemini-omni.html
   - Image: https://thegeekish.com/social-images-png/google-vids-gemini-omni.png?v=20260924a

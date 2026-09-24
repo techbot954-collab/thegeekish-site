@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#06131f"/>
+  <circle cx="600" cy="310" r="142" fill="#1b7fb8"/>
+  <path d="M470 275c80 20 160 16 252-34M482 356c86 42 172 38 246-16" fill="none" stroke="#7ee2b8" stroke-width="16" opacity=".85"/>
+  <g fill="none" stroke-linecap="round">
+    <ellipse cx="600" cy="310" rx="410" ry="118" stroke="#ffce5c" stroke-width="8" transform="rotate(-13 600 310)"/>
+    <ellipse cx="600" cy="310" rx="470" ry="154" stroke="#6ed2ff" stroke-width="7" transform="rotate(17 600 310)"/>
+    <ellipse cx="600" cy="310" rx="350" ry="92" stroke="#ff5a3d" stroke-width="7" transform="rotate(39 600 310)"/>
+  </g>
+  <g fill="#fffaf3">
+    <rect x="238" y="212" width="54" height="30" rx="5" transform="rotate(-13 265 227)"/>
+    <rect x="874" y="202" width="62" height="34" rx="5" transform="rotate(17 905 219)"/>
+    <rect x="780" y="430" width="48" height="28" rx="5" transform="rotate(39 804 444)"/>
+    <circle cx="332" cy="422" r="7"/><circle cx="960" cy="354" r="6"/><circle cx="446" cy="162" r="5"/>
+  </g>
+  <g opacity=".65" stroke="#fffaf3" stroke-width="3">
+    <path d="M324 422l36 24M960 354l42-18M446 162l-38-32"/>
+  </g>
+  <text x="82" y="526" font-family="Arial, sans-serif" font-size="54" font-weight="900" fill="#fffaf3">Orbit is getting crowded</text>
+  <text x="84" y="592" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#ffce5c">Geekish - Space Tech</text>
+</svg>

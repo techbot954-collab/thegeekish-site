@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#08121f"/><stop offset="1" stop-color="#22113a"/></linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#26f2ff"/><stop offset="1" stop-color="#9b7cff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="70" y="58" width="1060" height="514" rx="34" fill="#111827" stroke="#3b4b72" stroke-width="3"/>
+  <g transform="translate(140 95)">
+    <rect x="0" y="0" width="300" height="390" rx="32" fill="#0b1020" stroke="#26f2ff" stroke-width="6"/>
+    <circle cx="150" cy="136" r="72" fill="none" stroke="url(#cyan)" stroke-width="16"/>
+    <path d="M78 282c28-52 116-52 144 0" fill="none" stroke="#9b7cff" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="126" cy="130" r="8" fill="#fffaf3"/><circle cx="174" cy="130" r="8" fill="#fffaf3"/>
+    <path d="M122 176c20 17 42 17 62 0" fill="none" stroke="#fffaf3" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(520 128)" opacity=".96">
+    <path d="M0 75c68-54 176-54 244 0" fill="none" stroke="#26f2ff" stroke-width="18" stroke-linecap="round"/>
+    <path d="M24 116c54-36 142-36 196 0" fill="none" stroke="#9b7cff" stroke-width="16" stroke-linecap="round"/>
+    <rect x="260" y="36" width="220" height="138" rx="30" fill="#151f35" stroke="#fffaf3" stroke-width="5"/>
+    <circle cx="325" cy="104" r="28" fill="#26f2ff"/>
+    <circle cx="408" cy="104" r="28" fill="#9b7cff"/>
+  </g>
+  <g fill="#fffaf3" opacity=".9">
+    <circle cx="516" cy="306" r="4"/><circle cx="638" cy="350" r="5"/><circle cx="824" cy="292" r="4"/><circle cx="982" cy="408" r="5"/>
+  </g>
+  <text x="94" y="524" font-family="Arial, sans-serif" font-size="52" font-weight="900" fill="#fffaf3">Meta avatar calls get uncanny</text>
+  <text x="96" y="592" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#26f2ff">Geekish - VR &amp; Social</text>
+</svg>
