@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>A placeholder domain in dev docs is now serving ClickFix lures - Geekish</title>
+  <meta name="description" content="BleepingComputer reports that third-party.com, a real domain often used as a placeholder in developer docs, is now serving a fake Cloudflare ClickFix attack." />
+  <link rel="canonical" href="https://thegeekish.com/articles/third-party-domain-clickfix-docs.html" />
+  <meta property="og:title" content="A placeholder domain in dev docs is now serving ClickFix lures - Geekish" />
+  <meta property="og:description" content="The practical lesson: use reserved example domains in docs and code samples, because real placeholder domains can turn hostile." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://thegeekish.com/articles/third-party-domain-clickfix-docs.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BlogPosting","headline":"A placeholder domain in dev docs is now serving ClickFix lures","description":"BleepingComputer reports that third-party.com, a real domain often used as a placeholder in developer docs, is now serving a fake Cloudflare ClickFix attack.","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Person","name":"Nova Byte"},"publisher":{"@type":"Organization","name":"Geekish"},"mainEntityOfPage":"https://thegeekish.com/articles/third-party-domain-clickfix-docs.html"}
+  </script>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header"><div class="wrap nav"><a class="logo" href="../index.html">Geekish</a><nav class="links" aria-label="Primary navigation"><a href="../index.html#latest">Latest</a><a href="../authors/">Writers</a><a href="../index.html#post-ready">Post-ready</a></nav><a class="nav-cta" href="../index.html#latest">More Posts</a></div></header>
+  <main>
+    <article class="wrap article-page">
+      <a class="back-link" href="../index.html#latest">&larr; Back to Geekish</a>
+      <div class="article-kicker">Cybersecurity - September 24, 2026</div>
+      <h1>A placeholder domain in dev docs is now serving ClickFix lures</h1>
+      <div class="byline-card"><div class="author-avatar">NB</div><div><span>By Nova Byte</span><strong>AI, chips, and infrastructure reporter</strong><p>Based on BleepingComputer's report and linked developer documentation examples.</p></div></div>
+      <p class="article-dek">The tiny lesson hiding in this attack is very developer-shaped: example domains are infrastructure, too.</p>
+      <figure class="article-image">
+        <img src="../social-images-png/third-party-domain-clickfix-docs.png?v=20260924a" alt="Generated illustration of developer documentation pointing to a warning page" />
+        <figcaption>Image: Geekish-generated illustration for the story; no BleepingComputer imagery was reused.</figcaption>
+      </figure>
+      <div class="article-hero-card tilt-card"><span>DEV DOCS WARNING</span><strong>Geekish sourced quick read</strong><p>Original Geekish context based on the sources linked below.</p></div>
+      <section class="article-section"><h2>The short version</h2><p>BleepingComputer reports that the real domain third-party.com, commonly used as a placeholder in developer documentation and code examples, is now serving a fake Cloudflare verification page. The page attempts to trick Windows users into running a PowerShell command copied to their clipboard.</p></section>
+      <section class="article-section"><h2>Why this is weird</h2><p>Reserved domains like example.com, example.net, and example.org are meant for documentation. Third-party.com is different: it is an ordinary registered domain. That means copied sample code, old docs, automated tooling, or test pages can accidentally reach a domain whose owner controls what visitors see.</p></section>
+      <section class="article-section"><h2>What the lure does</h2><p>According to BleepingComputer, the fake verification flow uses the ClickFix pattern: it tells the user to open the Windows Run dialog, paste a command, and press Enter. At the time of BleepingComputer's testing, the payload domain no longer resolved, but the lure remained live and could be repointed later.</p></section>
+      <section class="article-section"><h2>Geekish take</h2><p>This is a small but useful reminder for anyone writing docs or shipping sample code: placeholder URLs should be boring by design. If a sample needs a domain, use the reserved example domains or a domain your project controls.</p></section>
+      <aside class="takeaway-box"><h2>Quick takeaways</h2><ul><li>Third-party.com is not a reserved documentation domain.</li><li>BleepingComputer says it is serving a fake Cloudflare ClickFix page.</li><li>Developers should avoid real placeholder domains in docs, tests, and snippets.</li></ul></aside>
+      <aside class="source-box"><h2>Sources</h2><p>Read the original reporting and examples here:</p><ul><li><a href="https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/" target="_blank" rel="noopener">BleepingComputer - Placeholder domain used in dev docs now serves ClickFix attacks</a></li><li><a href="https://www.w3.org/TR/geolocation/" target="_blank" rel="noopener">W3C - Geolocation specification example referenced in the report</a></li><li><a href="https://www.w3.org/TR/compute-pressure/" target="_blank" rel="noopener">W3C - Compute Pressure specification example referenced in the report</a></li></ul></aside>
+      <section class="article-cta"><h2>Want more tech without boring tech-site energy?</h2><p>Follow Geekish for sourced quick reads, AI, gadgets, apps, creator tools, and internet culture.</p><a class="primary" href="../index.html#post-ready">Get the tech drop</a></section>
+    </article>
+  </main>
+  <footer><div class="wrap footer-inner"><strong>Geekish</strong><span>Clean tech stories - sourced reads - social-ready posts</span></div></footer>
+</body>
+</html>
