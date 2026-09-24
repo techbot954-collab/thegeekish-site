@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>A new RSA attack surprised cryptographers, but do not panic yet - Geekish</title>
+  <meta name="description" content="Ars Technica reports new research found a signature-forgery path against RSA that is faster than known approaches, while modern deployments remain safe for now." />
+  <link rel="canonical" href="https://thegeekish.com/articles/rsa-signature-forgery-cryptanalysis.html" />
+  <meta property="og:title" content="A new RSA attack surprised cryptographers, but do not panic yet - Geekish" />
+  <meta property="og:description" content="Ars Technica reports new research found a signature-forgery path against RSA that is faster than known approaches, while modern deployments remain safe for now." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://thegeekish.com/articles/rsa-signature-forgery-cryptanalysis.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BlogPosting","headline":"A new RSA attack surprised cryptographers, but do not panic yet","description":"Ars Technica reports new research found a signature-forgery path against RSA that is faster than known approaches, while modern deployments remain safe for now.","datePublished":"2026-09-24","dateModified":"2026-09-24","author":{"@type":"Person","name":"Nova Byte"},"publisher":{"@type":"Organization","name":"Geekish"},"mainEntityOfPage":"https://thegeekish.com/articles/rsa-signature-forgery-cryptanalysis.html"}
+  </script>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header"><div class="wrap nav"><a class="logo" href="../index.html">Geekish</a><nav class="links" aria-label="Primary navigation"><a href="../index.html#latest">Latest</a><a href="../authors/">Writers</a><a href="../index.html#post-ready">Post-ready</a></nav><a class="nav-cta" href="../index.html#latest">More Posts</a></div></header>
+  <main>
+    <article class="wrap article-page">
+      <a class="back-link" href="../index.html#latest">&larr; Back to Geekish</a>
+      <div class="article-kicker">Security • September 24, 2026</div>
+      <h1>A new RSA attack surprised cryptographers, but do not panic yet</h1>
+      <div class="byline-card"><div class="author-avatar">NB</div><div><span>By Nova Byte</span><strong>AI, chips, infrastructure, and security reporter</strong><p>Based on Ars Technica's report on new cryptanalysis research.</p></div></div>
+      <p class="article-dek">RSA has always had a quantum-computing countdown attached to it. This time the surprise is a classical-computing route that attacks signatures without first factoring the key.</p>
+      <figure class="article-image">
+        <img src="../social-images-png/rsa-signature-forgery-cryptanalysis.png?v=20260924a" alt="Generated illustration of an RSA key splitting into forged-signature blocks" />
+        <figcaption>Image: Geekish-generated illustration based on Ars Technica reporting about RSA signature-forgery research.</figcaption>
+      </figure>
+      <div class="article-hero-card tilt-card"><span>CRYPTOGRAPHY</span><strong>Geekish sourced quick read</strong><p>Original Geekish context based on the source linked below.</p></div>
+      <section class="article-section"><h2>The short version</h2><p>Ars Technica reports that new research describes a way to break some RSA security assumptions through signature forgery rather than the traditional route of factoring the public key. The report says the approach can reduce the required computing resources by orders of magnitude compared with prior expectations.</p></section>
+      <section class="article-section"><h2>What is actually at risk</h2><p>The finding is not being framed as a mass emergency for modern RSA deployments. Ars says the method still requires enormous computation, especially for widely used key sizes, and that common implementations remain safe in normal use.</p></section>
+      <section class="article-section"><h2>Why it matters anyway</h2><p>Cryptography changes when the assumptions underneath it get weaker, even if the first version of an attack is not practical for everyday criminals. This research adds pressure to retire older key sizes and keep post-quantum migration plans moving.</p></section>
+      <section class="article-section"><h2>Geekish take</h2><p>The headline is not "RSA is dead today." It is closer to "the map has a new road on it." Security teams should read this as another nudge toward crypto inventories, stronger defaults, and fewer legacy edge cases hanging around in production.</p></section>
+      <aside class="takeaway-box"><h2>Quick takeaways</h2><ul><li>The reported attack targets RSA signatures without relying on factoring first.</li><li>Ars says practical risk is low for modern RSA deployments right now.</li><li>The research still matters because it changes how experts think about RSA's safety margin.</li></ul></aside>
+      <aside class="source-box"><h2>Sources</h2><p>Read the original source here:</p><ul><li><a href="https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/" target="_blank" rel="noopener">Ars Technica - There's a new way to break RSA that's faster than anything we've seen before</a></li></ul></aside>
+      <section class="article-cta"><h2>Want more tech without boring tech-site energy?</h2><p>Follow Geekish for sourced quick reads, AI, gadgets, apps, creator tools, and internet culture.</p><a class="primary" href="../index.html#post-ready">Get the tech drop</a></section>
+    </article>
+  </main>
+  <footer><div class="wrap footer-inner"><strong>Geekish</strong><span>Clean tech stories • sourced reads • social-ready posts</span></div></footer>
+</body>
+</html>
