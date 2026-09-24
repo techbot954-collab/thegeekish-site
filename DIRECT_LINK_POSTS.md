@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Always-listening wearables are turning privacy into the product story
+  - Article: https://thegeekish.com/articles/always-listening-wearables-privacy.html
+  - Image: https://thegeekish.com/social-images-png/always-listening-wearables-privacy.png?v=20260924a
+  - Copy: social-posts/always-listening-wearables-privacy.md
+
+- Apple's M5 Ultra Mac Studio makes local AI feel real, if pricey
+  - Article: https://thegeekish.com/articles/apple-m5-ultra-mac-studio-local-ai.html
+  - Image: https://thegeekish.com/social-images-png/apple-m5-ultra-mac-studio-local-ai.png?v=20260924a
+  - Copy: social-posts/apple-m5-ultra-mac-studio-local-ai.md
+
+- Meta's Muse Charm is becoming a tiny social AI gadget
+  - Article: https://thegeekish.com/articles/meta-muse-charm-ai-gadget.html
+  - Image: https://thegeekish.com/social-images-png/meta-muse-charm-ai-gadget.png?v=20260924b
+  - Copy: social-posts/meta-muse-charm-ai-gadget.md
+
 - Qualcomm wants earbuds and audio glasses to run AI locally
   - Article: https://thegeekish.com/articles/qualcomm-sound-elite-ai-audio.html
   - Image: https://thegeekish.com/social-images-png/qualcomm-sound-elite-ai-audio.png?v=20260924a
@@ -54,11 +69,6 @@
   - Article: https://thegeekish.com/articles/nvidia-isaac-ros-5-agentic-robotics.html
   - Image: https://thegeekish.com/social-images-png/nvidia-isaac-ros-5-agentic-robotics.png?v=20260924a
   - Copy: social-posts/nvidia-isaac-ros-5-agentic-robotics.md
-
-- Meta's Muse Charm is the new AI gadget test
-  - Article: https://thegeekish.com/articles/meta-muse-charm-ai-gadget.html
-  - Image: https://thegeekish.com/social-images-png/meta-muse-charm-ai-gadget.png?v=20260924a
-  - Copy: social-posts/meta-muse-charm-ai-gadget.md
 
 - Meta's VR glasses move the headset into your pocket
   - Article: https://thegeekish.com/articles/meta-vr-glasses-imax-puck.html
