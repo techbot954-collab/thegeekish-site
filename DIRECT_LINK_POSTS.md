@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Meta is turning smart glasses into hearing helpers
+  - Article: https://thegeekish.com/articles/meta-hearing-enhancement-smart-glasses.html
+  - Image: https://thegeekish.com/social-images-png/meta-hearing-enhancement-smart-glasses.png?v=20260924a
+  - Copy: social-posts/meta-hearing-enhancement-smart-glasses.md
+
+- NVIDIA's DLSS 5 pitch is about giving game devs more control
+  - Article: https://thegeekish.com/articles/nvidia-dlss-5-game-developers.html
+  - Image: https://thegeekish.com/social-images-png/nvidia-dlss-5-game-developers.png?v=20260924a
+  - Copy: social-posts/nvidia-dlss-5-game-developers.md
+
 - Meta's holographic avatars make video calls feel uncanny
   - Article: https://thegeekish.com/articles/meta-holographic-avatars-video-calls.html
   - Image: https://thegeekish.com/social-images-png/meta-holographic-avatars-video-calls.png?v=20260924a
