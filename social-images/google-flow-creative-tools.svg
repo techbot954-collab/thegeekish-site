@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fffaf3"/>
+  <rect x="70" y="56" width="1060" height="520" rx="36" fill="#151515"/>
+  <rect x="134" y="118" width="260" height="190" rx="28" fill="#246bfe"/>
+  <rect x="470" y="118" width="260" height="190" rx="28" fill="#ff5a3d"/>
+  <rect x="806" y="118" width="260" height="190" rx="28" fill="#dbe8d0"/>
+  <rect x="134" y="358" width="260" height="114" rx="28" fill="#dbe8d0"/>
+  <rect x="470" y="358" width="260" height="114" rx="28" fill="#fffaf3"/>
+  <rect x="806" y="358" width="260" height="114" rx="28" fill="#246bfe"/>
+  <path d="M212 250 C260 176 312 176 356 250" fill="none" stroke="#fffaf3" stroke-width="22" stroke-linecap="round"/>
+  <path d="M548 246 L600 164 L652 246 Z" fill="#fffaf3"/>
+  <circle cx="936" cy="213" r="54" fill="#151515"/>
+  <path d="M202 416 H326" stroke="#151515" stroke-width="22" stroke-linecap="round"/>
+  <path d="M548 416 H652" stroke="#151515" stroke-width="22" stroke-linecap="round"/>
+  <path d="M892 416 H980" stroke="#fffaf3" stroke-width="22" stroke-linecap="round"/>
+  <text x="132" y="538" font-family="Arial, sans-serif" font-size="46" font-weight="900" fill="#fffaf3">Google Flow adds creator-built AI tools</text>
+  <text x="98" y="606" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#151515">Geekish - Creator Tech</text>
+</svg>
