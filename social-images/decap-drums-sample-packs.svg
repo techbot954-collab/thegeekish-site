@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Generated illustration of drum sample pads turning into hit waveforms</title>
+  <desc id="desc">A stylized music production controller sends glowing drum waves into streaming and studio panels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#101728"/><stop offset="0.55" stop-color="#263c58"/><stop offset="1" stop-color="#ffb84d"/></linearGradient>
+    <linearGradient id="pad" x1="0" x2="1"><stop offset="0" stop-color="#21d4fd"/><stop offset="1" stop-color="#b721ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="82" y="70" width="1036" height="490" rx="36" fill="#f7fafc" opacity=".09"/>
+  <g transform="translate(120 145)">
+    <rect x="0" y="65" width="390" height="310" rx="30" fill="#111827" stroke="#dbeafe" stroke-width="5"/>
+    <rect x="32" y="98" width="88" height="72" rx="14" fill="url(#pad)"/>
+    <rect x="148" y="98" width="88" height="72" rx="14" fill="#fb7185"/>
+    <rect x="264" y="98" width="88" height="72" rx="14" fill="#facc15"/>
+    <rect x="32" y="198" width="88" height="72" rx="14" fill="#34d399"/>
+    <rect x="148" y="198" width="88" height="72" rx="14" fill="#60a5fa"/>
+    <rect x="264" y="198" width="88" height="72" rx="14" fill="#f97316"/>
+    <circle cx="80" cy="325" r="22" fill="#e5e7eb"/>
+    <circle cx="150" cy="325" r="22" fill="#e5e7eb"/>
+    <path d="M455 148 C535 80 595 240 675 170 S820 92 905 170" fill="none" stroke="#facc15" stroke-width="16" stroke-linecap="round"/>
+    <path d="M455 236 C540 170 605 320 690 250 S825 178 940 260" fill="none" stroke="#22d3ee" stroke-width="16" stroke-linecap="round"/>
+    <path d="M455 318 C545 260 615 400 720 335 S860 262 975 350" fill="none" stroke="#f472b6" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" fill="#fff">
+    <text x="92" y="96" font-size="27" font-weight="800">GEEKISH</text>
+    <text x="92" y="520" font-size="54" font-weight="900">The drums behind the hits</text>
+    <text x="94" y="562" font-size="25" fill="#e0f2fe">Sample packs, creator tools, and invisible music tech</text>
+  </g>
+</svg>

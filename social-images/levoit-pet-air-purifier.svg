@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Generated illustration of an air purifier removing pet odor particles in an apartment</title>
+  <desc id="desc">A compact air purifier pulls dotted odor trails through clean blue airflow in a small apartment scene.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#22333b"/><stop offset=".55" stop-color="#4a6670"/><stop offset="1" stop-color="#ffd166"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="70" y="80" width="1060" height="455" rx="36" fill="#fff7ed" opacity=".16"/>
+  <g transform="translate(120 126)">
+    <rect x="485" y="110" width="190" height="285" rx="42" fill="#f8fafc" stroke="#1f2937" stroke-width="6"/>
+    <rect x="525" y="152" width="110" height="18" rx="9" fill="#94a3b8"/>
+    <rect x="526" y="205" width="108" height="126" rx="20" fill="#dbeafe"/>
+    <path d="M548 234 h64 M548 262 h64 M548 290 h64" stroke="#1f2937" stroke-width="8" stroke-linecap="round" opacity=".55"/>
+    <circle cx="580" cy="365" r="16" fill="#34d399"/>
+    <path d="M452 208 C340 130 226 146 126 206" fill="none" stroke="#22d3ee" stroke-width="18" stroke-linecap="round" opacity=".95"/>
+    <path d="M452 270 C316 230 230 260 114 344" fill="none" stroke="#67e8f9" stroke-width="18" stroke-linecap="round" opacity=".85"/>
+    <path d="M690 190 C775 122 888 116 996 176" fill="none" stroke="#bbf7d0" stroke-width="18" stroke-linecap="round"/>
+    <path d="M690 275 C800 260 898 292 998 362" fill="none" stroke="#bbf7d0" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="180" cy="214" r="12" fill="#f97316"/><circle cx="252" cy="166" r="10" fill="#f97316"/><circle cx="318" cy="245" r="13" fill="#f97316"/>
+    <circle cx="222" cy="322" r="12" fill="#f97316"/><circle cx="346" cy="316" r="10" fill="#f97316"/>
+    <path d="M148 392 c0-46 35-84 78-84 s78 38 78 84" fill="#111827"/>
+    <circle cx="199" cy="286" r="38" fill="#111827"/><circle cx="253" cy="286" r="38" fill="#111827"/>
+    <circle cx="200" cy="295" r="7" fill="#fff"/><circle cx="252" cy="295" r="7" fill="#fff"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" fill="#fff">
+    <text x="92" y="78" font-size="27" font-weight="800">GEEKISH</text>
+    <text x="92" y="544" font-size="54" font-weight="900">Air purifier vs pet smells</text>
+    <text x="94" y="586" font-size="25" fill="#fef3c7">Smart-home gear gets brutally practical</text>
+  </g>
+</svg>
