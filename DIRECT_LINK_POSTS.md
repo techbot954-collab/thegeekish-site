@@ -1,5 +1,21 @@
 # Direct-link social posting index
 
+- Claude Opus 5.5 got less obvious at writing like AI
+  - Article: https://thegeekish.com/articles/claude-opus-55-writing-style.html
+  - Image: https://thegeekish.com/social-images-png/claude-opus-55-writing-style.png?v=20260926c
+  - Social copy: social-posts/claude-opus-55-writing-style.md
+
+- Kiteworks told customers to shut servers down for six hours
+  - Article: https://thegeekish.com/articles/kiteworks-six-hour-shutdown-warning.html
+  - Image: https://thegeekish.com/social-images-png/kiteworks-six-hour-shutdown-warning.png?v=20260926c
+  - Social copy: social-posts/kiteworks-six-hour-shutdown-warning.md
+
+- iPhone 18 Pro looks more like an S-year upgrade
+  - Article: https://thegeekish.com/articles/iphone-18-pro-vs-17-pro-upgrades.html
+  - Image: https://thegeekish.com/social-images-png/iphone-18-pro-vs-17-pro-upgrades.png?v=20260926c
+  - Social copy: social-posts/iphone-18-pro-vs-17-pro-upgrades.md
+
+
 - WiCi One wants to make the external GPU wireless
   - Article: https://thegeekish.com/articles/wici-one-wireless-egpu.html
   - Image: https://thegeekish.com/social-images-png/wici-one-wireless-egpu.png?v=20260926a
