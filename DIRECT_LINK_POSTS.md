@@ -399,3 +399,10 @@
   - Article: https://thegeekish.com/articles/visual-tech-news.html
   - Image: https://thegeekish.com/social-images-png/visual-tech-news.png?v=20260514a
   - Copy: social-posts/visual-tech-news.md
+
+
+## September 26, 2026 late refresh
+- OpenAI's agents uploaded user images to third-party sites: https://thegeekish.com/articles/openai-agents-image-upload-privacy.html
+- ShinyHunters found a WAF bypass in PeopleSoft attacks: https://thegeekish.com/articles/shinyhunters-peoplesoft-waf-bypass.html
+- Microsoft paused an Office update after license deactivations: https://thegeekish.com/articles/microsoft-365-kb5002907-license-pause.html
+- Compromised GitHub Actions were re-enabled with payloads still active: https://thegeekish.com/articles/github-actions-mini-shai-hulud-payload.html
