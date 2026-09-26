@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- WiCi One wants to make the external GPU wireless
+  - Article: https://thegeekish.com/articles/wici-one-wireless-egpu.html
+  - Image: https://thegeekish.com/social-images-png/wici-one-wireless-egpu.png?v=20260926a
+  - Copy: social-posts/wici-one-wireless-egpu.md
+
+- Tesla's Optimus robot push is running into worker resistance
+  - Article: https://thegeekish.com/articles/tesla-optimus-worker-training.html
+  - Image: https://thegeekish.com/social-images-png/tesla-optimus-worker-training.png?v=20260926a
+  - Copy: social-posts/tesla-optimus-worker-training.md
+
+- An old laptop can become a smart home hub
+  - Article: https://thegeekish.com/articles/old-laptop-smart-home-hub.html
+  - Image: https://thegeekish.com/social-images-png/old-laptop-smart-home-hub.png?v=20260926a
+  - Copy: social-posts/old-laptop-smart-home-hub.md
+
 - Always-listening wearables are turning privacy into the product story
   - Article: https://thegeekish.com/articles/always-listening-wearables-privacy.html
   - Image: https://thegeekish.com/social-images-png/always-listening-wearables-privacy.png?v=20260924a
