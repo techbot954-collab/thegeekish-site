@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091015"/><stop offset=".55" stop-color="#183042"/><stop offset="1" stop-color="#ff5a4f"/></linearGradient><radialGradient id="hot" cx="72%" cy="30%" r="48%"><stop stop-color="#ffd166" stop-opacity=".9"/><stop offset=".55" stop-color="#ff5a4f" stop-opacity=".3"/><stop offset="1" stop-color="#ff5a4f" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/><rect width="1080" height="690" fill="url(#hot)"/>
+  <text x="76" y="146" fill="#ffd166" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">WEARABLES</text>
+  <g transform="translate(142 235)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90 210c105-58 223-58 328 0M500 210c105-58 223-58 328 0" stroke="#f6fbff" stroke-width="30"/>
+    <path d="M410 212c28 34 72 34 100 0" stroke="#f6fbff" stroke-width="24"/>
+    <path d="M88 212l-58 118M826 212l58 118" stroke="#f6fbff" stroke-width="28"/>
+    <circle cx="250" cy="228" r="120" stroke="#8bd3ff" stroke-width="14" fill="rgba(9,16,21,.35)"/>
+    <circle cx="666" cy="228" r="120" stroke="#8bd3ff" stroke-width="14" fill="rgba(9,16,21,.35)"/>
+    <path d="M790 97c55 35 87 82 94 141" stroke="#ff5a4f" stroke-width="18"/>
+    <path d="M830 58c76 52 120 122 130 210" stroke="#ffd166" stroke-width="12"/>
+  </g>
+  <g transform="translate(665 345)" font-family="Arial, Helvetica, sans-serif" font-weight="900"><path d="M110 0l110 190H0z" fill="#ffd166"/><text x="110" y="140" text-anchor="middle" fill="#101820" font-size="126">!</text></g>
+  <rect y="745" width="1080" height="605" fill="#080b10"/>
+  <text x="70" y="850" fill="#f7fff9" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="900"><tspan x="70" dy="0">Smart glasses</tspan><tspan x="70" dy="74">recalled over</tspan><tspan x="70" dy="74">overheating</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#ffd166"/><text x="104" y="1212" text-anchor="middle" fill="#101820" font-family="Arial" font-size="24" font-weight="900">JP</text><text x="156" y="1195" fill="#f7fff9" font-family="Arial" font-size="26" font-weight="800">Geekish - Jax Pixel</text><text x="156" y="1230" fill="#aabcc6" font-family="Arial" font-size="24">Read the sourced quick take at thegeekish.com</text><text x="70" y="1285" fill="#ffd166" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
