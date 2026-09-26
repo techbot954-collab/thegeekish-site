@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset=".5" stop-color="#14324a"/><stop offset="1" stop-color="#e11d48"/></linearGradient>
+    <radialGradient id="glow" cx="30%" cy="18%" r="70%"><stop stop-color="#22d3ee" stop-opacity=".72"/><stop offset=".62" stop-color="#22d3ee" stop-opacity=".14"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="710" fill="url(#glow)"/>
+  <g opacity=".12" stroke="#fff" stroke-width="2"><path d="M120 140h840M120 260h840M120 380h840M120 500h840"/><path d="M210 90v560M390 90v560M570 90v560M750 90v560M930 90v560"/></g>
+  <rect x="108" y="118" width="864" height="560" rx="44" fill="#07111e" opacity=".86" stroke="rgba(255,255,255,.24)"/>
+  <text x="150" y="192" fill="#22d3ee" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">SOCIAL TECH</text>
+  <g transform="translate(160 250)">
+    <rect x="0" y="0" width="260" height="300" rx="54" fill="#020617" stroke="#22d3ee" stroke-width="10"/>
+    <circle cx="130" cy="150" r="72" fill="#f43f5e"/>
+    <path d="M126 92v105c0 42-66 40-66 0 0-34 42-42 66-26" fill="none" stroke="#fff" stroke-width="28" stroke-linecap="round"/>
+    <path d="M127 92c24 39 58 58 96 58" fill="none" stroke="#22d3ee" stroke-width="24" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(500 238)">
+    <rect x="0" y="0" width="360" height="318" rx="28" fill="#f8fafc"/>
+    <path d="M46 76h268M46 126h268M46 176h190" stroke="#334155" stroke-width="18" stroke-linecap="round"/>
+    <text x="180" y="266" text-anchor="middle" fill="#e11d48" font-family="Arial" font-size="56" font-weight="900">$100M</text>
+    <path d="M265 34l58 58" stroke="#e11d48" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <path d="M438 394h70" stroke="#fb7185" stroke-width="18" stroke-linecap="round"/>
+  <path d="M472 358l42 36-42 36" fill="none" stroke="#fb7185" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="148" y="632" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">TikTok settlement watch</text>
+  <rect y="760" width="1080" height="590" fill="#07111e"/>
+  <text x="70" y="850" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="900"><tspan x="70" dy="0">TikTok will pay Alabama</tspan><tspan x="70" dy="74">$100M to settle a teen</tspan><tspan x="70" dy="74">safety lawsuit</tspan></text>
+  <circle cx="104" cy="1202" r="34" fill="#22d3ee"/>
+  <text x="104" y="1212" text-anchor="middle" fill="#07111e" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1195" fill="#f8fafc" font-family="Arial" font-size="26" font-weight="800">Geekish - Jax Pixel</text>
+  <text x="156" y="1230" fill="#b4bfd6" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1285" fill="#22d3ee" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
