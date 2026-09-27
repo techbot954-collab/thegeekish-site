@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Polygon ranked the best Jujutsu Kaisen fights
+  - Article: https://thegeekish.com/articles/jujutsu-kaisen-fights-ranked.html
+  - Image: https://thegeekish.com/social-images-png/jujutsu-kaisen-fights-ranked.png?v=20260927a
+  - Social copy: social-posts/jujutsu-kaisen-fights-ranked.md
+
+- Arrow is getting a free-streaming second life
+  - Article: https://thegeekish.com/articles/arrow-free-streaming-pluto.html
+  - Image: https://thegeekish.com/social-images-png/arrow-free-streaming-pluto.png?v=20260927a
+  - Social copy: social-posts/arrow-free-streaming-pluto.md
+
+- Lanterns is sending superhero fans toward detective TV
+  - Article: https://thegeekish.com/articles/lanterns-detective-shows.html
+  - Image: https://thegeekish.com/social-images-png/lanterns-detective-shows.png?v=20260927a
+  - Social copy: social-posts/lanterns-detective-shows.md
+
 - Google is testing Gemini shopping with Flipkart in India
   - Article: https://thegeekish.com/articles/google-gemini-flipkart-shopping-test.html
   - Image: https://thegeekish.com/social-images-png/google-gemini-flipkart-shopping-test.png?v=20260927b
