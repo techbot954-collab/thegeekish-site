@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- The $100 laptop dream still has lessons for tech
+  - Article: https://thegeekish.com/articles/olpc-100-laptop-lessons.html
+  - Image: https://thegeekish.com/social-images-png/olpc-100-laptop-lessons.png?v=20260927k
+  - Social copy: social-posts/olpc-100-laptop-lessons.md
+
+- The smart home graveyard just got another warning sign
+  - Article: https://thegeekish.com/articles/smart-home-graveyard-june-oven.html
+  - Image: https://thegeekish.com/social-images-png/smart-home-graveyard-june-oven.png?v=20260927k
+  - Social copy: social-posts/smart-home-graveyard-june-oven.md
+
+- Data center backlash is not just about local power bills
+  - Article: https://thegeekish.com/articles/data-center-climate-backlash.html
+  - Image: https://thegeekish.com/social-images-png/data-center-climate-backlash.png?v=20260927k
+  - Social copy: social-posts/data-center-climate-backlash.md
+
 - Polygon ranked the best Jujutsu Kaisen fights
   - Article: https://thegeekish.com/articles/jujutsu-kaisen-fights-ranked.html
   - Image: https://thegeekish.com/social-images-png/jujutsu-kaisen-fights-ranked.png?v=20260927a

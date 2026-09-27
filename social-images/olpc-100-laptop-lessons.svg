@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="0.55" stop-color="#14532d"/><stop offset="1" stop-color="#facc15"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#06121f" flood-opacity="0.35"/></filter></defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <circle cx="1040" cy="110" r="170" fill="#bbf7d0" opacity="0.25"/>
+  <circle cx="130" cy="585" r="220" fill="#38bdf8" opacity="0.16"/>
+  <g filter="url(#shadow)">
+    <rect x="132" y="118" width="936" height="438" rx="28" fill="#f8fafc" opacity="0.96"/>
+    <rect x="185" y="166" width="830" height="82" rx="16" fill="#111827"/>
+    <text x="600" y="220" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#ffffff">$100 LAPTOP LESSONS</text>
+    <rect x="388" y="312" width="424" height="168" rx="26" fill="#84cc16"/>
+    <rect x="432" y="334" width="336" height="98" rx="16" fill="#0f172a"/>
+    <circle cx="600" cy="458" r="13" fill="#f8fafc"/>
+    <path d="M278 403 C340 350, 360 468, 420 420 M922 403 C860 350, 840 468, 780 420" fill="none" stroke="#0f172a" stroke-width="14" stroke-linecap="round" opacity="0.72"/>
+    <g fill="#f97316"><circle cx="290" cy="318" r="31"/><circle cx="908" cy="318" r="31"/><circle cx="600" cy="278" r="24"/></g>
+    <text x="600" y="520" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111827">Geekish sourced quick read</text>
+  </g>
+</svg>
