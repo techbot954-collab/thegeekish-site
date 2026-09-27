@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Elementor patched a WordPress flaw that could create admin accounts
+  - Article: https://thegeekish.com/articles/elementor-csrf-admin-account-flaw.html
+  - Image: https://thegeekish.com/social-images-png/elementor-csrf-admin-account-flaw.png?v=20260927a
+  - Social copy: social-posts/elementor-csrf-admin-account-flaw.md
+
+- CISA put WSO2 and Adobe Commerce bugs on the exploited list
+  - Article: https://thegeekish.com/articles/cisa-wso2-adobe-commerce-kev-warning.html
+  - Image: https://thegeekish.com/social-images-png/cisa-wso2-adobe-commerce-kev-warning.png?v=20260927a
+  - Social copy: social-posts/cisa-wso2-adobe-commerce-kev-warning.md
+
+- Claude Code cloud sessions now come with promo credits
+  - Article: https://thegeekish.com/articles/claude-code-cloud-session-credits.html
+  - Image: https://thegeekish.com/social-images-png/claude-code-cloud-session-credits.png?v=20260927a
+  - Social copy: social-posts/claude-code-cloud-session-credits.md
+
 - Claude Opus 5.5 got less obvious at writing like AI
   - Article: https://thegeekish.com/articles/claude-opus-55-writing-style.html
   - Image: https://thegeekish.com/social-images-png/claude-opus-55-writing-style.png?v=20260926c

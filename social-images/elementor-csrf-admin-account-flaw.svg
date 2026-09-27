@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#101827"/><stop offset="1" stop-color="#2e1c44"/></linearGradient>
+    <linearGradient id="panel" x1="0" x2="1"><stop offset="0" stop-color="#f8fafc"/><stop offset="1" stop-color="#d9f99d"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="90" r="140" fill="#84cc16" opacity=".16"/>
+  <circle cx="112" cy="545" r="170" fill="#38bdf8" opacity=".14"/>
+  <rect x="104" y="84" width="992" height="462" rx="28" fill="#0f172a" stroke="#334155" stroke-width="3" filter="url(#shadow)"/>
+  <rect x="152" y="132" width="388" height="314" rx="22" fill="url(#panel)"/>
+  <rect x="186" y="174" width="318" height="36" rx="10" fill="#111827" opacity=".88"/>
+  <rect x="186" y="236" width="232" height="26" rx="8" fill="#334155" opacity=".75"/>
+  <rect x="186" y="286" width="278" height="26" rx="8" fill="#334155" opacity=".45"/>
+  <rect x="186" y="336" width="172" height="26" rx="8" fill="#334155" opacity=".45"/>
+  <circle cx="470" cy="388" r="34" fill="#ef4444"/>
+  <path d="M470 368v28M470 410h.01" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M620 178h300q46 0 46 46v184q0 46-46 46H620q-46 0-46-46V224q0-46 46-46z" fill="#111827" stroke="#38bdf8" stroke-width="3"/>
+  <text x="624" y="237" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="46" font-weight="800">NEW ADMIN</text>
+  <text x="624" y="291" fill="#d9f99d" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="700">created by a malicious link</text>
+  <path d="M640 350h278" stroke="#475569" stroke-width="18" stroke-linecap="round"/>
+  <path d="M640 398h178" stroke="#475569" stroke-width="18" stroke-linecap="round"/>
+  <path d="M562 310c-80-40-138-38-178-6" stroke="#f97316" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M392 272l-30 44 52 6" fill="none" stroke="#f97316" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="104" y="594" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="22">Geekish generated illustration - Elementor CSRF flaw</text>
+</svg>
