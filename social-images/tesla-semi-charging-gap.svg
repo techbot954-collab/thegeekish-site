@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title desc">
+  <title id="title">Tesla Semi charging gap editorial illustration</title>
+  <desc id="desc">An electric semi truck follows a freight route with sparse charging stations.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#101827"/><stop offset=".58" stop-color="#223f5a"/><stop offset="1" stop-color="#f0b45d"/></linearGradient>
+    <linearGradient id="road" x1="0" x2="1"><stop offset="0" stop-color="#1b2431"/><stop offset="1" stop-color="#2d3948"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#000" flood-opacity=".38"/></filter>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#sky)"/>
+  <circle cx="850" cy="310" r="150" fill="#ffd166" opacity=".55"/>
+  <path d="M0 770 C180 700 300 720 455 655 C650 570 820 610 1080 500 V1350 H0 Z" fill="#173348"/>
+  <path d="M0 850 C210 790 340 820 520 765 C730 680 900 710 1080 640 V1350 H0 Z" fill="#1f5b54"/>
+  <path d="M145 1350 C285 1010 470 820 725 650 C840 575 960 520 1080 470 V1350 Z" fill="url(#road)"/>
+  <path d="M482 1350 C565 1048 690 808 845 590" fill="none" stroke="#ffd166" stroke-width="12" stroke-dasharray="64 52" opacity=".9"/>
+  <g transform="translate(112 602)" filter="url(#shadow)">
+    <path d="M120 215 h520 c34 0 65 17 84 46 l64 96 h80 c28 0 52 24 52 52 v72 H58 v-178 c0-49 18-88 62-88Z" fill="#f5f7fb"/>
+    <path d="M510 245 h155 c23 0 44 12 57 31 l52 79 H510 Z" fill="#9bd3ff"/>
+    <path d="M105 250 h355 v105 H105 Z" fill="#dfe7f2"/>
+    <rect x="145" y="286" width="115" height="34" rx="17" fill="#26384c"/>
+    <text x="302" y="316" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="900" fill="#26384c">SEMI</text>
+    <circle cx="205" cy="485" r="74" fill="#101827"/>
+    <circle cx="205" cy="485" r="34" fill="#91a4b8"/>
+    <circle cx="715" cy="485" r="74" fill="#101827"/>
+    <circle cx="715" cy="485" r="34" fill="#91a4b8"/>
+    <rect x="58" y="405" width="862" height="38" rx="19" fill="#d4443f"/>
+  </g>
+  <g transform="translate(720 420)">
+    <rect x="0" y="0" width="120" height="220" rx="18" fill="#eef6ff" stroke="#172233" stroke-width="8"/>
+    <rect x="26" y="28" width="68" height="58" rx="10" fill="#172233"/>
+    <path d="M62 112 l-24 48 h34 l-20 42 l54 -66 H72 l21 -24 Z" fill="#3ee59f"/>
+    <path d="M120 76 C178 100 188 166 152 214" fill="none" stroke="#eef6ff" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(900 238) scale(.62)" opacity=".55">
+    <rect x="0" y="0" width="120" height="220" rx="18" fill="#eef6ff" stroke="#172233" stroke-width="8"/>
+    <rect x="26" y="28" width="68" height="58" rx="10" fill="#172233"/>
+    <path d="M62 112 l-24 48 h34 l-20 42 l54 -66 H72 l21 -24 Z" fill="#3ee59f"/>
+  </g>
+  <text x="80" y="1130" font-family="Inter, Arial, sans-serif" font-size="82" font-weight="900" fill="#f5f7fb">Semi needs</text>
+  <text x="80" y="1214" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="900" fill="#ffd166">chargers</text>
+  <text x="82" y="1280" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" fill="#dbe7ef">Geekish sourced quick read</text>
+</svg>
