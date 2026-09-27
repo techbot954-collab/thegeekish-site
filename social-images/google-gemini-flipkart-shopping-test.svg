@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset=".52" stop-color="#246bfe"/><stop offset="1" stop-color="#24d18f"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="92" y="98" width="896" height="650" rx="46" fill="#fffaf3"/>
+  <rect x="150" y="156" width="780" height="120" rx="30" fill="#111827"/>
+  <text x="190" y="232" fill="#fffaf3" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">AI MODE</text>
+  <circle cx="792" cy="216" r="22" fill="#24d18f"/><circle cx="850" cy="216" r="22" fill="#ffd166"/>
+  <path d="M245 405h235l54-68 54 68h247v210H245z" fill="#e8f0ff"/>
+  <rect x="294" y="457" width="186" height="92" rx="24" fill="#246bfe"/><text x="387" y="516" text-anchor="middle" fill="#fffaf3" font-family="Arial" font-size="28" font-weight="900">GEMINI</text>
+  <rect x="600" y="457" width="186" height="92" rx="24" fill="#24d18f"/><text x="693" y="516" text-anchor="middle" fill="#0b1220" font-family="Arial" font-size="28" font-weight="900">FLIPKART</text>
+  <path d="M486 502h92" stroke="#111827" stroke-width="16" stroke-linecap="round"/><path d="M575 502l-32-28v56z" fill="#111827"/>
+  <circle cx="540" cy="651" r="42" fill="#ffd166"/><path d="M515 646h50l-10 34h-30z" fill="#111827"/><circle cx="527" cy="690" r="7" fill="#111827"/><circle cx="553" cy="690" r="7" fill="#111827"/>
+  <rect y="818" width="1080" height="532" fill="#151515"/>
+  <text x="70" y="916" fill="#fffaf3" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900"><tspan x="70">Gemini gets</tspan><tspan x="70" dy="72">closer to checkout</tspan></text>
+  <text x="70" y="1080" fill="#24d18f" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="900">GOOGLE TESTS AI SHOPPING IN INDIA</text>
+  <circle cx="104" cy="1210" r="34" fill="#246bfe"/><text x="104" y="1220" text-anchor="middle" fill="#fffaf3" font-family="Arial" font-size="24" font-weight="900">NB</text>
+  <text x="156" y="1203" fill="#fffaf3" font-family="Arial" font-size="26" font-weight="800">Geekish - Nova Byte</text>
+  <text x="156" y="1238" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1295" fill="#24d18f" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>

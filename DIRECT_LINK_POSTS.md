@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Google is testing Gemini shopping with Flipkart in India
+  - Article: https://thegeekish.com/articles/google-gemini-flipkart-shopping-test.html
+  - Image: https://thegeekish.com/social-images-png/google-gemini-flipkart-shopping-test.png?v=20260927b
+  - Social copy: social-posts/google-gemini-flipkart-shopping-test.md
+
+- PNOE wants lab-grade breath testing to feel self-serve
+  - Article: https://thegeekish.com/articles/pnoe-self-serve-breath-mask.html
+  - Image: https://thegeekish.com/social-images-png/pnoe-self-serve-breath-mask.png?v=20260927b
+  - Social copy: social-posts/pnoe-self-serve-breath-mask.md
+
+- The iPhone Duo crease story needs time, not hype
+  - Article: https://thegeekish.com/articles/iphone-duo-crease-wait.html
+  - Image: https://thegeekish.com/social-images-png/iphone-duo-crease-wait.png?v=20260927b
+  - Social copy: social-posts/iphone-duo-crease-wait.md
+
 - Elementor patched a WordPress flaw that could create admin accounts
   - Article: https://thegeekish.com/articles/elementor-csrf-admin-account-flaw.html
   - Image: https://thegeekish.com/social-images-png/elementor-csrf-admin-account-flaw.png?v=20260927a

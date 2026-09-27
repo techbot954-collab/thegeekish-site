@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#44d7b6"/></linearGradient></defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="108" y="96" width="864" height="640" rx="50" fill="#fffaf3"/>
+  <g transform="translate(216 164)">
+    <rect x="0" y="0" width="300" height="470" rx="42" fill="#151515"/>
+    <rect x="30" y="40" width="240" height="390" rx="28" fill="#e8f0ff"/>
+    <rect x="330" y="0" width="300" height="470" rx="42" fill="#151515"/>
+    <rect x="360" y="40" width="240" height="390" rx="28" fill="#e8f0ff"/>
+    <path d="M315 26c-16 120-16 300 0 420" stroke="#ff5a3d" stroke-width="13" stroke-linecap="round"/>
+    <path d="M300 38c22 120 22 290 0 400" stroke="#44d7b6" stroke-width="6" stroke-linecap="round" opacity=".65"/>
+    <circle cx="150" cy="238" r="74" fill="#246bfe"/><circle cx="480" cy="238" r="74" fill="#44d7b6"/>
+  </g>
+  <rect x="236" y="662" width="608" height="62" rx="31" fill="#111827"/>
+  <text x="540" y="704" text-anchor="middle" fill="#fffaf3" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">THE CREASE NEEDS TIME</text>
+  <rect y="812" width="1080" height="538" fill="#151515"/>
+  <text x="70" y="910" fill="#fffaf3" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900"><tspan x="70">Crease test:</tspan><tspan x="70" dy="72">check back later</tspan></text>
+  <text x="70" y="1074" fill="#44d7b6" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="900">IPHONE DUO'S FOLDABLE REALITY CHECK</text>
+  <circle cx="104" cy="1210" r="34" fill="#7c3aed"/><text x="104" y="1220" text-anchor="middle" fill="#fffaf3" font-family="Arial" font-size="24" font-weight="900">JP</text>
+  <text x="156" y="1203" fill="#fffaf3" font-family="Arial" font-size="26" font-weight="800">Geekish - Jax Pixel</text>
+  <text x="156" y="1238" fill="#aeb7c2" font-family="Arial" font-size="24">Read the full quick take at thegeekish.com</text>
+  <text x="70" y="1295" fill="#44d7b6" font-family="Arial" font-size="34" font-weight="900">THEGEEKISH.COM</text>
+</svg>
