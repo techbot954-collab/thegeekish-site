@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Anthropic's CEO dinner with Trump puts AI policy at the table
+  - Article: https://thegeekish.com/articles/anthropic-amodei-trump-ai-dinner.html
+  - Image: https://thegeekish.com/social-images-png/anthropic-amodei-trump-ai-dinner.png?v=20260927s
+  - Social copy: social-posts/anthropic-amodei-trump-ai-dinner.md
+
+- Autonomous-vehicle companies are picking their lanes
+  - Article: https://thegeekish.com/articles/av-companies-pick-lanes.html
+  - Image: https://thegeekish.com/social-images-png/av-companies-pick-lanes.png?v=20260927s
+  - Social copy: social-posts/av-companies-pick-lanes.md
+
 - OpenAI agent scans at a UN site show the messy edge of autonomy
   - Article: https://thegeekish.com/articles/openai-agents-un-website-scans.html
   - Image: https://thegeekish.com/social-images-png/openai-agents-un-website-scans.png?v=20260927p

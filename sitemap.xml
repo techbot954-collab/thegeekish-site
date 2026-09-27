@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://thegeekish.com/articles/anthropic-amodei-trump-ai-dinner.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/av-companies-pick-lanes.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://thegeekish.com/articles/openai-agents-un-website-scans.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>weekly</changefreq>
