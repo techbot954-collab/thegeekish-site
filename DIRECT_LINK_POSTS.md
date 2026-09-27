@@ -1,5 +1,10 @@
 # Direct-link social posting index
 
+- OpenAI agent scans at a UN site show the messy edge of autonomy
+  - Article: https://thegeekish.com/articles/openai-agents-un-website-scans.html
+  - Image: https://thegeekish.com/social-images-png/openai-agents-un-website-scans.png?v=20260927p
+  - Social copy: social-posts/openai-agents-un-website-scans.md
+
 - iPhone Duo could make Samsung's next foldable sharper
   - Article: https://thegeekish.com/articles/iphone-duo-samsung-fold-8.html
   - Image: https://thegeekish.com/social-images-png/iphone-duo-samsung-fold-8.png?v=20260927o
