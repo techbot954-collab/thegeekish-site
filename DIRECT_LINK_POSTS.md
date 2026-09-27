@@ -1,5 +1,25 @@
 # Direct-link social posting index
 
+- iPhone Duo could make Samsung's next foldable sharper
+  - Article: https://thegeekish.com/articles/iphone-duo-samsung-fold-8.html
+  - Image: https://thegeekish.com/social-images-png/iphone-duo-samsung-fold-8.png?v=20260927o
+  - Social copy: social-posts/iphone-duo-samsung-fold-8.md
+
+- Android Desktop Mode is turning the phone into a tiny PC
+  - Article: https://thegeekish.com/articles/android-desktop-mode-phone-pc.html
+  - Image: https://thegeekish.com/social-images-png/android-desktop-mode-phone-pc.png?v=20260927o
+  - Social copy: social-posts/android-desktop-mode-phone-pc.md
+
+- Spotify Running Mode wants your playlist to keep pace
+  - Article: https://thegeekish.com/articles/spotify-running-mode-ai.html
+  - Image: https://thegeekish.com/social-images-png/spotify-running-mode-ai.png?v=20260927o
+  - Social copy: social-posts/spotify-running-mode-ai.md
+
+- Anthropic's CEO getting the SNL treatment says AI is now pop culture
+  - Article: https://thegeekish.com/articles/anthropic-dario-amodei-snl.html
+  - Image: https://thegeekish.com/social-images-png/anthropic-dario-amodei-snl.png?v=20260927o
+  - Social copy: social-posts/anthropic-dario-amodei-snl.md
+
 - Your router security checkup can be a 10-minute job
   - Article: https://thegeekish.com/articles/router-security-10-minute-checkup.html
   - Image: https://thegeekish.com/social-images-png/router-security-10-minute-checkup.png?v=20260927n
