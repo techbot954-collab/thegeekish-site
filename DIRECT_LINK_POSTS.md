@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Your router security checkup can be a 10-minute job
+  - Article: https://thegeekish.com/articles/router-security-10-minute-checkup.html
+  - Image: https://thegeekish.com/social-images-png/router-security-10-minute-checkup.png?v=20260927n
+  - Social copy: social-posts/router-security-10-minute-checkup.md
+
+- Sennheiser Momentum 5 is a headphone review about fewer compromises
+  - Article: https://thegeekish.com/articles/sennheiser-momentum-5-review.html
+  - Image: https://thegeekish.com/social-images-png/sennheiser-momentum-5-review.png?v=20260927n
+  - Social copy: social-posts/sennheiser-momentum-5-review.md
+
 - Gemini Live and ChatGPT Voice are racing to sound less awkward
   - Article: https://thegeekish.com/articles/gemini-live-chatgpt-voice-natural-conversation.html
   - Image: https://thegeekish.com/social-images-png/gemini-live-chatgpt-voice-natural-conversation.png?v=20260927l
