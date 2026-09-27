@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Bike computers still beat phones when the ride gets serious
+  - Article: https://thegeekish.com/articles/bike-computer-vs-smartphone.html
+  - Image: https://thegeekish.com/social-images-png/bike-computer-vs-smartphone.png?v=20260927u
+  - Social copy: social-posts/bike-computer-vs-smartphone.md
+
+- Your old MacBook can become a home NAS
+  - Article: https://thegeekish.com/articles/old-macbook-home-nas.html
+  - Image: https://thegeekish.com/social-images-png/old-macbook-home-nas.png?v=20260927u
+  - Social copy: social-posts/old-macbook-home-nas.md
+
+- Goodwill's electronics pipeline gives old PC parts a second chance
+  - Article: https://thegeekish.com/articles/goodwill-old-computer-parts.html
+  - Image: https://thegeekish.com/social-images-png/goodwill-old-computer-parts.png?v=20260927u
+  - Social copy: social-posts/goodwill-old-computer-parts.md
+
 - Anthropic's CEO dinner with Trump puts AI policy at the table
   - Article: https://thegeekish.com/articles/anthropic-amodei-trump-ai-dinner.html
   - Image: https://thegeekish.com/social-images-png/anthropic-amodei-trump-ai-dinner.png?v=20260927s
