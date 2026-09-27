@@ -1,5 +1,25 @@
 # Direct-link social posting index
 
+- Gemini Live and ChatGPT Voice are racing to sound less awkward
+  - Article: https://thegeekish.com/articles/gemini-live-chatgpt-voice-natural-conversation.html
+  - Image: https://thegeekish.com/social-images-png/gemini-live-chatgpt-voice-natural-conversation.png?v=20260927l
+  - Social copy: social-posts/gemini-live-chatgpt-voice-natural-conversation.md
+
+- Your PC probably deserves better than the floor
+  - Article: https://thegeekish.com/articles/pc-floor-dust-airflow-warning.html
+  - Image: https://thegeekish.com/social-images-png/pc-floor-dust-airflow-warning.png?v=20260927l
+  - Social copy: social-posts/pc-floor-dust-airflow-warning.md
+
+- A humanoid robot that can cry on command is a trust problem
+  - Article: https://thegeekish.com/articles/humanoid-robot-cry-command.html
+  - Image: https://thegeekish.com/social-images-png/humanoid-robot-cry-command.png?v=20260927l
+  - Social copy: social-posts/humanoid-robot-cry-command.md
+
+- Android apps on Windows are still a useful little crossover trick
+  - Article: https://thegeekish.com/articles/android-apps-windows-pc-guide.html
+  - Image: https://thegeekish.com/social-images-png/android-apps-windows-pc-guide.png?v=20260927l
+  - Social copy: social-posts/android-apps-windows-pc-guide.md
+
 - The $100 laptop dream still has lessons for tech
   - Article: https://thegeekish.com/articles/olpc-100-laptop-lessons.html
   - Image: https://thegeekish.com/social-images-png/olpc-100-laptop-lessons.png?v=20260927k
