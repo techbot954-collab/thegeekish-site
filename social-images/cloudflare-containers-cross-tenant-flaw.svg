@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset=".55" stop-color="#224064"/><stop offset="1" stop-color="#f97316"/></linearGradient></defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <g opacity=".16" fill="none" stroke="#fff" stroke-width="2"><path d="M80 130h1040M80 250h1040M80 370h1040M80 490h1040"/><path d="M200 70v540M440 70v540M680 70v540M920 70v540"/></g>
+  <g transform="translate(180 250)">
+    <rect width="240" height="220" rx="22" fill="#102033" stroke="#dbeafe" stroke-width="6"/><rect x="300" width="240" height="220" rx="22" fill="#102033" stroke="#dbeafe" stroke-width="6"/><rect x="600" width="240" height="220" rx="22" fill="#102033" stroke="#dbeafe" stroke-width="6"/>
+    <text x="120" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#fff">Tenant A</text><text x="420" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#fff">Tenant B</text><text x="720" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#fff">Tenant C</text>
+    <path d="M66 103h108M66 137h108M366 103h108M366 137h108M666 103h108M666 137h108" stroke="#93c5fd" stroke-width="14" stroke-linecap="round"/>
+    <path d="M214 170c73 35 160 35 232 0M514 170c73 35 160 35 232 0" fill="none" stroke="#fb923c" stroke-width="8" stroke-dasharray="18 16" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(832 94)"><circle cx="90" cy="90" r="84" fill="#fff7ed" stroke="#fed7aa" stroke-width="8"/><path d="M54 98c28-45 73-54 112-20M42 128c45 35 101 35 136-7" fill="none" stroke="#f97316" stroke-width="16" stroke-linecap="round"/></g>
+  <text x="70" y="107" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#fdba74">CLOUD SECURITY</text>
+  <text x="70" y="168" font-family="Arial, sans-serif" font-size="59" font-weight="900" fill="#fff">Cloud isolation</text>
+  <text x="70" y="232" font-family="Arial, sans-serif" font-size="59" font-weight="900" fill="#fff">gets stress-tested</text>
+</svg>

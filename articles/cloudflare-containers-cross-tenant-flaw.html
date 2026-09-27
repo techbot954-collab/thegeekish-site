@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cloudflare fixed a Containers flaw that exposed customer data - Geekish</title>
+  <meta name="description" content="BleepingComputer reports Cloudflare fixed a Containers and Sandboxes flaw that could expose residual data from other customers on the same host." />
+  <link rel="canonical" href="https://thegeekish.com/articles/cloudflare-containers-cross-tenant-flaw.html" />
+  <meta property="og:title" content="Cloudflare fixed a Containers flaw that exposed customer data - Geekish" />
+  <meta property="og:description" content="BleepingComputer reports Cloudflare fixed a Containers and Sandboxes flaw that could expose residual data from other customers on the same host." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://thegeekish.com/articles/cloudflare-containers-cross-tenant-flaw.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BlogPosting","headline":"Cloudflare fixed a Containers flaw that exposed customer data","description":"BleepingComputer reports Cloudflare fixed a Containers and Sandboxes flaw that could expose residual data from other customers on the same host.","datePublished":"2026-09-27","dateModified":"2026-09-27","author":{"@type":"Person","name":"Nova Byte"},"publisher":{"@type":"Organization","name":"Geekish"},"mainEntityOfPage":"https://thegeekish.com/articles/cloudflare-containers-cross-tenant-flaw.html"}
+  </script>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header"><div class="wrap nav"><a class="logo" href="../index.html">Geekish</a><nav class="links" aria-label="Primary navigation"><a href="../index.html#latest">Latest</a><a href="../authors/">Writers</a><a href="../index.html#post-ready">Post-ready</a></nav><a class="nav-cta" href="../index.html#latest">More Posts</a></div></header>
+  <main>
+    <article class="wrap article-page">
+      <a class="back-link" href="../index.html#latest">Back to Geekish</a>
+      <div class="article-kicker">Cloud Security - September 27, 2026</div>
+      <h1>Cloudflare fixed a Containers flaw that exposed customer data</h1>
+      <div class="byline-card"><div class="author-avatar">NB</div><div><span>By Nova Byte</span><strong>AI, chips, and infrastructure reporter</strong><p>Based on BleepingComputer's report on Cloudflare Containers and Sandboxes.</p></div></div>
+      <p class="article-dek">Multi-tenant cloud bugs are scary because one customer's workload should never become another customer's evidence locker.</p>
+      <figure class="article-image">
+        <img src="../social-images-png/cloudflare-containers-cross-tenant-flaw.png?v=20260927q" alt="Generated illustration of cloud containers separated by tenant walls with residual data warning lines" />
+        <figcaption>Image: Geekish-generated illustration based on BleepingComputer's reporting about a Cloudflare Containers cross-tenant issue.</figcaption>
+      </figure>
+      <div class="article-hero-card tilt-card"><span>CLOUD WATCH</span><strong>Geekish sourced quick read</strong><p>Original Geekish context based on the source linked below.</p></div>
+      <section class="article-section"><h2>The short version</h2><p>BleepingComputer reports Cloudflare fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host.</p></section>
+      <section class="article-section"><h2>Why this matters</h2><p>Cloud isolation is a trust contract. When residual data can cross tenant boundaries, even under limited conditions, developers have to think about logs, secrets, temporary files, and what their runtime leaves behind.</p></section>
+      <section class="article-section"><h2>Geekish take</h2><p>The fix matters, but so does the reminder. Serverless and container platforms make infrastructure feel clean. Underneath, old-school isolation, cleanup, and blast-radius thinking still decide how clean it really is.</p></section>
+      <aside class="takeaway-box"><h2>Quick takeaways</h2><ul><li>BleepingComputer says Cloudflare fixed a Containers and Sandboxes cross-tenant flaw.</li><li>The issue could expose residual data from containers on the same physical host.</li><li>The report says access required a Workers Paid account.</li></ul></aside>
+      <aside class="source-box"><h2>Sources</h2><p>Read the original source here:</p><ul><li><a href="https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/" target="_blank" rel="noopener">BleepingComputer - Cloudflare fixes Containers cross-tenant flaw exposing customer data</a></li></ul></aside>
+      <section class="article-cta"><h2>Want more tech without boring tech-site energy?</h2><p>Follow Geekish for sourced quick reads, AI, gadgets, apps, creator tools, and internet culture.</p><a class="primary" href="../index.html#post-ready">Get the tech drop</a></section>
+    </article>
+  </main>
+  <footer><div class="wrap footer-inner"><strong>Geekish</strong><span>Clean tech stories - sourced reads - social-ready posts</span></div></footer>
+</body>
+</html>
