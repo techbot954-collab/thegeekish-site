@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Walmart says digital shelf labels are not a personalized price machine
+  - Article: https://thegeekish.com/articles/walmart-digital-shelf-labels.html
+  - Image: https://thegeekish.com/social-images-png/walmart-digital-shelf-labels.png?v=20260928
+  - Social copy: social-posts/walmart-digital-shelf-labels.md
+
+- Google Arts & Culture turns 15 with a more visual app
+  - Article: https://thegeekish.com/articles/google-arts-culture-app-refresh.html
+  - Image: https://thegeekish.com/social-images-png/google-arts-culture-app-refresh.png?v=20260928
+  - Social copy: social-posts/google-arts-culture-app-refresh.md
+
+- DetectifAI wants deepfake voice checks to happen on the phone
+  - Article: https://thegeekish.com/articles/detectifai-deepfake-voice-phone.html
+  - Image: https://thegeekish.com/social-images-png/detectifai-deepfake-voice-phone.png?v=20260928
+  - Social copy: social-posts/detectifai-deepfake-voice-phone.md
+
 - SiMa.ai's new valuation puts edge AI chips back in the physical world
   - Article: https://thegeekish.com/articles/sima-ai-physical-ai-chip-valuation.html
   - Image: https://thegeekish.com/social-images-png/sima-ai-physical-ai-chip-valuation.png?v=20260928
