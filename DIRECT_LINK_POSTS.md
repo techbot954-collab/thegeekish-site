@@ -1,5 +1,10 @@
 # Direct-link social posting index
 
+- Shopify is letting browser AI agents reach checkout
+  - Article: https://thegeekish.com/articles/shopify-ai-agent-checkout.html
+  - Image: https://thegeekish.com/social-images-png/shopify-ai-agent-checkout.png?v=20260928
+  - Social copy: social-posts/shopify-ai-agent-checkout.md
+
 - Anthropic says Sonnet 5.5 is a faster, cheaper work partner
   - Article: https://thegeekish.com/articles/anthropic-sonnet-5-5.html
   - Image: https://thegeekish.com/social-images-png/anthropic-sonnet-5-5.png?v=20260928
