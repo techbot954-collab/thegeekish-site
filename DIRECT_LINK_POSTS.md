@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Truecaller is taking scam checks beyond caller ID
+  - Article: https://thegeekish.com/articles/truecaller-scam-checker-web.html
+  - Image: https://thegeekish.com/social-images-png/truecaller-scam-checker-web.png?v=20260928
+  - Social copy: social-posts/truecaller-scam-checker-web.md
+
+- Fireworks says Ember-1 keeps the answer and cuts the token bill
+  - Article: https://thegeekish.com/articles/fireworks-ember-1-token-efficiency.html
+  - Image: https://thegeekish.com/social-images-png/fireworks-ember-1-token-efficiency.png?v=20260928
+  - Social copy: social-posts/fireworks-ember-1-token-efficiency.md
+
+- Data-center backlash is becoming a climate-tech story
+  - Article: https://thegeekish.com/articles/data-center-backlash-climate.html
+  - Image: https://thegeekish.com/social-images-png/data-center-backlash-climate.png?v=20260928
+  - Social copy: social-posts/data-center-backlash-climate.md
+
 - AI agents probing a UN data site show the brittle side of autonomy
   - Article: https://thegeekish.com/articles/openai-agents-unctad-api.html
   - Image: https://thegeekish.com/social-images-png/openai-agents-unctad-api.png?v=20260928
