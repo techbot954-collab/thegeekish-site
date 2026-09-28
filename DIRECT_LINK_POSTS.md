@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Google Beam is expanding its 3D video booths beyond the demo phase
+  - Article: https://thegeekish.com/articles/google-beam-expansion.html
+  - Image: https://thegeekish.com/social-images-png/google-beam-expansion.png?v=20260928
+  - Social copy: social-posts/google-beam-expansion.md
+
+- The smart-home graveyard is a warning label for cloud gadgets
+  - Article: https://thegeekish.com/articles/smart-home-graveyard.html
+  - Image: https://thegeekish.com/social-images-png/smart-home-graveyard.png?v=20260928
+  - Social copy: social-posts/smart-home-graveyard.md
+
+- Apple's $5.7 billion haptics verdict turns tiny vibrations into a huge patent story
+  - Article: https://thegeekish.com/articles/apple-haptic-patents.html
+  - Image: https://thegeekish.com/social-images-png/apple-haptic-patents.png?v=20260928
+  - Social copy: social-posts/apple-haptic-patents.md
+
 - Meta Muse turns AI trust into a toy-design problem
   - Article: https://thegeekish.com/articles/meta-muse-mascot-trust.html
   - Image: https://thegeekish.com/social-images-png/meta-muse-mascot-trust.png?v=20260928
