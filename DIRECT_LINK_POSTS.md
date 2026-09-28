@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Gemini Live Avatar makes enterprise AI agents look back
+  - Article: https://thegeekish.com/articles/gemini-live-avatar.html
+  - Image: https://thegeekish.com/social-images-png/gemini-live-avatar.png?v=20260928
+  - Social copy: social-posts/gemini-live-avatar.md
+
+- OpenAI is extending cyber tools to Ukraine's civilian defenders
+  - Article: https://thegeekish.com/articles/openai-ukraine-cyber-defense.html
+  - Image: https://thegeekish.com/social-images-png/openai-ukraine-cyber-defense.png?v=20260928
+  - Social copy: social-posts/openai-ukraine-cyber-defense.md
+
+- Google Arts & Culture is turning museum objects into chatty companions
+  - Article: https://thegeekish.com/articles/talking-museum-memory.html
+  - Image: https://thegeekish.com/social-images-png/talking-museum-memory.png?v=20260928
+  - Social copy: social-posts/talking-museum-memory.md
+
 - Google Beam is expanding its 3D video booths beyond the demo phase
   - Article: https://thegeekish.com/articles/google-beam-expansion.html
   - Image: https://thegeekish.com/social-images-png/google-beam-expansion.png?v=20260928
