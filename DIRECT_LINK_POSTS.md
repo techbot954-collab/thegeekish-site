@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- OpenAI reportedly shelved a model over safety concerns
+  - Article: https://thegeekish.com/articles/openai-model-safety-pause.html
+  - Image: https://thegeekish.com/social-images-png/openai-model-safety-pause.png?v=20260928
+  - Social copy: social-posts/openai-model-safety-pause.md
+
+- Aurora says 30,000 driverless trucks by 2030 is not fantasy
+  - Article: https://thegeekish.com/articles/aurora-driverless-trucks-2030.html
+  - Image: https://thegeekish.com/social-images-png/aurora-driverless-trucks-2030.png?v=20260928
+  - Social copy: social-posts/aurora-driverless-trucks-2030.md
+
+- Discord is testing a lighter mode for gaming sessions
+  - Article: https://thegeekish.com/articles/discord-game-mode-lightweight.html
+  - Image: https://thegeekish.com/social-images-png/discord-game-mode-lightweight.png?v=20260928
+  - Social copy: social-posts/discord-game-mode-lightweight.md
+
 - Modal Labs shows how hot AI inference has become
   - Article: https://thegeekish.com/articles/modal-labs-inference-funding.html
   - Image: https://thegeekish.com/social-images-png/modal-labs-inference-funding.png?v=20260928
