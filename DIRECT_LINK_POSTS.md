@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- AMD is buying World Labs to get closer to world-model AI
+  - Article: https://thegeekish.com/articles/amd-world-labs-acquisition.html
+  - Image: https://thegeekish.com/social-images-png/amd-world-labs-acquisition.png?v=20260928
+  - Social copy: social-posts/amd-world-labs-acquisition.md
+
+- Google's Googlebook roadmap puts ChromeOS on a 2034 clock
+  - Article: https://thegeekish.com/articles/googlebook-chromeos-2034.html
+  - Image: https://thegeekish.com/social-images-png/googlebook-chromeos-2034.png?v=20260928
+  - Social copy: social-posts/googlebook-chromeos-2034.md
+
 - Shopify is letting browser AI agents reach checkout
   - Article: https://thegeekish.com/articles/shopify-ai-agent-checkout.html
   - Image: https://thegeekish.com/social-images-png/shopify-ai-agent-checkout.png?v=20260928
