@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Bose is making wired earbuds feel weirdly modern again
+  - Article: https://thegeekish.com/articles/bose-wired-noise-canceling-earbuds.html
+  - Image: https://thegeekish.com/social-images-png/bose-wired-noise-canceling-earbuds.png?v=20260928
+  - Social copy: social-posts/bose-wired-noise-canceling-earbuds.md
+
+- ElevenLabs v4 pushes voice AI toward expressive control
+  - Article: https://thegeekish.com/articles/elevenlabs-v4-speech-model.html
+  - Image: https://thegeekish.com/social-images-png/elevenlabs-v4-speech-model.png?v=20260928
+  - Social copy: social-posts/elevenlabs-v4-speech-model.md
+
+- Modulate is chasing the messier side of voice AI
+  - Article: https://thegeekish.com/articles/modulate-voice-fraud-models.html
+  - Image: https://thegeekish.com/social-images-png/modulate-voice-fraud-models.png?v=20260928
+  - Social copy: social-posts/modulate-voice-fraud-models.md
+
 - Nvidia wants rogue AI agents stopped by hardware, not vibes
   - Article: https://thegeekish.com/articles/nvidia-open-agent-safety-platform.html
   - Image: https://thegeekish.com/social-images-png/nvidia-open-agent-safety-platform.png?v=20260928
