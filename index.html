@@ -7,36 +7,68 @@
   <meta name="description" content="Geekish publishes concise, source-backed tech and geek-culture stories about AI, developer tools, policy, and digital life.">
   <link rel="canonical" href="https://thegeekish.com/">
   <meta property="og:title" content="Geekish">
-  <meta property="og:description" content="Concise, source-backed technology stories worth clicking.">
+  <meta property="og:description" content="Clean, source-backed technology stories worth spending time with.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://thegeekish.com/">
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="stylesheet" href="/styles.css?v=20260928-2143">
+  <link rel="stylesheet" href="/styles.css?v=20260928-2158">
+  <script src="/site.js?v=20260928-2158" defer></script>
 </head>
 <body>
   <header class="site-header">
+    <div class="utility-bar">
+      <div class="wrap utility-inner">
+        <span>Fresh tech stories, built for curious people.</span>
+        <a href="#join">Join the free update list</a>
+      </div>
+    </div>
     <div class="wrap nav">
-      <a class="logo" href="/">Geekish</a>
+      <a class="logo" href="/" aria-label="Geekish home">Geekish</a>
       <nav class="links" aria-label="Primary navigation">
-        <a href="#latest">Latest</a>
-        <a href="#social">Social copy</a>
+        <a href="#latest">Stories</a>
+        <div class="nav-menu">
+          <button type="button" aria-expanded="false">Services</button>
+          <div class="menu-panel" role="menu">
+            <a href="#services" role="menuitem">Coming soon</a>
+            <a href="#services" role="menuitem">Creator tools</a>
+            <a href="#services" role="menuitem">Brand support</a>
+          </div>
+        </div>
+        <a href="#rewards">Rewards</a>
+        <a href="#join">Join</a>
       </nav>
-      <a class="nav-cta" href="#latest">Read stories</a>
+      <div class="nav-actions">
+        <button class="icon-button" type="button" data-theme-toggle aria-label="Switch color theme" title="Switch color theme">◐</button>
+        <a class="nav-cta" href="#join">Sign in</a>
+      </div>
     </div>
   </header>
 
   <main>
-    <section class="wrap hero">
-      <p class="eyebrow">Fresh source-backed tech digest</p>
-      <h1>Tech stories with the receipts kept in.</h1>
-      <p>AI, developer culture, and internet infrastructure stories rewritten as quick Geekish reads, with sources linked inside every article.</p>
+    <section class="hero-band">
+      <div class="wrap hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Source-backed tech digest</p>
+          <h1>Tech stories with signal, style, and the receipts kept in.</h1>
+          <p>Geekish turns AI, gadgets, gaming, internet culture, and future-tech shifts into quick reads that feel clean, sharp, and worth coming back for.</p>
+          <div class="hero-actions">
+            <a class="primary-button" href="#latest">Start reading</a>
+            <a class="secondary-button" href="#join">Join free</a>
+          </div>
+        </div>
+        <aside class="hero-panel" aria-label="Geekish membership preview">
+          <span>Member layer</span>
+          <strong>Free now. Rewards later.</strong>
+          <p>Join to get updates only when you consent. The future points system will reward reading, logging in, and interacting daily.</p>
+        </aside>
+      </div>
     </section>
 
     <section class="wrap lead-section">
       <a class="lead-card" href="/articles/bose-auracast-headphones.html">
         <img src="/social-images-png/bose-auracast-headphones.png?v=20260928" alt="Generated illustration of over-ear headphones receiving Auracast broadcast audio in a transit lounge">
         <div class="lead-copy">
-          <span>Audio - Jax Pixel</span>
+          <span>Lead story - Audio</span>
           <h2>Bose finally starts tuning into Auracast</h2>
           <p>The Verge reports Bose's flagship headphones are getting beta Bluetooth LE Audio and Auracast support.</p>
           <strong>Read the story</strong>
@@ -101,6 +133,58 @@
       </div>
     </section>
 
+    <section id="join" class="join-band">
+      <div class="wrap join-layout">
+        <div class="join-copy">
+          <span class="eyebrow">Free membership</span>
+          <h2>Join Geekish without getting spammed.</h2>
+          <p>Create a free profile, choose whether email updates are allowed, and reserve your username before the rewards system arrives.</p>
+          <ul class="trust-list">
+            <li>Username and email must be unique.</li>
+            <li>Email notifications are opt-in only.</li>
+            <li>Rewards points are coming later.</li>
+          </ul>
+        </div>
+        <form class="join-form" data-join-form>
+          <div class="form-tabs" role="tablist" aria-label="Account action">
+            <button class="active" type="button" data-form-mode="join">Join</button>
+            <button type="button" data-form-mode="signin">Sign in</button>
+          </div>
+          <label>
+            Username
+            <input name="username" autocomplete="username" minlength="3" maxlength="24" required placeholder="geekishfan">
+          </label>
+          <label>
+            Email
+            <input name="email" type="email" autocomplete="email" required placeholder="you@example.com">
+          </label>
+          <label class="password-field">
+            Password
+            <input name="password" type="password" autocomplete="new-password" minlength="8" required placeholder="8+ characters">
+          </label>
+          <label class="check-row">
+            <input name="emailConsent" type="checkbox">
+            <span>Yes, send me Geekish email updates when new stories or rewards are ready.</span>
+          </label>
+          <button class="primary-button form-submit" type="submit">Create free profile</button>
+          <p class="form-note" data-form-note>This preview saves uniqueness checks in this browser until the production account database is connected.</p>
+        </form>
+      </div>
+    </section>
+
+    <section class="wrap feature-grid" aria-label="Upcoming Geekish areas">
+      <article id="services" class="feature-panel">
+        <span>Services</span>
+        <h2>Coming soon</h2>
+        <p>This will become the home for Geekish services, creator support, brand packages, and helpful tools once the core site is ready.</p>
+      </article>
+      <article id="rewards" class="feature-panel">
+        <span>Rewards</span>
+        <h2>Coming soon</h2>
+        <p>The future plan is daily points for reading, logging in, interacting, and supporting the community without allowing duplicate profiles.</p>
+      </article>
+    </section>
+
     <section id="social" class="wrap post-ready">
       <div>
         <span>Post-ready</span>
@@ -114,7 +198,7 @@
   <footer>
     <div class="wrap footer-inner">
       <strong>Geekish</strong>
-      <span>Updated September 28, 2026 21:43 UTC</span>
+      <span>Updated September 28, 2026 21:58 UTC</span>
     </div>
   </footer>
 </body>
