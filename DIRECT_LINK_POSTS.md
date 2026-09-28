@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Google is turning Gemini Gems into skills
+  - Article: https://thegeekish.com/articles/google-gemini-gems-skills.html
+  - Image: https://thegeekish.com/social-images-png/google-gemini-gems-skills.png?v=20260928
+  - Social copy: social-posts/google-gemini-gems-skills.md
+
+- Meta is packaging its AI stack for enterprise work
+  - Article: https://thegeekish.com/articles/meta-enterprise-ai-platform.html
+  - Image: https://thegeekish.com/social-images-png/meta-enterprise-ai-platform.png?v=20260928
+  - Social copy: social-posts/meta-enterprise-ai-platform.md
+
 - Walmart says digital shelf labels are not a personalized price machine
   - Article: https://thegeekish.com/articles/walmart-digital-shelf-labels.html
   - Image: https://thegeekish.com/social-images-png/walmart-digital-shelf-labels.png?v=20260928
