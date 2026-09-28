@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Starship's first orbital try is a giant rocket story with a clock on it
+  - Article: https://thegeekish.com/articles/starship-first-orbital-launch.html
+  - Image: https://thegeekish.com/social-images-png/starship-first-orbital-launch.png?v=20260928
+  - Social copy: social-posts/starship-first-orbital-launch.md
+
+- Parley wants decentralized chat to feel like plain old IRC
+  - Article: https://thegeekish.com/articles/parley-federated-irc-chat.html
+  - Image: https://thegeekish.com/social-images-png/parley-federated-irc-chat.png?v=20260928
+  - Social copy: social-posts/parley-federated-irc-chat.md
+
+- Nine's DDoS postmortem is a practical lesson in where filtering has to happen
+  - Article: https://thegeekish.com/articles/nine-ddos-postmortem.html
+  - Image: https://thegeekish.com/social-images-png/nine-ddos-postmortem.png?v=20260928
+  - Social copy: social-posts/nine-ddos-postmortem.md
+
 - Out of the Park Baseball is spreadsheet gaming with a heartbeat
   - Article: https://thegeekish.com/articles/out-of-the-park-baseball-sim.html
   - Image: https://thegeekish.com/social-images-png/out-of-the-park-baseball-sim.png?v=20260928
