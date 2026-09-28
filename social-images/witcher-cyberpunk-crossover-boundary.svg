@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Generated illustration of fantasy and cyberpunk game worlds separated by a glowing crossover gate with a stop marker">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset=".58" stop-color="#14532d"/><stop offset="1" stop-color="#a3e635"/></linearGradient></defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <circle cx="1050" cy="120" r="150" fill="#a3e635" opacity=".18"/>
+  <circle cx="130" cy="590" r="210" fill="#ffffff" opacity=".08"/>
+  <path d="M240 590 C370 250 540 230 640 470 C735 230 920 255 1040 590" fill="none" stroke="#a3e635" stroke-width="18" stroke-linecap="round"/><rect x="245" y="220" width="310" height="255" rx="28" fill="#14532d" stroke="#bbf7d0" stroke-width="6"/><rect x="725" y="220" width="310" height="255" rx="28" fill="#172554" stroke="#7dd3fc" stroke-width="6"/><path d="M592 305 L688 305 L688 390 L592 390 Z" fill="#0f172a" stroke="#facc15" stroke-width="8"/><path d="M625 342 L657 342" stroke="#facc15" stroke-width="8" stroke-linecap="round"/><circle cx="400" cy="340" r="58" fill="#dcfce7"/><path d="M830 315 H940 M830 365 H910" stroke="#e0f2fe" stroke-width="18" stroke-linecap="round"/>
+  <rect x="60" y="48" width="250" height="54" rx="27" fill="#ffffff" opacity=".92"/>
+  <text x="86" y="83" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="800" fill="#111827">GEEKISH</text>
+  <text x="64" y="610" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="900" fill="#e0f2fe">Crossovers have limits</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Generated illustration of Enceladus spraying icy ocean plumes into space while a small probe samples the plume trail">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101828"/><stop offset=".58" stop-color="#155e75"/><stop offset="1" stop-color="#67e8f9"/></linearGradient></defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <circle cx="1050" cy="120" r="150" fill="#67e8f9" opacity=".18"/>
+  <circle cx="130" cy="590" r="210" fill="#ffffff" opacity=".08"/>
+  <circle cx="720" cy="430" r="185" fill="#dbeafe"/><circle cx="675" cy="390" r="18" fill="#94a3b8" opacity=".7"/><circle cx="765" cy="470" r="10" fill="#94a3b8" opacity=".6"/><path d="M565 305 C425 215 360 155 300 65" stroke="#67e8f9" stroke-width="12" fill="none" stroke-linecap="round" opacity=".85"/><path d="M585 350 C405 320 260 255 120 150" stroke="#a5f3fc" stroke-width="8" fill="none" stroke-linecap="round" opacity=".7"/><path d="M820 300 C990 205 1070 155 1160 90" stroke="#67e8f9" stroke-width="10" fill="none" stroke-linecap="round" opacity=".8"/><g transform="translate(250 170) rotate(-18)"><rect x="0" y="0" width="150" height="58" rx="14" fill="#f8fafc"/><rect x="52" y="-34" width="45" height="126" rx="8" fill="#38bdf8"/><circle cx="172" cy="29" r="18" fill="#facc15"/></g>
+  <rect x="60" y="48" width="250" height="54" rx="27" fill="#ffffff" opacity=".92"/>
+  <text x="86" y="83" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="800" fill="#111827">GEEKISH</text>
+  <text x="64" y="610" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="900" fill="#f8fafc">Enceladus is calling</text>
+</svg>
