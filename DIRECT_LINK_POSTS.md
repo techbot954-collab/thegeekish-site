@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Meta Muse turns AI trust into a toy-design problem
+  - Article: https://thegeekish.com/articles/meta-muse-mascot-trust.html
+  - Image: https://thegeekish.com/social-images-png/meta-muse-mascot-trust.png?v=20260928
+  - Social copy: social-posts/meta-muse-mascot-trust.md
+
+- Tesla's Semi rollout is really a charging story
+  - Article: https://thegeekish.com/articles/tesla-semi-charging-gap.html
+  - Image: https://thegeekish.com/social-images-png/tesla-semi-charging-gap.png?v=20260928
+  - Social copy: social-posts/tesla-semi-charging-gap.md
+
+- Anthropic's White House dinner puts AI safety politics at the table
+  - Article: https://thegeekish.com/articles/anthropic-white-house-dinner.html
+  - Image: https://thegeekish.com/social-images-png/anthropic-white-house-dinner.png?v=20260928
+  - Social copy: social-posts/anthropic-white-house-dinner.md
+
 - Truecaller is taking scam checks beyond caller ID
   - Article: https://thegeekish.com/articles/truecaller-scam-checker-web.html
   - Image: https://thegeekish.com/social-images-png/truecaller-scam-checker-web.png?v=20260928
