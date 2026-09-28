@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Honor's Magic 9 Pro Max puts cinema-camera energy on a phone
+  - Article: https://thegeekish.com/articles/honor-magic-9-pro-max.html
+  - Image: https://thegeekish.com/social-images-png/honor-magic-9-pro-max.png?v=20260928
+  - Social copy: social-posts/honor-magic-9-pro-max.md
+
+- Malicious Google ads are reviving the fake tech-support freeze
+  - Article: https://thegeekish.com/articles/google-ads-scareware.html
+  - Image: https://thegeekish.com/social-images-png/google-ads-scareware.png?v=20260928
+  - Social copy: social-posts/google-ads-scareware.md
+
 - Gemini Live Avatar makes enterprise AI agents look back
   - Article: https://thegeekish.com/articles/gemini-live-avatar.html
   - Image: https://thegeekish.com/social-images-png/gemini-live-avatar.png?v=20260928
