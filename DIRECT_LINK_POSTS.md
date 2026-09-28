@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Modal Labs shows how hot AI inference has become
+  - Article: https://thegeekish.com/articles/modal-labs-inference-funding.html
+  - Image: https://thegeekish.com/social-images-png/modal-labs-inference-funding.png?v=20260928
+  - Social copy: social-posts/modal-labs-inference-funding.md
+
+- Space lasers are moving from sci-fi to power grid test
+  - Article: https://thegeekish.com/articles/star-catcher-space-laser-power.html
+  - Image: https://thegeekish.com/social-images-png/star-catcher-space-laser-power.png?v=20260928
+  - Social copy: social-posts/star-catcher-space-laser-power.md
+
+- Big Tech's anti-terrorism group has an oversight problem
+  - Article: https://thegeekish.com/articles/gifct-adviser-resignations.html
+  - Image: https://thegeekish.com/social-images-png/gifct-adviser-resignations.png?v=20260928
+  - Social copy: social-posts/gifct-adviser-resignations.md
+
 - Bose finally starts tuning into Auracast
   - Article: https://thegeekish.com/articles/bose-auracast-headphones.html
   - Image: https://thegeekish.com/social-images-png/bose-auracast-headphones.png?v=20260928
