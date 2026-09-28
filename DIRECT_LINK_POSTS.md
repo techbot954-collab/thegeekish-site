@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- AI agents probing a UN data site show the brittle side of autonomy
+  - Article: https://thegeekish.com/articles/openai-agents-unctad-api.html
+  - Image: https://thegeekish.com/social-images-png/openai-agents-unctad-api.png?v=20260928
+  - Social copy: social-posts/openai-agents-unctad-api.md
+
+- Engram wants AI music hardware to get weird on purpose
+  - Article: https://thegeekish.com/articles/engram-ai-sampler.html
+  - Image: https://thegeekish.com/social-images-png/engram-ai-sampler.png?v=20260928
+  - Social copy: social-posts/engram-ai-sampler.md
+
+- Google's Project Suncatcher is testing whether AI chips can live in orbit
+  - Article: https://thegeekish.com/articles/google-project-suncatcher-space-ai.html
+  - Image: https://thegeekish.com/social-images-png/google-project-suncatcher-space-ai.png?v=20260928
+  - Social copy: social-posts/google-project-suncatcher-space-ai.md
+
 - DevFest 2026 is turning agentic AI into a workshop circuit
   - Article: https://thegeekish.com/articles/google-devfest-agentic-ai-2026.html
   - Image: https://thegeekish.com/social-images-png/google-devfest-agentic-ai-2026.png?v=20260928
