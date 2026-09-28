@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- SiMa.ai's new valuation puts edge AI chips back in the physical world
+  - Article: https://thegeekish.com/articles/sima-ai-physical-ai-chip-valuation.html
+  - Image: https://thegeekish.com/social-images-png/sima-ai-physical-ai-chip-valuation.png?v=20260928
+  - Social copy: social-posts/sima-ai-physical-ai-chip-valuation.md
+
+- Volkswagen is turning the ID.4 into a nameplate lesson
+  - Article: https://thegeekish.com/articles/volkswagen-id-tiguan-ev.html
+  - Image: https://thegeekish.com/social-images-png/volkswagen-id-tiguan-ev.png?v=20260928
+  - Social copy: social-posts/volkswagen-id-tiguan-ev.md
+
+- The reported FBI agent-data incident is a reminder that identity is infrastructure
+  - Article: https://thegeekish.com/articles/fbi-agent-data-cyber-incident.html
+  - Image: https://thegeekish.com/social-images-png/fbi-agent-data-cyber-incident.png?v=20260928
+  - Social copy: social-posts/fbi-agent-data-cyber-incident.md
+
 - Bose is making wired earbuds feel weirdly modern again
   - Article: https://thegeekish.com/articles/bose-wired-noise-canceling-earbuds.html
   - Image: https://thegeekish.com/social-images-png/bose-wired-noise-canceling-earbuds.png?v=20260928
