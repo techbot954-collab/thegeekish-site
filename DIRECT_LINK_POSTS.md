@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Nvidia wants rogue AI agents stopped by hardware, not vibes
+  - Article: https://thegeekish.com/articles/nvidia-open-agent-safety-platform.html
+  - Image: https://thegeekish.com/social-images-png/nvidia-open-agent-safety-platform.png?v=20260928
+  - Social copy: social-posts/nvidia-open-agent-safety-platform.md
+
+- Starship reaching orbit turns the megarocket story into an operations story
+  - Article: https://thegeekish.com/articles/starship-first-orbital-launch.html
+  - Image: https://thegeekish.com/social-images-png/starship-first-orbital-launch.png?v=20260928
+  - Social copy: social-posts/starship-first-orbital-launch.md
+
 - Starlink V3 turns the satellite internet race into a launch cadence problem
   - Article: https://thegeekish.com/articles/starlink-v3-amazon-leo.html
   - Image: https://thegeekish.com/social-images-png/starlink-v3-amazon-leo.png?v=20260928
@@ -14,11 +24,6 @@
   - Article: https://thegeekish.com/articles/pnoe-self-serve-breath-testing.html
   - Image: https://thegeekish.com/social-images-png/pnoe-self-serve-breath-testing.png?v=20260928
   - Social copy: social-posts/pnoe-self-serve-breath-testing.md
-
-- Starship's first orbital try is a giant rocket story with a clock on it
-  - Article: https://thegeekish.com/articles/starship-first-orbital-launch.html
-  - Image: https://thegeekish.com/social-images-png/starship-first-orbital-launch.png?v=20260928
-  - Social copy: social-posts/starship-first-orbital-launch.md
 
 - Parley wants decentralized chat to feel like plain old IRC
   - Article: https://thegeekish.com/articles/parley-federated-irc-chat.html

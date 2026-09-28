@@ -1,7 +1,7 @@
-Starship's first orbital attempt is scheduled for today, and the real story is the clock.
+Starship reached orbit for the first time, and the real story is what comes after the spectacle.
 
-Space.com says Flight 14 is targeting 8:15 a.m. EDT / 12:15 UTC. If it reaches orbit, Starship moves from spectacle toward infrastructure.
+TechCrunch reports the flight got there even after one upper-stage Raptor engine dropped out and SpaceX briefly called off the orbital push.
 
 Read: https://thegeekish.com/articles/starship-first-orbital-launch.html
 
-Source: Space.com, SpaceX
+Source: TechCrunch, Space.com, SpaceX
