@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Out of the Park Baseball is spreadsheet gaming with a heartbeat
+  - Article: https://thegeekish.com/articles/out-of-the-park-baseball-sim.html
+  - Image: https://thegeekish.com/social-images-png/out-of-the-park-baseball-sim.png?v=20260928
+  - Social copy: social-posts/out-of-the-park-baseball-sim.md
+
+- Google Vids is putting Gemini Omni video tools in the browser
+  - Article: https://thegeekish.com/articles/gemini-omni-google-vids.html
+  - Image: https://thegeekish.com/social-images-png/gemini-omni-google-vids.png?v=20260928
+  - Social copy: social-posts/gemini-omni-google-vids.md
+
+- Made on YouTube 2026 turns creator tools into an AI control room
+  - Article: https://thegeekish.com/articles/made-on-youtube-2026-ai-tools.html
+  - Image: https://thegeekish.com/social-images-png/made-on-youtube-2026-ai-tools.png?v=20260928
+  - Social copy: social-posts/made-on-youtube-2026-ai-tools.md
+
 - Honor's Magic 9 Pro Max puts cinema-camera energy on a phone
   - Article: https://thegeekish.com/articles/honor-magic-9-pro-max.html
   - Image: https://thegeekish.com/social-images-png/honor-magic-9-pro-max.png?v=20260928
