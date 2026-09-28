@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Starlink V3 turns the satellite internet race into a launch cadence problem
+  - Article: https://thegeekish.com/articles/starlink-v3-amazon-leo.html
+  - Image: https://thegeekish.com/social-images-png/starlink-v3-amazon-leo.png?v=20260928
+  - Social copy: social-posts/starlink-v3-amazon-leo.md
+
+- NASA's Cosmic Latte APOD makes the universe feel weirdly cozy
+  - Article: https://thegeekish.com/articles/cosmic-latte-apod.html
+  - Image: https://thegeekish.com/social-images-png/cosmic-latte-apod.png?v=20260928
+  - Social copy: social-posts/cosmic-latte-apod.md
+
+- PNOE wants lab-style breath testing to work without the lab ritual
+  - Article: https://thegeekish.com/articles/pnoe-self-serve-breath-testing.html
+  - Image: https://thegeekish.com/social-images-png/pnoe-self-serve-breath-testing.png?v=20260928
+  - Social copy: social-posts/pnoe-self-serve-breath-testing.md
+
 - Starship's first orbital try is a giant rocket story with a clock on it
   - Article: https://thegeekish.com/articles/starship-first-orbital-launch.html
   - Image: https://thegeekish.com/social-images-png/starship-first-orbital-launch.png?v=20260928
