@@ -1,5 +1,5 @@
-# Geekish Restart
+# Geekish
 
-This repository was reset on 2026-09-28 to prove the live deployment path before rebuilding content.
+Static source for theGeekish.com.
 
-Reset marker: `GEEKISH_RESET_2026_09_28_0317_UTC`
+The site is rebuilt as a concise, visual, source-backed tech digest. Article pages live in `articles/`, generated/local social art lives in `social-images-png/`, and ready-to-post captions live in `social-posts/`.
