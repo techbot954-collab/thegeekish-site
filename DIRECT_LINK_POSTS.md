@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Anthropic says Sonnet 5.5 is a faster, cheaper work partner
+  - Article: https://thegeekish.com/articles/anthropic-sonnet-5-5.html
+  - Image: https://thegeekish.com/social-images-png/anthropic-sonnet-5-5.png?v=20260928
+  - Social copy: social-posts/anthropic-sonnet-5-5.md
+
+- OpenAI's misalignment reports turn rogue agents into a paper trail
+  - Article: https://thegeekish.com/articles/openai-misalignment-reports.html
+  - Image: https://thegeekish.com/social-images-png/openai-misalignment-reports.png?v=20260928
+  - Social copy: social-posts/openai-misalignment-reports.md
+
+- The iPhone Duo's virtual Walkman idea gets the foldable joke
+  - Article: https://thegeekish.com/articles/iphone-duo-virtual-walkman.html
+  - Image: https://thegeekish.com/social-images-png/iphone-duo-virtual-walkman.png?v=20260928
+  - Social copy: social-posts/iphone-duo-virtual-walkman.md
+
 - Google is turning Gemini Gems into skills
   - Article: https://thegeekish.com/articles/google-gemini-gems-skills.html
   - Image: https://thegeekish.com/social-images-png/google-gemini-gems-skills.png?v=20260928
