@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Bose finally starts tuning into Auracast
+  - Article: https://thegeekish.com/articles/bose-auracast-headphones.html
+  - Image: https://thegeekish.com/social-images-png/bose-auracast-headphones.png?v=20260928
+  - Social copy: social-posts/bose-auracast-headphones.md
+
+- Boox is making the e-reader tiny enough to tag along
+  - Article: https://thegeekish.com/articles/boox-picco-ereader.html
+  - Image: https://thegeekish.com/social-images-png/boox-picco-ereader.png?v=20260928
+  - Social copy: social-posts/boox-picco-ereader.md
+
 - AMD is buying World Labs to get closer to world-model AI
   - Article: https://thegeekish.com/articles/amd-world-labs-acquisition.html
   - Image: https://thegeekish.com/social-images-png/amd-world-labs-acquisition.png?v=20260928
