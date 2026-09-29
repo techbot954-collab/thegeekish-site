@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Peak XV is making its Surge seed checks bigger
+  - Article: https://thegeekish.com/articles/peak-xv-surge-12-seed-cohort.html
+  - Image: https://thegeekish.com/social-images-png/peak-xv-surge-12-seed-cohort.png?v=20260929
+  - Social copy: social-posts/peak-xv-surge-12-seed-cohort.md
+
+- California is putting public-official memecoins off limits
+  - Article: https://thegeekish.com/articles/california-public-official-memecoin-ban.html
+  - Image: https://thegeekish.com/social-images-png/california-public-official-memecoin-ban.png?v=20260929
+  - Social copy: social-posts/california-public-official-memecoin-ban.md
+
+- Ayaneo's Konkr Pocket Block makes retro handhelds cheaper
+  - Article: https://thegeekish.com/articles/ayaneo-konkr-pocket-block.html
+  - Image: https://thegeekish.com/social-images-png/ayaneo-konkr-pocket-block.png?v=20260929
+  - Social copy: social-posts/ayaneo-konkr-pocket-block.md
+
 - OpenAI reportedly shelved a model over safety concerns
   - Article: https://thegeekish.com/articles/openai-model-safety-pause.html
   - Image: https://thegeekish.com/social-images-png/openai-model-safety-pause.png?v=20260928
