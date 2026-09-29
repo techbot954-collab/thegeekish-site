@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Google's Future Vision XPRIZE winner turns AI into a hopeful film pitch
+  - Article: https://thegeekish.com/articles/google-future-vision-xprize-gifted.html
+  - Image: https://thegeekish.com/social-images-png/google-future-vision-xprize-gifted.png?v=20260929
+  - Social copy: social-posts/google-future-vision-xprize-gifted.md
+
+- Gemini 3.8 Flash builders are turning prompts into little STEM worlds
+  - Article: https://thegeekish.com/articles/gemini-38-flash-builder-showcase.html
+  - Image: https://thegeekish.com/social-images-png/gemini-38-flash-builder-showcase.png?v=20260929
+  - Social copy: social-posts/gemini-38-flash-builder-showcase.md
+
 - Nothing's Headphone 1 Pro aims at studio ears
   - Article: https://thegeekish.com/articles/nothing-headphone-1-pro.html
   - Image: https://thegeekish.com/social-images-png/nothing-headphone-1-pro.png?v=20260929
