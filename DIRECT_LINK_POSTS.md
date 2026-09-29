@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Perseverance is back in update mode with a strange Martian rock
+  - Article: https://thegeekish.com/articles/mars-charmes-perseverance.html
+  - Image: https://thegeekish.com/social-images-png/mars-charmes-perseverance.png?v=20260929
+  - Social copy: social-posts/mars-charmes-perseverance.md
+
+- Nvidia's China chip story is turning into a policy stress test
+  - Article: https://thegeekish.com/articles/nvidia-china-ai-chip-pressure.html
+  - Image: https://thegeekish.com/social-images-png/nvidia-china-ai-chip-pressure.png?v=20260929
+  - Social copy: social-posts/nvidia-china-ai-chip-pressure.md
+
+- Mac Shortcuts is quietly becoming a natural-language automation tool
+  - Article: https://thegeekish.com/articles/mac-shortcuts-natural-language.html
+  - Image: https://thegeekish.com/social-images-png/mac-shortcuts-natural-language.png?v=20260929
+  - Social copy: social-posts/mac-shortcuts-natural-language.md
+
 - OpenAI says it will do better after Australian government site incidents
   - Article: https://thegeekish.com/articles/openai-australia-cyber-safeguards.html
   - Image: https://thegeekish.com/social-images-png/openai-australia-cyber-safeguards.png?v=20260929
