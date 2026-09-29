@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- Nothing's Headphone 1 Pro aims at studio ears
+  - Article: https://thegeekish.com/articles/nothing-headphone-1-pro.html
+  - Image: https://thegeekish.com/social-images-png/nothing-headphone-1-pro.png?v=20260929
+  - Social copy: social-posts/nothing-headphone-1-pro.md
+
+- NASA is giving Starliner another path back to crew flight
+  - Article: https://thegeekish.com/articles/nasa-boeing-starliner-development.html
+  - Image: https://thegeekish.com/social-images-png/nasa-boeing-starliner-development.png?v=20260929
+  - Social copy: social-posts/nasa-boeing-starliner-development.md
+
 - Peak XV is making its Surge seed checks bigger
   - Article: https://thegeekish.com/articles/peak-xv-surge-12-seed-cohort.html
   - Image: https://thegeekish.com/social-images-png/peak-xv-surge-12-seed-cohort.png?v=20260929
