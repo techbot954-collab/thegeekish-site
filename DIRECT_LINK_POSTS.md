@@ -1,5 +1,15 @@
 # Direct-link social posting index
 
+- OpenAI says it will do better after Australian government site incidents
+  - Article: https://thegeekish.com/articles/openai-australia-cyber-safeguards.html
+  - Image: https://thegeekish.com/social-images-png/openai-australia-cyber-safeguards.png?v=20260929
+  - Social copy: social-posts/openai-australia-cyber-safeguards.md
+
+- AI hacking risk is landing hardest on smaller targets
+  - Article: https://thegeekish.com/articles/ai-hacking-local-cyber-risk.html
+  - Image: https://thegeekish.com/social-images-png/ai-hacking-local-cyber-risk.png?v=20260929
+  - Social copy: social-posts/ai-hacking-local-cyber-risk.md
+
 - Google's Future Vision XPRIZE winner turns AI into a hopeful film pitch
   - Article: https://thegeekish.com/articles/google-future-vision-xprize-gifted.html
   - Image: https://thegeekish.com/social-images-png/google-future-vision-xprize-gifted.png?v=20260929
