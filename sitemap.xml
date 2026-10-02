@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://thegeekish.com/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-02</lastmod>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/apple-macos-full-disk-ai-agents.html</loc>
+    <lastmod>2026-10-02</lastmod>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/sqldoom-database-renderer.html</loc>
+    <lastmod>2026-10-02</lastmod>
+  </url>
+  <url>
+    <loc>https://thegeekish.com/articles/meta-muse-open-source-gadgets.html</loc>
+    <lastmod>2026-10-02</lastmod>
   </url>
   <url>
     <loc>https://thegeekish.com/articles/mars-charmes-perseverance.html</loc>

@@ -1,5 +1,20 @@
 # Direct-link social posting index
 
+- Apple is tightening Mac disk access as AI agents raise the stakes
+  - Article: https://thegeekish.com/articles/apple-macos-full-disk-ai-agents.html
+  - Image: https://thegeekish.com/social-images-png/apple-macos-full-disk-ai-agents.png?v=20261002
+  - Social copy: social-posts/apple-macos-full-disk-ai-agents.md
+
+- Someone made Doom run through SQL because of course they did
+  - Article: https://thegeekish.com/articles/sqldoom-database-renderer.html
+  - Image: https://thegeekish.com/social-images-png/sqldoom-database-renderer.png?v=20261002
+  - Social copy: social-posts/sqldoom-database-renderer.md
+
+- Meta's Muse AI gadget push is getting an open-source maker layer
+  - Article: https://thegeekish.com/articles/meta-muse-open-source-gadgets.html
+  - Image: https://thegeekish.com/social-images-png/meta-muse-open-source-gadgets.png?v=20261002
+  - Social copy: social-posts/meta-muse-open-source-gadgets.md
+
 - Perseverance is back in update mode with a strange Martian rock
   - Article: https://thegeekish.com/articles/mars-charmes-perseverance.html
   - Image: https://thegeekish.com/social-images-png/mars-charmes-perseverance.png?v=20260929
